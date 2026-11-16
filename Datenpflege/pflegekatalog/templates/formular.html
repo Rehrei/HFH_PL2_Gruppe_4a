@@ -1,0 +1,150 @@
+{% extends "layout.html" %}
+{% block title %}{{ 'Neu anlegen' if not datensatz_id else werte.name }} · Pflegekatalog{% endblock %}
+{% block inhalt %}
+<p class="zurueck"><a href="{{ url_for('liste') }}">Zurück zur Suche</a></p>
+<h1>{{ 'Neue Einrichtung' if not datensatz_id else 'Einrichtung bearbeiten' }}</h1>
+
+<form class="formular" method="post">
+  <input type="hidden" name="koordinaten_herkunft" value="{{ werte.koordinaten_herkunft }}">
+  <input type="hidden" name="quelle" value="{{ werte.quelle }}">
+  <input type="hidden" name="angelegt_am" value="{{ werte.angelegt_am }}">
+  <input type="hidden" name="geaendert_am" value="{{ werte.geaendert_am }}">
+  <fieldset>
+    <legend>Einrichtung</legend>
+    <label>Art
+      <select name="typ" required>
+        {% for schluessel, name in typen %}
+          <option value="{{ schluessel }}" {% if werte.typ == schluessel %}selected{% endif %}>{{ name }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <label class="breit">Name
+      <input name="name" value="{{ werte.name }}" required>
+    </label>
+    <label class="breit">Ansprechpartner
+      <input name="ansprechpartner" value="{{ werte.ansprechpartner }}">
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Anschrift</legend>
+    <label class="breit">Straße und Hausnummer
+      <input name="strasse" value="{{ werte.strasse }}">
+    </label>
+    <label>Postleitzahl
+      <input id="plz" name="plz" value="{{ werte.plz }}" inputmode="numeric" maxlength="5" pattern="[0-9]{5}">
+    </label>
+    <label>Ort / Stadt
+      <input id="stadt" name="stadt" value="{{ werte.stadt }}">
+    </label>
+    <label>Bundesland
+      <select id="bundesland" name="bundesland">
+        <option value="">— aus der PLZ —</option>
+        {% for land in bundeslaender %}
+          <option value="{{ land }}" {% if werte.bundesland == land %}selected{% endif %}>{{ land }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <label>Landkreis
+      <input id="landkreis" name="landkreis" value="{{ werte.landkreis }}">
+    </label>
+    <label>Gemeinde
+      <input id="gemeinde" name="gemeinde" value="{{ werte.gemeinde }}">
+    </label>
+    <p class="feldaktion">
+      <button type="button" id="plz-fuellen">Kreis und Gemeinde aus der PLZ setzen</button>
+      <span id="plz-hinweis"></span>
+    </p>
+  </fieldset>
+
+  <fieldset>
+    <legend>Kontakt und Angebot</legend>
+    <label>Telefon
+      <input name="telefon" value="{{ werte.telefon }}">
+    </label>
+    <label>E-Mail
+      <input name="email" value="{{ werte.email }}">
+    </label>
+    <label class="breit">Internetseite
+      <input name="web" value="{{ werte.web }}">
+    </label>
+    <label class="breit">Öffnungszeiten
+      <textarea name="oeffnungszeiten" rows="3">{{ werte.oeffnungszeiten }}</textarea>
+    </label>
+    <label class="breit">Angebotene Beratungsleistungen
+      <textarea name="beratungsleistungen" rows="3">{{ werte.beratungsleistungen }}</textarea>
+    </label>
+    <label class="breit">Zuständigkeitsbereich
+      <textarea name="zustaendigkeitsbereich" rows="3">{{ werte.zustaendigkeitsbereich }}</textarea>
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Geokoordinaten</legend>
+    <label>Breitengrad
+      <input id="breitengrad" name="breitengrad" value="{{ werte.breitengrad }}" inputmode="decimal">
+    </label>
+    <label>Längengrad
+      <input id="laengengrad" name="laengengrad" value="{{ werte.laengengrad }}" inputmode="decimal">
+    </label>
+    <p class="feldaktion">
+      {% if werte.koordinaten_herkunft == 'plz' %}
+        Ungefährer Punkt der Postleitzahl. Eine Änderung gilt als manuelle Koordinate.
+      {% elif werte.koordinaten_herkunft == 'manuell' %}
+        Von Hand gesetzt. Ein späterer Import überschreibt das nicht.
+      {% else %}
+        Leer lassen oder den Punkt der Postleitzahl übernehmen.
+      {% endif %}
+      {% if werte.breitengrad and werte.laengengrad %}
+        <a href="https://www.openstreetmap.org/?mlat={{ werte.breitengrad }}&mlon={{ werte.laengengrad }}#map=16/{{ werte.breitengrad }}/{{ werte.laengengrad }}" target="_blank" rel="noreferrer">In der Karte öffnen</a>
+      {% endif %}
+    </p>
+  </fieldset>
+
+  <div class="aktionen">
+    <button type="submit">Speichern</button>
+    {% if datensatz_id %}
+      <span class="meta">Quelle: {{ werte.quelle or 'manuell' }} · angelegt {{ werte.angelegt_am }} · geändert {{ werte.geaendert_am }}</span>
+    {% endif %}
+  </div>
+</form>
+
+{% if datensatz_id %}
+<form class="loeschen" method="post" action="{{ url_for('loeschen', einrichtung_id=datensatz_id) }}" onsubmit="return confirm('Datensatz wirklich löschen?');">
+  <button type="submit">Löschen</button>
+</form>
+{% endif %}
+
+<script>
+document.getElementById("plz-fuellen").addEventListener("click", async () => {
+  const hinweis = document.getElementById("plz-hinweis");
+  const plz = document.getElementById("plz").value.trim();
+  const ort = document.getElementById("stadt").value.trim();
+  if (!/^\d{5}$/.test(plz)) {
+    hinweis.textContent = "Erst eine fünfstellige PLZ eintragen.";
+    return;
+  }
+  const antwort = await fetch(`/api/plz/${plz}?ort=${encodeURIComponent(ort)}`);
+  const daten = await antwort.json();
+  const setzen = (id, wert) => {
+    if (!wert) return;
+    document.getElementById(id).value = wert;
+  };
+  setzen("bundesland", daten.bundesland);
+  setzen("landkreis", daten.landkreis);
+  setzen("gemeinde", daten.gemeinde);
+  if (!document.getElementById("stadt").value && daten.gemeinde) {
+    document.getElementById("stadt").value = daten.gemeinde;
+  }
+  const breite = document.getElementById("breitengrad");
+  const laenge = document.getElementById("laengengrad");
+  if (!breite.value && !laenge.value && daten.breitengrad != null) {
+    breite.value = daten.breitengrad;
+    laenge.value = daten.laengengrad;
+  }
+  hinweis.textContent = daten.gemeinde
+    ? "Gemeinde übernommen."
+    : "Keine Gemeinde, deren Name zum Ort passt. Landkreis nur, wenn er eindeutig ist.";
+});
+</script>
+{% endblock %}

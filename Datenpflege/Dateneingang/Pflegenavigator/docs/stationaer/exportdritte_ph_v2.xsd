@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns="http://www.pflege-navigator.de/export-dritte/pflegeheim/v2"
+  targetNamespace="http://www.pflege-navigator.de/export-dritte/pflegeheim/v2" 
+  elementFormDefault="qualified" attributeFormDefault="unqualified">
+  
+  <xs:annotation>
+    <xs:documentation>
+      XML-Schema zum Export an Dritte der Pflegeheimdaten
+      
+      Historie:
+      
+      Version 1: Erstversion der Spezifikation
+      Version 2: Berücksichtigung der Ausbildungskosten in teilstationärer Pflege
+    </xs:documentation>
+    <xs:appinfo>Version 2</xs:appinfo>
+  </xs:annotation>
+  
+  <!-- Wurzel-Element -->
+  <xs:element name="stationaer">
+    <xs:complexType>
+      <xs:sequence>
+      
+        <!-- Pflegeheim -->
+        <xs:element name="einrichtung" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              
+              <!-- Adressdaten -->
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="strasse_hnr" type="xs:string"/>
+              <xs:element name="plz" type="xs:string"/>
+              <xs:element name="ort" type="xs:string"/>
+              <xs:element name="telefon" type="xs:string" minOccurs="0"/>
+              <xs:element name="email" type="xs:string" minOccurs="0"/>
+              <xs:element name="web" type="xs:string" minOccurs="0"/>
+                    
+              <!-- Preis -->
+              <xs:element name="preis" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    
+                    <xs:element name="pflegeart" type="xs:string"/>
+                    <xs:element name="schwerpunkt" type="xs:string"/>
+                    
+                    <xs:element name="pflegegrad" type="xs:int"/>
+                    <xs:element name="pflegesatz" type="xs:string"/>
+                    
+                    <xs:element name="ausbkosten" type="xs:string" minOccurs="0">
+                      <xs:annotation>
+                        <xs:documentation>
+                          Ausbildungskosten bzw. -umlage, nur bei teilstationären
+                          Pflegeeinrichtungen
+                        </xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    
+                    <xs:element name="eee" type="xs:string" minOccurs="0">
+                      <xs:annotation>
+                        <xs:documentation>
+                          Einrichtungseinheitlicher Eigenanteil, nur bei vollstationären
+                          Pflegeeinrichtungen
+                        </xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    
+                    <xs:element name="fahrtkosten" type="xs:string" minOccurs="0">
+                      <xs:annotation>
+                        <xs:documentation>
+                          Nur bei teilstationärer Pflege (Tag- und Nachtpflege)
+                        </xs:documentation>
+                      </xs:annotation>
+                    </xs:element>
+                    
+                    <xs:element name="investitionskosten_min" type="xs:string" minOccurs="0"/>
+                    <xs:element name="investitionskosten_max" type="xs:string" minOccurs="0"/>
+                    
+                    <xs:element name="uv" type="xs:string" minOccurs="0"/>
+                    
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <!-- Ende Preis -->
+              
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <!-- Ende Pflegeheim -->
+        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <!-- Ende Wurzel-Element -->
+  
+</xs:schema>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Pflegekatalog{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header>
+    <a class="marke" href="{{ url_for('liste') }}">Pflegekatalog</a>
+    <nav>
+      <a href="{{ url_for('neu') }}">Neu anlegen</a>
+    </nav>
+  </header>
+  <main>
+    {% with meldungen = get_flashed_messages(with_categories=true) %}
+      {% for kategorie, text in meldungen %}
+        <p class="hinweis {{ kategorie }}">{{ text }}</p>
+      {% endfor %}
+    {% endwith %}
+    {% block inhalt %}{% endblock %}
+  </main>
+  <footer>
+    PLZ-Zuordnung und ungefähre Koordinaten:
+    <a href="https://www.geonames.org/">GeoNames</a>,
+    <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+  </footer>
+</body>
+</html>

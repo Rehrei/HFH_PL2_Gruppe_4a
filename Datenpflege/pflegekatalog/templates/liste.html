@@ -1,0 +1,104 @@
+{% extends "layout.html" %}
+{% block title %}Suche · Pflegekatalog{% endblock %}
+{% block inhalt %}
+<section class="kopfzeile">
+  <div>
+    <h1>Einrichtungen</h1>
+    <p class="menge">{{ bestand|de }} Datensätze</p>
+  </div>
+  <ul class="arten">
+    {% for schluessel, name in typen %}
+      <li><span class="art art-{{ schluessel }}">{{ name }}</span> {{ zaehlung.get(schluessel, 0)|de }}</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<form class="suche" method="get" action="{{ url_for('liste') }}">
+  <label>Suche
+    <input name="q" value="{{ suche }}" placeholder="Name, Ort, Telefon, Ansprechpartner">
+  </label>
+  <label>Art
+    <select name="typ">
+      <option value="">alle</option>
+      {% for schluessel, name in typen %}
+        <option value="{{ schluessel }}" {% if typ == schluessel %}selected{% endif %}>{{ name }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>Bundesland
+    <select name="bundesland">
+      <option value="">alle</option>
+      {% for land in bundeslaender %}
+        <option value="{{ land }}" {% if bundesland == land %}selected{% endif %}>{{ land }}</option>
+      {% endfor %}
+    </select>
+  </label>
+  <label>PLZ
+    <input name="plz" value="{{ plz }}" inputmode="numeric" maxlength="5">
+  </label>
+  <button type="submit">Filtern</button>
+</form>
+
+{% if zeilen %}
+<p class="menge">{{ gesamt|de }} Treffer, Seite {{ seite }} von {{ seiten }}</p>
+<div class="tabelle">
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Art</th>
+        <th>PLZ</th>
+        <th>Stadt</th>
+        <th>Gemeinde</th>
+        <th>Landkreis</th>
+        <th>Bundesland</th>
+        <th>Telefon</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for zeile in zeilen %}
+        <tr>
+          <td><a href="{{ url_for('bearbeiten', einrichtung_id=zeile['id']) }}">{{ zeile['name'] }}</a></td>
+          <td><span class="art art-{{ zeile['typ'] }}">{{ typ_name[zeile['typ']] }}</span></td>
+          <td>{{ zeile['plz'] }}</td>
+          <td>{{ zeile['stadt'] or '—' }}</td>
+          <td>{{ zeile['gemeinde'] or '—' }}</td>
+          <td>{{ zeile['landkreis'] or '—' }}</td>
+          <td>{{ zeile['bundesland'] or '—' }}</td>
+          <td>{{ zeile['telefon'] or '—' }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+<nav class="seiten">
+  {% if seite > 1 %}
+    <a href="{{ url_for('liste', q=suche, typ=typ, bundesland=bundesland, plz=plz, seite=seite-1) }}">Zurück</a>
+  {% endif %}
+  {% if seite < seiten %}
+    <a href="{{ url_for('liste', q=suche, typ=typ, bundesland=bundesland, plz=plz, seite=seite+1) }}">Weiter</a>
+  {% endif %}
+</nav>
+{% else %}
+<p class="leer">Keine Datensätze für diese Filter. Exporte einlesen oder eine Einrichtung von Hand anlegen.</p>
+{% endif %}
+
+<details class="import">
+  <summary>Exporte einlesen</summary>
+  <p>
+    Eingelesen werden die Pflege-Navigator-Dateien aus dem Ordner Dateneingang.
+    Preise und Verträge bleiben draußen. Kreis und Gemeinde kommen aus der Postleitzahl,
+    die Stadt aus dem Ort in der Datei. Kurzzeitpflege landet beim Pflegeheim.
+    Bietet eine Einrichtung zusätzlich Tagespflege, entsteht ein zweiter Datensatz.
+  </p>
+  <p>
+    Ein erneuter Import aktualisiert Telefon, E-Mail und Website.
+    Ansprechpartner, Öffnungszeiten, Beratungsleistungen, Zuständigkeitsbereich
+    und von Hand gesetzte Koordinaten bleiben. Schon gesetzte Kreise und Gemeinden
+    werden nicht überschrieben, leere werden nachgetragen.
+  </p>
+  <form method="post" action="{{ url_for('import_starten') }}" onsubmit="this.querySelector('button').disabled = true; this.querySelector('button').textContent = 'Wird eingelesen …';">
+    <button type="submit">Exporte jetzt einlesen</button>
+  </form>
+</details>
+{% endblock %}

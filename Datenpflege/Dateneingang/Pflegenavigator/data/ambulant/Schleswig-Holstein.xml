@@ -1,0 +1,5730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ambulant xsi:schemaLocation="http://www.pflege-navigator.de/export-dritte/pflegedienst/v1 exportdritte_pd_v1.xsd" xmlns="http://www.pflege-navigator.de/export-dritte/pflegedienst/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<einrichtung>
+		<name>Rosenhof I Ambulanter Pflegedienst</name>
+		<strasse_hnr>Hoisdorfer Lanienweg  </strasse_hnr>
+		<plz>22927</plz>
+		<ort>Großhansdorf</ort>
+		<telefon>04102 69860</telefon>
+		<email>hauspflege.grosshansdorf1@rosenhof.de</email>
+		<web>http://www.rosenhof.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Langer GmbH</name>
+		<strasse_hnr>Lauenburger Str. 31 </strasse_hnr>
+		<plz>21493</plz>
+		<ort>Schwarzenbek</ort>
+		<telefon>04151 6552</telefon>
+		<email>info@pflegedienst-langer.de</email>
+		<web>http://www.pflegedienst-langer.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Hellrung GmbH</name>
+		<strasse_hnr>Klaus-Groth Str. 15 </strasse_hnr>
+		<plz>24534</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 92110</telefon>
+		<email>info@pflegedienst-hellrung.de</email>
+		<web>http://www.pflegedienst-hellrung.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Hauskrankenpflege Ingeborg Guckel GmbH</name>
+		<strasse_hnr>Mittelweg 6 </strasse_hnr>
+		<plz>25474</plz>
+		<ort>Hasloh</ort>
+		<telefon>04106 2900</telefon>
+		<email>ingeborg@pflegedienst-guckel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Hauskrankenpflege Katrin Stolz</name>
+		<strasse_hnr>Ahrensfelder Weg 5 </strasse_hnr>
+		<plz>22927</plz>
+		<ort>Großhansdorf</ort>
+		<telefon>04102 983757</telefon>
+		<email>pflegedienststolz@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Krankenpflege Neustadt</name>
+		<strasse_hnr>Vor dem Kremper Tor 13 </strasse_hnr>
+		<plz>23730</plz>
+		<ort>Neustadt</ort>
+		<telefon>04561 2957</telefon>
+		<email>info@ambulante-pflege-neustadt.de</email>
+		<web>http://www.ambulante-pflege-neustadt.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>KBS Kranken &amp; Behinderten Service GmbH</name>
+		<strasse_hnr>Füchtingstr. 19 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 8711300</telefon>
+		<email>kbs@kbs-im-www.de</email>
+		<web>http://www.kbs-im-www.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Altenpflege Anja &amp;Peter Korn</name>
+		<strasse_hnr>Möllner Str. 20A </strasse_hnr>
+		<plz>22958</plz>
+		<ort>Kuddewörde</ort>
+		<telefon>04154 3984</telefon>
+		<email>korn-kdw@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>DAHEIM-Pflegedienst GmbH</name>
+		<strasse_hnr>Geniner Ufer 3 </strasse_hnr>
+		<plz>23560</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 41311</telefon>
+		<email>service@daheim-luebeck.de</email>
+		<web>http://www.daheim-luebeck.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Häusliche Krankenpflege Peter Mester</name>
+		<strasse_hnr>Landkirchener Weg 30 </strasse_hnr>
+		<plz>23769</plz>
+		<ort>Fehmarn</ort>
+		<telefon>04371 2264</telefon>
+		<email>peter.mester@t-online.de</email>
+		<web>http://www.mester-fehmarn.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>D &amp; S Unsere Pflege GmbH</name>
+		<strasse_hnr>am Exer 16 </strasse_hnr>
+		<plz>24340</plz>
+		<ort>Eckernförde</ort>
+		<telefon>04351 752626</telefon>
+		<email>unserepflege@freenet.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Krankenpflege Katrin Kinzner-Boua</name>
+		<strasse_hnr>Meyerhoffstr. 13 </strasse_hnr>
+		<plz>23758</plz>
+		<ort>Oldenburg</ort>
+		<telefon>04361 2983</telefon>
+		<email>Krankenpflege-K-K-Boua@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflegedienste Johannes Carstensen GmbH</name>
+		<strasse_hnr>Löwenstedter Str. 18 </strasse_hnr>
+		<plz>25855</plz>
+		<ort>Haselund</ort>
+		<telefon>04843 1224</telefon>
+		<email>info@apjc.de</email>
+		<web>http://www.apjc.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>HPV Helfen, Pflegen und Versorgen Der ambulante Pflegedienst mit dem Rundum-Konzept</name>
+		<strasse_hnr>Dorfstr. 57 </strasse_hnr>
+		<plz>24107</plz>
+		<ort>Ottendorf</ort>
+		<telefon>0431 5469210</telefon>
+		<email>info@hpv-kiel.de</email>
+		<web>http://www.hpv-kiel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Die Brücke Sozialpsychiatrischer Pflegedienst</name>
+		<strasse_hnr>Wisbystr. 2 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 611690</telefon>
+		<email>spk@diebruecke-luebeck.de</email>
+		<web>http://www.diebruecke-luebeck.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AKA-Pflegedienst GmbH</name>
+		<strasse_hnr>Elisabethstraße 30 </strasse_hnr>
+		<plz>23701</plz>
+		<ort>Eutin</ort>
+		<telefon>04521 709900</telefon>
+		<email>info@aka-pflegedienst.de</email>
+		<web>https://aka-pflegedienst.de/Startseite</web>
+	</einrichtung>
+	<einrichtung>
+		<name>P.A.P. Ihr Persönlicher Pflegedienst für Bad Bramstedt und Umgebung</name>
+		<strasse_hnr>Stedingweg 3 </strasse_hnr>
+		<plz>24576</plz>
+		<ort>Bad Bramstedt</ort>
+		<telefon>04192 8219</telefon>
+		<email>Info@pap-pflegedienst.de</email>
+		<web>http://www.pap-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege-mobil GmbH</name>
+		<strasse_hnr>Bahnhofstraße 10 </strasse_hnr>
+		<plz>24966</plz>
+		<ort>Sörup</ort>
+		<telefon>04635 293844</telefon>
+		<email>info@pflege-mobil-gmbh.de</email>
+		<web>http://www.pflege-mobil.info</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Krankenpflegeteam Kiel GmbH</name>
+		<strasse_hnr>Ringstraße 19 </strasse_hnr>
+		<plz>24114</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 2604060</telefon>
+		<email>info@krankenpflegeteam-kiel.de</email>
+		<web>http://www.krankenpflegeteam-kiel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Privater Mobiler Pflegedienst &quot;Die Eulen&quot;</name>
+		<strasse_hnr>Kätnersredder 83 </strasse_hnr>
+		<plz>24232</plz>
+		<ort>Schönkirchen</ort>
+		<telefon>0431 2399920</telefon>
+		<email>kontakt@pflegedienst-eulen.de</email>
+		<web>http://www.pflegedienst-eulen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>M. H. P. Mobile häusliche Pflege GmbH</name>
+		<strasse_hnr>Heeder Ring 12 </strasse_hnr>
+		<plz>25355</plz>
+		<ort>Heede</ort>
+		<telefon>04123 8109</telefon>
+		<email>info@mhp-pflegedienst.de</email>
+		<web>http://mhp-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam Bliev to Huus</name>
+		<strasse_hnr>Saarbrückenstr. 179 </strasse_hnr>
+		<plz>24113</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 6473730</telefon>
+		<email>bliev_to_huus@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HSK Häusliche Senioren- &amp; Krankenbetreuung Peter Tappe</name>
+		<strasse_hnr>Holzkamp 27 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 43535</telefon>
+		<email>hsk-pflege@foni.net</email>
+		<web>http://www.hsk-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Lübecker Pflegedienst</name>
+		<strasse_hnr>Segeberger Straße 3-5 </strasse_hnr>
+		<plz>23617</plz>
+		<ort>Stockelsdorf</ort>
+		<telefon>0451 88052590</telefon>
+		<email>luebecker-pflegedienst@t-online.de</email>
+		<web>http://www.luebecker-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Mobiles Pflegeteam Rademakers GmbH</name>
+		<strasse_hnr>Schulstraße 6a </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 7221143</telefon>
+		<email>info@mobilespflegeteam.com</email>
+		<web>http://www.mobilespflegeteam.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeinitiative Nord GbR</name>
+		<strasse_hnr>Bahnhofstr. 55 </strasse_hnr>
+		<plz>24582</plz>
+		<ort>Bordesholm</ort>
+		<telefon>04322 4209</telefon>
+		<email>pflege@pflegeinitiative-nord.de</email>
+		<web>http://www.pflegeinitiative-nord.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>KBS Pflegeteam Sabine Marx GmbH</name>
+		<strasse_hnr>Dorfstr. 49 </strasse_hnr>
+		<plz>25364</plz>
+		<ort>Osterhorn</ort>
+		<telefon>04127 9501</telefon>
+		<email>info@kbs-ambulanz.de</email>
+		<web>http://www.kbs.li</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Tabea GmbH &amp; Co.KG</name>
+		<strasse_hnr>Süderende 27 </strasse_hnr>
+		<plz>24803</plz>
+		<ort>Erfde</ort>
+		<telefon>04333 1239</telefon>
+		<email>pflegeteam-tabea@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Häusliche Alten- und Krankenpflege für Glückstadt und Kreis Steinburg</name>
+		<strasse_hnr>Steinburgstr. 1 </strasse_hnr>
+		<plz>25348</plz>
+		<ort>Glückstadt</ort>
+		<telefon>04124 4178</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>DAS AMBULANTE PFLEGETEAM DAP GMBH</name>
+		<strasse_hnr>Deichstr. 6 </strasse_hnr>
+		<plz>25336</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 3166</telefon>
+		<email>info@das-ambulante-pflegeteam.de</email>
+		<web>http://www.das-ambulante-pflegeteam.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Medicare GmbH &amp; Co. KG</name>
+		<strasse_hnr>Moordamm 2 </strasse_hnr>
+		<plz>25474</plz>
+		<ort>Ellerbek</ort>
+		<telefon>04101 770353</telefon>
+		<email>info@medicare-pflege.com</email>
+		<web>http://www.medicare-pflege.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegezentrum Nord gGmbH</name>
+		<strasse_hnr>Pfauenaugenhof 2 </strasse_hnr>
+		<plz>24941</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 141050</telefon>
+		<email>info@apn-flensburg.de</email>
+		<web>http://www.apn-flensburg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Meichner</name>
+		<strasse_hnr>Willy-Brandt-Ufer 10 </strasse_hnr>
+		<plz>24143</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 260680</telefon>
+		<email>kontakt@pflegedienst-meichner.de</email>
+		<web>http://www.pflegeerfahrung.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Anschar-Schwesternschaft Kiel e.V. Ambulanter Pflegedienst</name>
+		<strasse_hnr>Kronshagener Weg 128a </strasse_hnr>
+		<plz>24116</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 1221111</telefon>
+		<email>DRK-Anschar-Schwesternschaft_Kiel@t-online.de</email>
+		<web>http://www.anschar-schwestern.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>IPD Itzehoer Pflegedienst Wolfgang Pfeiffer</name>
+		<strasse_hnr>Sandberg 140 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 95151</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO Pflege Schleswig-Holstein gGmbH AWO Pflegedienste Probstei</name>
+		<strasse_hnr>Steinbergskamp 2 </strasse_hnr>
+		<plz>24232</plz>
+		<ort>Schönkirchen</ort>
+		<telefon>0431 2091101</telefon>
+		<email>pflegedienste-probstei@awo-pflege-sh.de</email>
+		<web>http://www.awo-sh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie-Sozialstation Heiligenhafen</name>
+		<strasse_hnr>Am Lindenhof 22 </strasse_hnr>
+		<plz>23774</plz>
+		<ort>Heiligenhafen</ort>
+		<telefon>04362 900710</telefon>
+		<email>info@diakonie-oh.de</email>
+		<web>http://www.kirche-heiligenhafen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeambulanz Horst GmbH</name>
+		<strasse_hnr>Heimstraße 11 </strasse_hnr>
+		<plz>25358</plz>
+		<ort>Horst</ort>
+		<telefon>04126 692</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Kinder- und Krankenpflege</name>
+		<strasse_hnr>Turkuring 1 </strasse_hnr>
+		<plz>24109</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 5359950</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>GPG Glückstädter Pflegedienst OHG</name>
+		<strasse_hnr>Rhinstraße 5a </strasse_hnr>
+		<plz>25348</plz>
+		<ort>Glückstadt</ort>
+		<telefon>04124 937525</telefon>
+		<email>info@glueckstaedter-Pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst der Lebenshilfe gGmbH</name>
+		<strasse_hnr>Lohkoppel 1 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 897550</telefon>
+		<email>FED-Stormarn@freenet.de</email>
+		<web>http://www.lebenshilfe-stormarn.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Dienste St. Elisabeth gGmbH</name>
+		<strasse_hnr>Am Bundesbahnhof 4 </strasse_hnr>
+		<plz>24937</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 1828030</telefon>
+		<email>pflegedienst.flensburg@malteser.org</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegewerk eGbR Standort Holtenau</name>
+		<strasse_hnr>Richthofenstr. 60a </strasse_hnr>
+		<plz>24159</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 36744</telefon>
+		<email>s.peters@gemeindeschwestern-holtenau.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Kursana Residenz Wedel</name>
+		<strasse_hnr>Gorch-Fock-Str. 4 </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 1200</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Marli Pflege GmbH gemeinnütziges Unternehmen</name>
+		<strasse_hnr>Carl-Gauß-Str. 13-15 </strasse_hnr>
+		<plz>23562</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 6203309</telefon>
+		<email>pflegedienst@marli.de</email>
+		<web>http://www.marli.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Optimal</name>
+		<strasse_hnr>Ernst-Abbe-Str. 10 </strasse_hnr>
+		<plz>25451</plz>
+		<ort>Quickborn</ort>
+		<telefon>04106 78798</telefon>
+		<email>breul@pflegedienst-optimal.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Gesundheits- und Krankenpflege zu Hause Anke Schäddel</name>
+		<strasse_hnr>Hamburger Str. 37 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 821600</telefon>
+		<email>schaeddel@gesundheitsundkrankenpflege.de</email>
+		<web>http://www.gesundheitsundkrankenpflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ihr Pflegedienst Monika Hamester</name>
+		<strasse_hnr>Kirchstr. 2 </strasse_hnr>
+		<plz>23896</plz>
+		<ort>Nusse</ort>
+		<telefon>04543 8979820</telefon>
+		<email>info@pflege-h.de</email>
+		<web>http://www.pflege-h.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Barmstedt und Umgebung gGmbH</name>
+		<strasse_hnr>Marktstr. 45 </strasse_hnr>
+		<plz>25355</plz>
+		<ort>Barmstedt</ort>
+		<telefon>04123 959545</telefon>
+		<email>diakoniestationbarmstedt@t-online.de</email>
+		<web>http://www.diakoniestation-barmstedt.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Gesundheit aktiv gGmbH</name>
+		<strasse_hnr>Wilhelm-Biel Str. 2 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 7721400</telefon>
+		<email>ambulantekrankenpflege@kh-itzehoe.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Hilfe + Pflege ProVita Waltraud Walter OHG</name>
+		<strasse_hnr>Friedrichstraße 4 </strasse_hnr>
+		<plz>25469</plz>
+		<ort>Halstenbek</ort>
+		<telefon>04101 47440</telefon>
+		<email>info@provita-pflege.de</email>
+		<web>http://www.provita-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeeinrichtungen Dr. Al-Bayati OHG Ambulanter Pflegedienst</name>
+		<strasse_hnr>Mecklenburger Str. 78 </strasse_hnr>
+		<plz>23568</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 29036303</telefon>
+		<email>info@pflegeheim-luebeck.de</email>
+		<web>http://www.pflegeheim-luebeck.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AD Ambulante Dienste gGmbH - Pflegedienst und Hausnotruf</name>
+		<strasse_hnr>Ringstraße 36-38 </strasse_hnr>
+		<plz>24103</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 7759980</telefon>
+		<email>Info@AD-Kiel.de</email>
+		<web>http://www.ad-kiel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Hohenlockstedter-Pflegedienst</name>
+		<strasse_hnr>Kieler Straße 71 </strasse_hnr>
+		<plz>25551</plz>
+		<ort>Hohenlockstedt</ort>
+		<telefon>04826 3200</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Nortorf</name>
+		<strasse_hnr>Am Markt 6 </strasse_hnr>
+		<plz>24589</plz>
+		<ort>Nortorf</ort>
+		<telefon>04392 2808</telefon>
+		<email>info@ambulanter-pflegedienst-nortorf.de</email>
+		<web>http://www.ambulanter-pflegedienst-nortorf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Büsumer Kranken- und Seniorenhilfe GmbH</name>
+		<strasse_hnr>Ostpreußenstr. 2 </strasse_hnr>
+		<plz>25761</plz>
+		<ort>Büsum</ort>
+		<telefon>04834 2383</telefon>
+		<email>hilberling@pflegedienst-buesum.de</email>
+		<web>http://www.pflegedienst-buesum.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Daheim Angela Löbkens &amp; Gunda Lütje-Lemke</name>
+		<strasse_hnr>Ferdinand-Neelsen-Str. 1 </strasse_hnr>
+		<plz>25779</plz>
+		<ort>Fedderingen</ort>
+		<telefon>04836 861416</telefon>
+		<email>ambulante-pflege-daheim@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Bliev to Huus GmbH Häusliche Kranken- und Altenpflege</name>
+		<strasse_hnr>Hambuger Straße 30 </strasse_hnr>
+		<plz>24568</plz>
+		<ort>Kaltenkirchen</ort>
+		<telefon>04191 959404</telefon>
+		<email>info@bliev-to-huus.de</email>
+		<web>http://www.bliev-to-huus.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Fitz Mobile Pflege Sylt</name>
+		<strasse_hnr>Am Seedeich 9 </strasse_hnr>
+		<plz>25980</plz>
+		<ort>Sylt</ort>
+		<telefon>04651 33599</telefon>
+		<email>info@fitz-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Mobiler Pflegedienst Dörte Kral-Thies GmbH</name>
+		<strasse_hnr>Maurepasstr. 74 </strasse_hnr>
+		<plz>24558</plz>
+		<ort>Henstedt-Ulzburg</ort>
+		<telefon>04193 969810</telefon>
+		<email>info@ihr-mobiler-pflegedienst.de</email>
+		<web>http://kral-thies.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>HI Ambulant</name>
+		<strasse_hnr>Sandkamp 2 </strasse_hnr>
+		<plz>23843</plz>
+		<ort>Bad Oldesloe</ort>
+		<telefon>04531 6672600</telefon>
+		<email>ambulant@hi-gruppe.de</email>
+		<web>http://www.hi-gruppe.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Südtondern GmbH</name>
+		<strasse_hnr>Weberstr. 4 </strasse_hnr>
+		<plz>25899</plz>
+		<ort>Niebüll</ort>
+		<telefon>04661 9349604</telefon>
+		<email>info@ambulanter-pflegedienst-suedtondern.de</email>
+		<web>http://www.ambulanter-pflegedienst-suedtondern.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>IZ- MED Systemkrankenpflege GmbH</name>
+		<strasse_hnr>Lindenstraße 15 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 641300</telefon>
+		<email>iz-med@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Betreuung und Pflege zuhause Timmendorfer Strand</name>
+		<strasse_hnr>Wohldkamp 2 </strasse_hnr>
+		<plz>23669</plz>
+		<ort>Timmendorfer Strand</ort>
+		<telefon>04503 6060</telefon>
+		<email>timmendorf@curanum.de</email>
+		<web>http://www.curanum-seniorenstift-timmendorferstrand.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Vitalis Pflegedienste und Seniorenresidenzen</name>
+		<strasse_hnr>Trögelsbyer Weg 60 </strasse_hnr>
+		<plz>24943</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 6740450</telefon>
+		<email>info@pflegedienstvitalis.de</email>
+		<web>http://www.pflegedienstvitalis.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Medizinischer Pflegedienst Oldenburg</name>
+		<strasse_hnr>Schauenburger Str. 6 </strasse_hnr>
+		<plz>23758</plz>
+		<ort>Oldenburg</ort>
+		<telefon>04361 509414</telefon>
+		<email>info@mpo-pflegedienst.de</email>
+		<web>http://www.mpo-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>imland Domobil Ambulanter Pflegedienst</name>
+		<strasse_hnr>Schleswiger Str. 114-116 </strasse_hnr>
+		<plz>24340</plz>
+		<ort>Eckernförde</ort>
+		<telefon>04351 882245</telefon>
+		<email>Domobil@imland.de</email>
+		<web>http://www.imland.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Körner &amp; Puttfarcken</name>
+		<strasse_hnr>Geesthachter Str. 25 b/c </strasse_hnr>
+		<plz>21502</plz>
+		<ort>Geesthacht</ort>
+		<telefon>04152 839999</telefon>
+		<email>info@pkp-pflege.de</email>
+		<web>http://www.pflegeteam-geesthacht.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Niels Frieböse</name>
+		<strasse_hnr>Danziger Straße 12a </strasse_hnr>
+		<plz>24610</plz>
+		<ort>Trappenkamp</ort>
+		<telefon>04323 6720</telefon>
+		<email>niels@frieboese.de</email>
+		<web>http://www.frieboese.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>&quot;Das Pflegeteam&quot; Steinbuck Ambulanter Pflegedienst GmbH</name>
+		<strasse_hnr>Tremsbütteler Weg 100 </strasse_hnr>
+		<plz>22941</plz>
+		<ort>Bargteheide</ort>
+		<telefon>04532 286220</telefon>
+		<email>daspflegeteam@gmx.net</email>
+		<web>http://www.daspflegeteam-bargteheide.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeservice Albersdorf gGmbH</name>
+		<strasse_hnr>Friedrichstr. 8b </strasse_hnr>
+		<plz>25767</plz>
+		<ort>Albersdorf</ort>
+		<telefon>04835 950445</telefon>
+		<email>sandra.weyand-mehlert@pflegeservice-albersdorf.de</email>
+		<web>http://www.pflegeservice-albersdorf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Arbeiter-Samariter-Bund Ambulanter Pflegedienst</name>
+		<strasse_hnr>Wasserkrüger Weg 96 </strasse_hnr>
+		<plz>23879</plz>
+		<ort>Mölln</ort>
+		<telefon>04152 87560</telefon>
+		<email>Info@ASB-Lauenburg.de</email>
+		<web>http://www.asb-lauenburg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Häusliche Pflege Jacek Linartas GmbH</name>
+		<strasse_hnr>Preetzer Str. 300 </strasse_hnr>
+		<plz>24147</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 7164245</telefon>
+		<email>info@Linartas.de</email>
+		<web>http://www.linartas.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Bedey</name>
+		<strasse_hnr>Waldweg 1 </strasse_hnr>
+		<plz>23738</plz>
+		<ort>Lensahn</ort>
+		<telefon>04363 903930</telefon>
+		<email>info@apbedey.de</email>
+		<web>http://www.ap-bedey.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam Schwarz</name>
+		<strasse_hnr>Lindenstr. 11 </strasse_hnr>
+		<plz>22941</plz>
+		<ort>Bargteheide</ort>
+		<telefon>04532 24712</telefon>
+		<email>pflege-stormarn@t-online.de</email>
+		<web>http://pflege-stormarn.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege- und Beratungszentrum Zwick GmbH</name>
+		<strasse_hnr>Rathausstraße 8 </strasse_hnr>
+		<plz>22941</plz>
+		<ort>Bargteheide</ort>
+		<telefon>04532 204737</telefon>
+		<email>birgit.zwick@pflegedienst-bargteheide.de</email>
+		<web>http://www.pflegedienst-bargteheide.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>HMW Gesundheit und Pflege</name>
+		<strasse_hnr>Ulzburger Str. 97b </strasse_hnr>
+		<plz>22850</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 51321513</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Senior Mobil - Älter werden und Verständnis finden</name>
+		<strasse_hnr>Gasstr. 10 </strasse_hnr>
+		<plz>24340</plz>
+		<ort>Eckernförde</ort>
+		<telefon>04351 476433</telefon>
+		<email>Senior-Mobil@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Das Ambulante Pflege-Team Anja Klapholz &amp; Bert Morio</name>
+		<strasse_hnr>Kanalstr. 41 </strasse_hnr>
+		<plz>24159</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 362634</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Rundum Wedel Janina Augustin GmbH</name>
+		<strasse_hnr>Industriestraße 25a </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 1899732</telefon>
+		<email>info@pflegerundumwedel.de</email>
+		<web>http://www.pflegerundumwedel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DOMICIL Kranken- und Altenbetreuung</name>
+		<strasse_hnr>Achternfelde 19 </strasse_hnr>
+		<plz>22850</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 59350701</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>To Huus - Pflege daheim</name>
+		<strasse_hnr>Ohldörp 123 </strasse_hnr>
+		<plz>24783</plz>
+		<ort>Osterrönfeld</ort>
+		<telefon>04331 72625</telefon>
+		<email>info.rd@to-huus.de</email>
+		<web>http://www.to-huus.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Schloßsee Senioren Residenz Glücksburg Ambulanter Pflegedienst</name>
+		<strasse_hnr>Am Schloßsee 5 </strasse_hnr>
+		<plz>24960</plz>
+		<ort>Glücksburg</ort>
+		<telefon>04631 890</telefon>
+		<email>rezeption@srg-info.de</email>
+		<web>http://www.seniorenresidenz-gluecksburg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>ASKLEPIOS Ambulante Pflege</name>
+		<strasse_hnr>Bahnhofstr. 1Bahnhofstraße 1 </strasse_hnr>
+		<plz>23858</plz>
+		<ort>Reinfeld</ort>
+		<telefon>04533 797582</telefon>
+		<email>AmbulantePflege.BadSchwartau@asklepios.com</email>
+		<web>http://www.asklepios.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Krankenpflegedienst an der Westküste</name>
+		<strasse_hnr>Westerstraße 36 </strasse_hnr>
+		<plz>25693</plz>
+		<ort>St. Michaelisdonn</ort>
+		<telefon>04853 880388</telefon>
+		<email>info@pflegedienst-westkueste.de</email>
+		<web>http://pflegedienst-westkueste.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Bettina Bahr</name>
+		<strasse_hnr>Hauptstr. 20 </strasse_hnr>
+		<plz>23879</plz>
+		<ort>Mölln</ort>
+		<telefon>04542 829573</telefon>
+		<email>info@pflege-bahr.de</email>
+		<web>http://www.pflege-bahr.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Hanse-Residenz-Lübeck Ambulanter Pflegedienst</name>
+		<strasse_hnr>Eschenburgstr. 39 </strasse_hnr>
+		<plz>23568</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 3703812</telefon>
+		<email>direktion@hanse-residenz.de</email>
+		<web>http://www.seniorenresidenzen.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam Hägermann/Moll GmbH</name>
+		<strasse_hnr>Boldixumer Str. 32b </strasse_hnr>
+		<plz>25938</plz>
+		<ort>Wyk auf Föhr</ort>
+		<telefon>04681 748900</telefon>
+		<email>info@ambulantespflegeteam.de</email>
+		<web>http://www.ambulantespflegeteam.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeservice Kellinghusen GmbH</name>
+		<strasse_hnr>Friedrichstraße 2 </strasse_hnr>
+		<plz>25548</plz>
+		<ort>Kellinghusen</ort>
+		<telefon>04822 363363</telefon>
+		<email>Pflegeservice-Kellinghusen@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>das PFLEGETEAM24 GmbH</name>
+		<strasse_hnr>ABC-Str. 14 </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 989770</telefon>
+		<email>info@daspflegeteam24.de</email>
+		<web>http://www.daspflegeteam24.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>InBePa Intensiv-Pflegedienst Sabine Honemeyer</name>
+		<strasse_hnr>Schützenstr. 16c </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 458558</telefon>
+		<email>Inbepaintensiv@aol.com</email>
+		<web>http://www.inbepa-intensivpflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Petra Jessen</name>
+		<strasse_hnr>Feldstraße3 89 </strasse_hnr>
+		<plz>24811</plz>
+		<ort>Owschlag</ort>
+		<telefon>04624 451567</telefon>
+		<email>apjessen@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Zitzlaff GmbH</name>
+		<strasse_hnr>Eggerstedter Weg 12 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>04101 22164</telefon>
+		<email>bzitzlaff@googlemail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Lebensweg</name>
+		<strasse_hnr>Kremper Str. 18a </strasse_hnr>
+		<plz>23730</plz>
+		<ort>Neustadt</ort>
+		<telefon>04366 884700</telefon>
+		<email>info@lebensweg-pflege.de</email>
+		<web>http://www.lebensweg-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Langenhorn KG</name>
+		<strasse_hnr>An der B5  Nr. 3 </strasse_hnr>
+		<plz>25842</plz>
+		<ort>Langenhorn</ort>
+		<telefon>04672 772622</telefon>
+		<email>verwaltung@pflegenord.info</email>
+		<web>http://www.pflegenord.info</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pro Talis Ambulanter Pflegedienst</name>
+		<strasse_hnr>Peterstr. 30 </strasse_hnr>
+		<plz>23701</plz>
+		<ort>Eutin</ort>
+		<telefon>04521 7739980</telefon>
+		<email>ambulant-eutin@pro-talis.de</email>
+		<web>http://www.pro-talis.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegehilfe-Aktiv Yuliya Abramova</name>
+		<strasse_hnr>Niendorfer Str. 50-56 </strasse_hnr>
+		<plz>23560</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 20333900</telefon>
+		<email>info@pflegehilfe-aktiv.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>DANA Ambulante Pflegedienste GmbH</name>
+		<strasse_hnr>Am Kiebitzberg 9-11 </strasse_hnr>
+		<plz>23730</plz>
+		<ort>Neustadt</ort>
+		<telefon>04561 525100</telefon>
+		<email>ambulante.neustadt@dana-gmbh.de</email>
+		<web>http://www.dana-gmbh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>MeDio Pflegedienst</name>
+		<strasse_hnr>Dorfstraße 25 </strasse_hnr>
+		<plz>25499</plz>
+		<ort>Tangstedt</ort>
+		<telefon>04101 808228</telefon>
+		<email>medio.pflege@gmx.de</email>
+		<web>http://home.arcor.de/mediopflegedienst/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Kieler Stadtkloster Pflegedienst gGmbH</name>
+		<strasse_hnr>Harmsstr. 104-122 </strasse_hnr>
+		<plz>24114</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 26033</telefon>
+		<email>bluemel@stadtkloster.de</email>
+		<web>http://www.stadtkloster.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Mobile Krankenpflege</name>
+		<strasse_hnr>Bäderstr. 25 </strasse_hnr>
+		<plz>23626</plz>
+		<ort>Ratekau</ort>
+		<telefon>04504 71101</telefon>
+		<email>info@mokra-ratekau.de</email>
+		<web>http://www.mokra-ratekau.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Dagmar Heidenreich Ambulanter Pflegeservice GmbH</name>
+		<strasse_hnr>Wakenitzstr. 33 </strasse_hnr>
+		<plz>23564</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 2963055</telefon>
+		<email>info@dagmar-heidenreich.de</email>
+		<web>http://www.dagmar-heidenreich.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>M und G Pflegedienst</name>
+		<strasse_hnr>Klausdorfer Str. 93 </strasse_hnr>
+		<plz>24161</plz>
+		<ort>Altenholz</ort>
+		<telefon>0431 324998</telefon>
+		<email>panschu@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege Angeln gGmbH</name>
+		<strasse_hnr>Reeperbahn 4 </strasse_hnr>
+		<plz>24376</plz>
+		<ort>Kappeln</ort>
+		<telefon>04633 967290</telefon>
+		<email>info@ap-angeln.de</email>
+		<web>http://www.ap-angeln.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst To Huus</name>
+		<strasse_hnr>Fasanenstr. 7 </strasse_hnr>
+		<plz>25746</plz>
+		<ort>Lohe-Rickelshof</ort>
+		<telefon>0481 6838630</telefon>
+		<email>info@to-huus.com</email>
+		<web>http://www.to-huus.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ihr ambulantes Pflegeteam Petra Kunowski</name>
+		<strasse_hnr>Bimöhler Str. 102 </strasse_hnr>
+		<plz>24576</plz>
+		<ort>Bad Bramstedt</ort>
+		<telefon>04192 1397</telefon>
+		<email>pflegeteam-kunowski@web.de</email>
+		<web>http://www.ihr-ambulantes-pflegeteam.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Askanierhaus GmbH &amp; Co KG Ambulante Pflege</name>
+		<strasse_hnr>Peeperbahn 6-8 </strasse_hnr>
+		<plz>21481</plz>
+		<ort>Lauenburg</ort>
+		<telefon>04153 550300</telefon>
+		<email>pflege@askanierhaus.com</email>
+		<web>http://www.askanierhaus.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>PZH Pflege zu Hause GmbH</name>
+		<strasse_hnr>Mittelstr. 74 </strasse_hnr>
+		<plz>22851</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 88889898</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Wohnstift Augustinum Aumühle Ambulanter Pflegedienst</name>
+		<strasse_hnr>Mühlenweg 1 </strasse_hnr>
+		<plz>21521</plz>
+		<ort>Aumühle</ort>
+		<telefon>04104 691800</telefon>
+		<web>http://www.augustinum.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst &quot;Vita-Fit&quot; GmbH</name>
+		<strasse_hnr>Elisabethstr. 20 </strasse_hnr>
+		<plz>24143</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 3185848</telefon>
+		<email>vitafit2005@yahoo.de</email>
+		<web>http://www.kiel-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>newcare mobil Bargteheide</name>
+		<strasse_hnr>Lübecker Str. 2 </strasse_hnr>
+		<plz>22941</plz>
+		<ort>Bargteheide</ort>
+		<telefon>04532 406100</telefon>
+		<email>info@seniorenwohnen.de</email>
+		<web>http://www.seniorenwohnen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Wohnstift Augustinum Mölln Ambulanter Pflegedienst</name>
+		<strasse_hnr>Sterleyer Str. 44 </strasse_hnr>
+		<plz>23879</plz>
+		<ort>Mölln</ort>
+		<telefon>04542 812105</telefon>
+		<web>http://www.augustinum.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam Elisabeth Schulz</name>
+		<strasse_hnr>Poststraße 24 </strasse_hnr>
+		<plz>22946</plz>
+		<ort>Trittau</ort>
+		<telefon>04154 707575</telefon>
+		<email>Info@Senpart.de</email>
+		<web>http://senpart.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Betreuung und Pflege Schleswig GmbH</name>
+		<strasse_hnr>St.-Jürgener-Straße 60 </strasse_hnr>
+		<plz>24837</plz>
+		<ort>Schleswig</ort>
+		<telefon>04621 988100</telefon>
+		<email>info@betreuung-und-pflege-schleswig.de</email>
+		<web>http://www.pflege-kloendeel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>vhw Wohnen im Alter - Ambulanter Dienst GmbH</name>
+		<strasse_hnr>Hans-Böckler-Platz 15 </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 7052800</telefon>
+		<email>BBonanati@vhw-hamburg.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>KPS Klienten-Pflege-Service</name>
+		<strasse_hnr>Lübecker Str. 35 </strasse_hnr>
+		<plz>23843</plz>
+		<ort>Bad Oldesloe</ort>
+		<telefon>04531 434743</telefon>
+		<email>KPS-pflegebetreuung@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>medigna - ambulante Pflege</name>
+		<strasse_hnr>Gallberg 41 </strasse_hnr>
+		<plz>24837</plz>
+		<ort>Schleswig</ort>
+		<telefon>04621 988866</telefon>
+		<email>Info@medigna.de</email>
+		<web>http://www.medigna.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege Bock GmbH</name>
+		<strasse_hnr>Kieler Str. 452 </strasse_hnr>
+		<plz>24536</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 955846</telefon>
+		<email>jahnecke-bock@wohnpark-tannhof.de</email>
+		<web>http://www.wohnpark-tannhof.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DHK-Die Häusliche Krankenpflege GmbH</name>
+		<strasse_hnr>Adolf-Ehrtmann-Str. 3 </strasse_hnr>
+		<plz>23564</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 7073672</telefon>
+		<email>info@krankenpflege-luebeck.de</email>
+		<web>http://www.krankenpflege-ratzeburg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Ihre Assistenz im Norden - Intensivpflegedienst</name>
+		<strasse_hnr>Ivensring 13 </strasse_hnr>
+		<plz>24149</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 3990930</telefon>
+		<email>fiss-kock@ihre-assistenz.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst &quot;Tosom&quot;</name>
+		<strasse_hnr>Dorfstraße 2a </strasse_hnr>
+		<plz>25725</plz>
+		<ort>Schafstedt</ort>
+		<telefon>04805 901517</telefon>
+		<email>info@pflegetosom.de</email>
+		<web>http://www.pflegedienst-in-dithmarschen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>newcare parc Neumünster</name>
+		<strasse_hnr>Goebenstr. 11c/d </strasse_hnr>
+		<plz>24534</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 183300</telefon>
+		<email>verwaltung@residenz-neumuenster.de</email>
+		<web>http://www.parkresidenz-goebenstrasse.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>PNT Pflegenotfallteam GmbH &amp; Co. KG</name>
+		<strasse_hnr>Jaguarring 2 </strasse_hnr>
+		<plz>23795</plz>
+		<ort>Bad Segeberg</ort>
+		<telefon>04551 893710</telefon>
+		<email>badsegeberg@pnt-pflegedienste.de</email>
+		<web>https://pnt-pflegedienste.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege Gerdes GmbH</name>
+		<strasse_hnr>Brunsbütteler Straße 8 </strasse_hnr>
+		<plz>25541</plz>
+		<ort>Brunsbüttel</ort>
+		<telefon>04852 52233</telefon>
+		<email>info@pflegedienst-brunsbuettel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>RENAFAN Ambulante Pflege Wedel</name>
+		<strasse_hnr>Rolandstr. 6 </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 919771</telefon>
+		<email>wedel@renafan.de</email>
+		<web>http://www.renafan.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Rosenhof Ahrensburg  Ambulanter Pflegedienst</name>
+		<strasse_hnr>Lübecker Str. 3-11 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 49040</telefon>
+		<email>ahrensburg@rosenhof.de</email>
+		<web>http://www.rosenhof.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AIP GmbH Niederlassung Kiel</name>
+		<strasse_hnr>Feldstr. 18 </strasse_hnr>
+		<plz>24105</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 2394066</telefon>
+		<email>kiel@aip-intensivpflege.de</email>
+		<web>http://www.aip-intensivpflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Krankenpflegedienst Paulsen</name>
+		<strasse_hnr>Kleinrader Weg 11 </strasse_hnr>
+		<plz>25727</plz>
+		<ort>Süderhastedt</ort>
+		<telefon>04830 9174</telefon>
+		<email>info@pflegedienst-paulsen.de</email>
+		<web>http://pflege-kolodzie.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Rosenhof II Ambulanter Pflegedienst</name>
+		<strasse_hnr>Hoisdorfer Landstr. 72 </strasse_hnr>
+		<plz>22927</plz>
+		<ort>Großhansdorf</ort>
+		<telefon>04102 69900</telefon>
+		<email>grosshandsdorf2@rosenhof.de</email>
+		<web>http://www.rosenhof.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Rosenhof Seniorenwohnanlage Ambulanter Pflegedienst</name>
+		<strasse_hnr>Mecklenburger Landstr. 2-12 </strasse_hnr>
+		<plz>23570</plz>
+		<ort>Lübeck</ort>
+		<telefon>04502 86030</telefon>
+		<email>travemuende@rosenhof.de</email>
+		<web>http://www.rosenhof.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Lauenburg Rasmus Körner</name>
+		<strasse_hnr>Alte Wache 7 </strasse_hnr>
+		<plz>21481</plz>
+		<ort>Lauenburg</ort>
+		<telefon>04153 598642</telefon>
+		<email>info@pflegeteam-lauenburg.de</email>
+		<web>http://www.pflegeteam-lauenburg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Silke Frentz &quot;Mobile ambulante Pflege&quot;</name>
+		<strasse_hnr>Naher Str. 6 </strasse_hnr>
+		<plz>24558</plz>
+		<ort>Wakendorf</ort>
+		<telefon>04535 515275</telefon>
+		<email>info@pflegedienst-silke-frentz.de</email>
+		<web>http://www.pflegedienst-silke-frentz.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst K. Carstens</name>
+		<strasse_hnr>Deichstr. 79 </strasse_hnr>
+		<plz>25554</plz>
+		<ort>Wilster</ort>
+		<telefon>04823 921620</telefon>
+		<email>info@ambpflegemitherz.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Kiel</name>
+		<strasse_hnr>Verbindungsstr. 2 </strasse_hnr>
+		<plz>24143</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 5192055</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>MED-KUR-Pflegedienst</name>
+		<strasse_hnr>Karlstal 38 </strasse_hnr>
+		<plz>24143</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 2202502</telefon>
+		<email>pflegedienst2008@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Betreuung und Pflege zuhause Curanum Bad Schwartau</name>
+		<strasse_hnr>Riesebusch 2 </strasse_hnr>
+		<plz>23611</plz>
+		<ort>Bad Schwartau</ort>
+		<telefon>0451 2005370</telefon>
+		<email>badschwartau@curanum.de</email>
+		<web>http://www.curanum-seniorenresidenz-badschwartau.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Brücke Pflege und Fördern</name>
+		<strasse_hnr>Schleswiger-Chaussee 42 </strasse_hnr>
+		<plz>24768</plz>
+		<ort>Rendsburg</ort>
+		<telefon>04331 1323813</telefon>
+		<email>pflegedienst@bruecke.org</email>
+		<web>http://bruecke.org</web>
+	</einrichtung>
+	<einrichtung>
+		<name>&quot;Harmonie&quot; Ambulanter Pflegedienst</name>
+		<strasse_hnr>Karavellenstraße 15 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 9696386</telefon>
+		<email>bolkvadze@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege up&apos;n Dörp Silke Möck</name>
+		<strasse_hnr>Moorkoppel 2 </strasse_hnr>
+		<plz>23795</plz>
+		<ort>Klein Rönnau</ort>
+		<telefon>04551 8998313</telefon>
+		<email>info@pflege-upn-doerp.de</email>
+		<web>http://www.pflege-upn-doerp.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Ostsee-Möwen</name>
+		<strasse_hnr>Moorredder 27a </strasse_hnr>
+		<plz>23570</plz>
+		<ort>Lübeck</ort>
+		<telefon>04502 7888610</telefon>
+		<email>info@ostsee-moewen.de</email>
+		<web>http://www.ostsee-moewen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AGAPE - Pflegeteam Lydia Schäfer</name>
+		<strasse_hnr>Besenbeker Str. 39 </strasse_hnr>
+		<plz>25335</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 2761916</telefon>
+		<email>agape-pflegeteam@gmx.de</email>
+		<web>http://www.agape-pflegeteam.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Schwintek</name>
+		<strasse_hnr>Roggenkamp 14-18 </strasse_hnr>
+		<plz>22941</plz>
+		<ort>Bargteheide</ort>
+		<telefon>04532 4710</telefon>
+		<email>bettina-schwintek@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Schwarzenbek</name>
+		<strasse_hnr>Im Dreiangel 2 </strasse_hnr>
+		<plz>21493</plz>
+		<ort>Schwarzenbek</ort>
+		<telefon>04151 8998990</telefon>
+		<email>schwarzenbek@pflege-sh.com</email>
+		<web>http://www.pflege-sh.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Elmshorn</name>
+		<strasse_hnr>Henry-Dunant-Ring 3 </strasse_hnr>
+		<plz>25335</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 2664270</telefon>
+		<email>info@pflege-sh.com</email>
+		<web>http://www.pflege-sh.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Balsers Ambulanter Pflegedienst</name>
+		<strasse_hnr>Glyngoere 4 </strasse_hnr>
+		<plz>24955</plz>
+		<ort>Harrislee</ort>
+		<telefon>0461 80716000</telefon>
+		<email>abalser@t-online.de</email>
+		<web>https://www.pflegedienst-harrislee.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Claussen</name>
+		<strasse_hnr>Tannenhofstraße 5 </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 5236821</telefon>
+		<email>info@pflegedienst-claussen.de</email>
+		<web>http://www.pflegedienst-claussen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation-Sozialstation Kropp/Owschlag</name>
+		<strasse_hnr>Johannesallee 2 </strasse_hnr>
+		<plz>24848</plz>
+		<ort>Kropp</ort>
+		<telefon>04624 801780</telefon>
+		<email>m.rathmann@diakonie-kropp.de</email>
+		<web>http://www.diakonie-kropp.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Wacken und Umgebung GmbH</name>
+		<strasse_hnr>Ziegeleiweg 4a </strasse_hnr>
+		<plz>25596</plz>
+		<ort>Wacken</ort>
+		<telefon>04827 1216</telefon>
+		<email>Pflegedienst-Wacken@t-online.de</email>
+		<web>http://www.pflegedienst-wacken.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Mobiles Pflegeteam Sierck-Böhnert</name>
+		<strasse_hnr>Sprillbek 2 </strasse_hnr>
+		<plz>24848</plz>
+		<ort>Alt Bennebek</ort>
+		<telefon>04624 3979784</telefon>
+		<email>boehnert.l@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Pro Hilfe</name>
+		<strasse_hnr>Lindenstr. 32 </strasse_hnr>
+		<plz>24539</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 5559871</telefon>
+		<email>info@prohilfe-neumuenster.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>PNT PflegeNotfallteam GmbH &amp; Co. KG Ambulante Kranken- und Altenpflege</name>
+		<strasse_hnr>Geesthachter Str. 8-10 </strasse_hnr>
+		<plz>21502</plz>
+		<ort>Geesthacht</ort>
+		<telefon>04152 1392358</telefon>
+		<email>info@pflegedienst-geesthacht.de</email>
+		<web>http://www.pflegedienst-geesthacht.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst &quot;Die Biene&quot;</name>
+		<strasse_hnr>Markt 13 </strasse_hnr>
+		<plz>23774</plz>
+		<ort>Heiligenhafen</ort>
+		<telefon>04362 5006070</telefon>
+		<email>info@Pflegedienst-dieBiene.de</email>
+		<web>http://www.pflegedienst-diebiene.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Das Tour Team Claudia Güldenzoph</name>
+		<strasse_hnr>Am Kiel-Kanal 28 </strasse_hnr>
+		<plz>24106</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 66743810</telefon>
+		<email>info@tourteam.kiel.de</email>
+		<web>http://www.tourteam-kiel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Mobile Alten- und Krankenpflege Bernotat Alexandra Bartholl</name>
+		<strasse_hnr>Kurparkallee 5 </strasse_hnr>
+		<plz>23843</plz>
+		<ort>Bad Oldesloe</ort>
+		<telefon>04531 85554</telefon>
+		<email>info@pflegedienst-bernotat.de</email>
+		<web>http://www.pflegedienst-bernotat.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Krankenpflege Lütjenburg</name>
+		<strasse_hnr>Königsberger Str. 4 </strasse_hnr>
+		<plz>24321</plz>
+		<ort>Lütjenburg</ort>
+		<telefon>04381 418141</telefon>
+		<email>info@ambulante-pflege-luetjenburg.de</email>
+		<web>http://www.ambulante-pflege-luetjenburg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Besser Leben</name>
+		<strasse_hnr>Schönböckener Str. 93a </strasse_hnr>
+		<plz>23556</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 8087040</telefon>
+		<email>hehl@pflegedienstluebeck.info</email>
+		<web>http://www.pflegedienstluebeck.info</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Dagmar März</name>
+		<strasse_hnr>Brunnenstr. 5 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 4070840</telefon>
+		<email>pflege.maerz@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Herzensgüte GmbH</name>
+		<strasse_hnr>Jahnstr. 8 </strasse_hnr>
+		<plz>24116</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 98283211</telefon>
+		<email>info@pflegedienst-herzensguete.de</email>
+		<web>http://www.pflegedienst-herzensguete.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>BW Pflegezentrum Kiel GmbH</name>
+		<strasse_hnr>Sophienblatt 88-90 </strasse_hnr>
+		<plz>24114</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 737231</telefon>
+		<email>wendt.torsten@googlemail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>NoRa ambulant OHG</name>
+		<strasse_hnr>Am Markt 8 </strasse_hnr>
+		<plz>25764</plz>
+		<ort>Wesselburen</ort>
+		<telefon>04833 4250275</telefon>
+		<email>info@nora-ambulant.de</email>
+		<web>http://www.nora-ambulant.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>HorizontCare</name>
+		<strasse_hnr>Am Markt 9 </strasse_hnr>
+		<plz>23909</plz>
+		<ort>Ratzeburg</ort>
+		<telefon>04541 8953305</telefon>
+		<email>info@horizontcare.de</email>
+		<web>http://www.horizontcare.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst MediBalance</name>
+		<strasse_hnr>Hauptstraße 59-61c </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<telefon>040 46631896</telefon>
+		<email>medibalance.schenefeld@gmail.com</email>
+		<web>http://www.pflegedienst-schenefeld.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Schröder &amp; Sell  GbR</name>
+		<strasse_hnr>Lehmweg 9 </strasse_hnr>
+		<plz>25488</plz>
+		<ort>Holm</ort>
+		<telefon>04103 9000582</telefon>
+		<email>info@schroeder-sell.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Lebenswelt und Pflege</name>
+		<strasse_hnr>Am Fleth 50 </strasse_hnr>
+		<plz>25348</plz>
+		<ort>Glückstadt</ort>
+		<telefon>04124 604608</telefon>
+		<email>info@lebensweltundpflege.de</email>
+		<web>http://www.lebensweltundpflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Hannchen Franke Inh. Birte Hansen</name>
+		<strasse_hnr>Am Markt 11 </strasse_hnr>
+		<plz>25764</plz>
+		<ort>Wesselburen</ort>
+		<telefon>04833 42092</telefon>
+		<email>birtehansen@aol.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>A.K.S. Pflegeteam GmbH</name>
+		<strasse_hnr>Bahnstr. 7 </strasse_hnr>
+		<plz>21039</plz>
+		<ort>Börnsen</ort>
+		<telefon>040 89725180</telefon>
+		<email>k.hanke@aks-pflegeteam-boernsen.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>GIP Gesellschaft für medizinische Intensivpflege mbH</name>
+		<strasse_hnr>Ratzeburger Allee 73 </strasse_hnr>
+		<plz>23562</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 29071777</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst an der Trave</name>
+		<strasse_hnr>Wesloer Straße 2 </strasse_hnr>
+		<plz>23568</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 61162993</telefon>
+		<email>info@pflegediensttrave.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Andreas</name>
+		<strasse_hnr>Borsflether Wisch 13 </strasse_hnr>
+		<plz>25376</plz>
+		<ort>Borsfleth</ort>
+		<telefon>04824 9374880</telefon>
+		<email>info@pflegedienst-andreas.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Heider Pflegedienst</name>
+		<strasse_hnr>Meldorfer Str. 7 </strasse_hnr>
+		<plz>25770</plz>
+		<ort>Hemmingstedt</ort>
+		<telefon>0481 69883905</telefon>
+		<email>info@heiderpflegedienst.de</email>
+		<web>http://www.heiderpflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Krankenpflege Laboe GmbH</name>
+		<strasse_hnr>Oberdorf 18a </strasse_hnr>
+		<plz>24235</plz>
+		<ort>Laboe</ort>
+		<telefon>04343 8560</telefon>
+		<email>info@pflegedienst-laboe.de</email>
+		<web>http://www.pflegedienst-laboe.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Die Robben - Wulfsdorf gemeinnützige Pflege- und Betreuungsgesellschaft mbH</name>
+		<strasse_hnr>Bornkampsweg 36 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04154 84380</telefon>
+		<email>dialog@die-robben-wulfsdorf.de</email>
+		<web>http://www.die-robben-wulfsdorf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Wentorfer Pflegeteam GmbH</name>
+		<strasse_hnr>Hauptstr. 7 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Wentorf</ort>
+		<telefon>040 25491367</telefon>
+		<email>info@wentorfer-pflegeteam.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>MB ambulanter Pflegedienst GbR</name>
+		<strasse_hnr>Maurepasstr. 1 </strasse_hnr>
+		<plz>24558</plz>
+		<ort>Henstedt-Ulzburg</ort>
+		<telefon>04193 8808936</telefon>
+		<email>MB.Seniorenservice@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Boostedt</name>
+		<strasse_hnr>Feldstr. 22 </strasse_hnr>
+		<plz>24598</plz>
+		<ort>Boostedt</ort>
+		<telefon>04393 9718244</telefon>
+		<email>ambulanterDienst@pflegegruppe-glau.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeservice MAXIMA</name>
+		<strasse_hnr>Sophienstraße 19-21 </strasse_hnr>
+		<plz>23560</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 38934878</telefon>
+		<email>pflegeservice-maxima@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege nach Maß gUG</name>
+		<strasse_hnr>Am Schlüsselteich 13 </strasse_hnr>
+		<plz>21481</plz>
+		<ort>Lauenburg</ort>
+		<telefon>04153 81088600</telefon>
+		<email>mail@pnm-lauenburg.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Petrimobil GmbH</name>
+		<strasse_hnr>Langenbrücker Str. 4 </strasse_hnr>
+		<plz>23909</plz>
+		<ort>Ratzeburg</ort>
+		<telefon>04541 803330</telefon>
+		<email>info@petrimobil.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Strube</name>
+		<strasse_hnr>Poststr. 5 </strasse_hnr>
+		<plz>22958</plz>
+		<ort>Trittau</ort>
+		<telefon>04154 3989</telefon>
+		<email>Pflegeteam-Strube@t-online.de</email>
+		<web>http://www.pflegeteam-strube.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Vita Care</name>
+		<strasse_hnr>In de Tarpen 52 </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 22636347</telefon>
+		<email>Vita-Care@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Kaiser Wilhelm I. Stift Ambulanter Pflegedienst</name>
+		<strasse_hnr>Stiftstraße 4-10 </strasse_hnr>
+		<plz>24103</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 2203920</telefon>
+		<email>info@Kaiser-Wilhelm-1-Stift.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Saba Vita</name>
+		<strasse_hnr>Grabenstr. 10 </strasse_hnr>
+		<plz>23730</plz>
+		<ort>Neustadt</ort>
+		<telefon>0451 98920709</telefon>
+		<email>s.babayeva@novavita-online.de</email>
+		<web>http://www.novavitapflegedienst-luebeck.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Timmendorfer Pflegedienst</name>
+		<strasse_hnr>Gutshof 3 </strasse_hnr>
+		<plz>23669</plz>
+		<ort>Timmendorfer Strand</ort>
+		<telefon>04503 6131</telefon>
+		<email>info@timmendorfer-pflegedienst.de</email>
+		<web>http://www.timmendorfer-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>TPK Häusliche Pflege Nortorf</name>
+		<strasse_hnr>Niedernstr. 5 </strasse_hnr>
+		<plz>24589</plz>
+		<ort>Nortorf</ort>
+		<telefon>04392 8412170</telefon>
+		<email>info@tpk-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ihr Pflegedienst am Buntenskamp GmbH</name>
+		<strasse_hnr>Buntenskamp 5a </strasse_hnr>
+		<plz>21502</plz>
+		<ort>Geesthacht</ort>
+		<telefon>04152 9155716</telefon>
+		<email>verwaltung@pflegedienst-buntenskamp.de</email>
+		<web>http://pflegedienst-buntenskamp.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Teamwerk Pflege und Assistenz</name>
+		<strasse_hnr>Knooper Weg 35 </strasse_hnr>
+		<plz>24103</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 90898628</telefon>
+		<email>krohn@teamwerk-kiel.de</email>
+		<web>http://www.teamwerk-kiel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Sonnenschein UG</name>
+		<strasse_hnr>St. Johanniskoogring 10 </strasse_hnr>
+		<plz>25836</plz>
+		<ort>Garding</ort>
+		<telefon>04862 104781</telefon>
+		<email>info@pflegedienst-eiderstedt.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>MKG Pflegezentrum Süderbrarup GmbH</name>
+		<strasse_hnr>Bismarkstr. 3 </strasse_hnr>
+		<plz>24850</plz>
+		<ort>Süderbrarup</ort>
+		<telefon>04641 988628</telefon>
+		<email>info@mkgpflegezentrum.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>MKG-Pflegezentrum Schleswig GmbH</name>
+		<strasse_hnr>Husumer Str. 7a </strasse_hnr>
+		<plz>24850</plz>
+		<ort>Schuby</ort>
+		<telefon>04621 306191</telefon>
+		<email>mkgpflegezentrumsl@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>CareProfis Ambulant GmbH</name>
+		<strasse_hnr>Bahnhofstraße 100 </strasse_hnr>
+		<plz>25451</plz>
+		<ort>Quickborn</ort>
+		<telefon>04106 6279620</telefon>
+		<email>info@careprofis.de</email>
+		<web>http://www.careprofis.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>magna Pflege GmbH</name>
+		<strasse_hnr>Baumschulenweg 2 </strasse_hnr>
+		<plz>25495</plz>
+		<ort>Kummerfeld</ort>
+		<telefon>04123 6834642</telefon>
+		<email>info@magnapflege.de</email>
+		<web>http://www.magnapflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Das PflegeTrio</name>
+		<strasse_hnr>Marienstr. 51 </strasse_hnr>
+		<plz>24534</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 9649608</telefon>
+		<email>info@das-pflege-trio.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>proVita Ambulanter Pflegedienst</name>
+		<strasse_hnr>Marlistraße 101 </strasse_hnr>
+		<plz>23566</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 69344334</telefon>
+		<email>luebeck@provita-ambulant.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege Scheel</name>
+		<strasse_hnr>Gadelander Str. 172 </strasse_hnr>
+		<plz>24539</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 25150</telefon>
+		<email>info@ambulante-pflege-scheel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>BFS Lübeck Care GmbH Ambulanter Pflegedienst</name>
+		<strasse_hnr>Koberg 17 </strasse_hnr>
+		<plz>23552</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 39776540</telefon>
+		<email>info@luebeck-care.de</email>
+		<web>http://www.luebeck-care.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Börnsen</name>
+		<strasse_hnr>Hermann-Wöhlke-Weg 2 </strasse_hnr>
+		<plz>21039</plz>
+		<ort>Börnsen</ort>
+		<telefon>040 18236720</telefon>
+		<email>nukochen@hotmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst &quot;Min to Hus&quot; GbR</name>
+		<strasse_hnr>Osterallee 202 </strasse_hnr>
+		<plz>24944</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 99938960</telefon>
+		<email>pflegedienst@min-to-hus.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Andrea Schalies</name>
+		<strasse_hnr>Arnimstraße 45a </strasse_hnr>
+		<plz>23566</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 20970900</telefon>
+		<email>info@pflegedienst-schalies.de</email>
+		<web>http://www.pflegedienst-schalies.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Krankenpflege Langeneß &amp; Hooge</name>
+		<strasse_hnr>Hilligenley 5 </strasse_hnr>
+		<plz>25863</plz>
+		<ort>Langeneß</ort>
+		<telefon>04684 222</telefon>
+		<email>gemeindepflegestelle@langeness.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Kaiserpflege GmbH</name>
+		<strasse_hnr>Goethestraße 66a </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 1877090</telefon>
+		<email>ppd@kaiserpflege.de</email>
+		<web>http://www.kaiserpflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>proagital Ambulante Intensivpflege</name>
+		<strasse_hnr>Schützenstraße 52 </strasse_hnr>
+		<plz>24568</plz>
+		<ort>Kaltenkirchen</ort>
+		<telefon>04191 804533</telefon>
+		<email>info@proagital-intensivpflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Mielke</name>
+		<strasse_hnr>Große Seestr. 8 </strasse_hnr>
+		<plz>23795</plz>
+		<ort>Bad Segeberg</ort>
+		<telefon>04551 9936760</telefon>
+		<email>allgemein@pflegedienst-mielke.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Hand in Hand</name>
+		<strasse_hnr>Kurt-Schumacher-Platz 13 </strasse_hnr>
+		<plz>24109</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 72988441</telefon>
+		<email>pflegedienst-handinhand@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>AKI Außerklinische Intensivpflege GmbH</name>
+		<strasse_hnr>Rathausstraße 2 </strasse_hnr>
+		<plz>23909</plz>
+		<ort>Ratzeburg</ort>
+		<telefon>04541 8089702</telefon>
+		<email>info@ak-intensivpflege.de</email>
+		<web>http://www.ak-intensivpflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Beatus Domi</name>
+		<strasse_hnr>Stapelholmer Weg 17 </strasse_hnr>
+		<plz>24963</plz>
+		<ort>Tarp</ort>
+		<telefon>04638 307901</telefon>
+		<email>seblas74@googlemail.com</email>
+		<web>http://www.beatus-domi.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Die Mürwiker Ambulante Pflege GmbH</name>
+		<strasse_hnr>Sylter Bogen 1 </strasse_hnr>
+		<plz>25899</plz>
+		<ort>Niebüll</ort>
+		<telefon>04661 503060</telefon>
+		<email>info@muerwiker-pflege.de</email>
+		<web>http://www.muerwiker.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Amb. Pflegedienst &quot;To Hus is to Hus&apos;&quot;</name>
+		<strasse_hnr>Auf der Freiheit 4 </strasse_hnr>
+		<plz>24837</plz>
+		<ort>Schleswig</ort>
+		<telefon>04621 9324232</telefon>
+		<email>schroeder-pflegedienst@web.de</email>
+		<web>http://www.pflegedienst-fahrdorf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst am Westensee</name>
+		<strasse_hnr>Dorfstr. 111 </strasse_hnr>
+		<plz>24242</plz>
+		<ort>Felde</ort>
+		<telefon>04340 4006655</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>PflegeCrew Frische Brise</name>
+		<strasse_hnr>Am Hafen 1 </strasse_hnr>
+		<plz>24376</plz>
+		<ort>Kappeln</ort>
+		<telefon>04642 9250650</telefon>
+		<email>info@pflege-sh.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Rotkreuzschwestern Ambulant</name>
+		<strasse_hnr>Ratzeburger Allee 47b/d </strasse_hnr>
+		<plz>23562</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 58595880</telefon>
+		<email>stefan.kluessendorf@drk-schwesternschaft-luebeck.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Wohlauf - ambulanter Pflegedienst</name>
+		<strasse_hnr>Möllner Landstr. 78 </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 30097776</telefon>
+		<email>info@pflegedienst-wohlauf.de</email>
+		<web>http://www.pflegedienst-wohlauf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>SRH Pflegedienst GmbH Trautes Heim</name>
+		<strasse_hnr>Friedenstr. 30 </strasse_hnr>
+		<plz>25337</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 7804838</telefon>
+		<email>info@trautesheim-pflegedienst.de</email>
+		<web>http://www.trautesheim-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Asta Med GmbH</name>
+		<strasse_hnr>Seestraße 232 </strasse_hnr>
+		<plz>25469</plz>
+		<ort>Halstenbek</ort>
+		<telefon>040 2986355</telefon>
+		<email>ceo@astamed.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegeservice Kiel</name>
+		<strasse_hnr>Schönberger Str. 3 </strasse_hnr>
+		<plz>24148</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 7809207</telefon>
+		<email>ADKiel-Ost@alloheim-mobil.de</email>
+		<web>http://www.alloheim.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>ELIN Intensivpflegedienst GmbH</name>
+		<strasse_hnr>Gutenbergring 69A </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 94367354</telefon>
+		<email>info@elin-intensivpflegedienst.de</email>
+		<web>https://www.elin-intensivpflegedienst.de/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Arcus Die Pflege Gruppe</name>
+		<strasse_hnr>Rudolf Diesel Straße 9 </strasse_hnr>
+		<plz>24536</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 6022077</telefon>
+		<email>info@arcuspflegegruppe.de</email>
+		<web>http://www.arcuspflegegruppe.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Hand mit Herz Ambulante Alten- und Krankenpflege</name>
+		<strasse_hnr>Hollesenstr. 2 </strasse_hnr>
+		<plz>24768</plz>
+		<ort>Rendsburg</ort>
+		<telefon>04331 4632805</telefon>
+		<email>info@handmitherz-rd.de</email>
+		<web>http://www.handmitherz-rd.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>GtIB - Gesundheitsteam  für Intensivpflege und Beatmung GmbH</name>
+		<strasse_hnr>Breitenburger Straße 68 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 4035123</telefon>
+		<email>info@gtib-gesundheitsteam.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Palliativnetz Travebogen / Fachpflegedienst</name>
+		<strasse_hnr>Ziegelstraße 9-11 </strasse_hnr>
+		<plz>23556</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 1608590</telefon>
+		<email>geschaeftsfuehrung@travebogen.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Lichtblick</name>
+		<strasse_hnr>Ziegelstraße 112 </strasse_hnr>
+		<plz>23556</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 48057373</telefon>
+		<email>info@ambulante-pflege-lichtblick.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Wittenborner Pflegevisite GmbH</name>
+		<strasse_hnr>Segeberger Straße 1a </strasse_hnr>
+		<plz>23829</plz>
+		<ort>Wittenborn</ort>
+		<telefon>04554 7053304</telefon>
+		<email>post@wittenborner-pflegevisite.de</email>
+		<web>http://www.wittenborner-pflegevisite.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst mit Herz und Hand</name>
+		<strasse_hnr>Goethestr. 48 </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 7037051</telefon>
+		<email>ksyckia@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Titz GmbH</name>
+		<strasse_hnr>Stöckenhoop 14 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Wentorf</ort>
+		<telefon>0176 98260635</telefon>
+		<email>jantitz@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Tellingstedt</name>
+		<strasse_hnr>Teichstr. 1 </strasse_hnr>
+		<plz>25782</plz>
+		<ort>Tellingstedt</ort>
+		<telefon>04838 7048488</telefon>
+		<email>ehlers@pflegedienst-tellingstedt.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Dänischburg</name>
+		<strasse_hnr>Siemser Landstr. 28-34 </strasse_hnr>
+		<plz>23569</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 47999899</telefon>
+		<email>pflegedienst-daenischburg@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst &quot;wi blieft to huus&quot;</name>
+		<strasse_hnr>An der Miele 10 </strasse_hnr>
+		<plz>25704</plz>
+		<ort>Meldorf</ort>
+		<telefon>0481 78220000</telefon>
+		<email>zentrale@pflegedithmarschen.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Kervita Ambulant Glinde</name>
+		<strasse_hnr>An der alten Wache 2 </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 2094952503</telefon>
+		<email>info@kervita-ambulant.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Kultursensibler Pflegedienst Impuls</name>
+		<strasse_hnr>Hansering 16a </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 6934287</telefon>
+		<email>waechter@pflegedienst-impuls.net</email>
+		<web>http://www.pflegedienst-impuls.net</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam Meißner</name>
+		<strasse_hnr>Haselnussweg 2 </strasse_hnr>
+		<plz>21039</plz>
+		<ort>Escheburg</ort>
+		<telefon>04152 8786161</telefon>
+		<email>info@ambulantes-pflegeteam-meissner.de</email>
+		<web>https://www.ambulantes-pflegeteam-meissner.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegehelden Ambulanter Pflegedienst</name>
+		<strasse_hnr>Sieversbek 25 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 804030</telefon>
+		<email>info@pflegehelden.de</email>
+		<web>http://www.pflegehelden.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Dein Pflegedienst Sören Nissen GbR</name>
+		<strasse_hnr>Industriestr. 21 </strasse_hnr>
+		<plz>25917</plz>
+		<ort>Leck</ort>
+		<telefon>04662 8969971</telefon>
+		<email>kontakt@dein-pflegedienst.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Lebensnah Martens GmbH</name>
+		<strasse_hnr>Jahnstraße 15 </strasse_hnr>
+		<plz>25348</plz>
+		<ort>Glückstadt</ort>
+		<telefon>04124 5404944</telefon>
+		<email>pflegedienst-lebensnah@gmx.de</email>
+		<web>http://www.pflegedienst-lebensnah-glückstadt.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst &quot;Am See&quot; GmbH &amp; Co. KG</name>
+		<strasse_hnr>Karl-Böge-Platz 19 </strasse_hnr>
+		<plz>24787</plz>
+		<ort>Fockbek</ort>
+		<telefon>04331 608247</telefon>
+		<email>info@apd-am-see.de</email>
+		<web>http://www.apd-am-see.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Huus Moorschift ambulante Pflege - bi di tohuus</name>
+		<strasse_hnr>Moorschift 6 </strasse_hnr>
+		<plz>25813</plz>
+		<ort>Husum</ort>
+		<telefon>04841 93270</telefon>
+		<email>info@huus-moorschift.de</email>
+		<web>http://huus-moorschift.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Intensivpflege Baulig</name>
+		<strasse_hnr>Am Markt 6a </strasse_hnr>
+		<plz>25361</plz>
+		<ort>Krempe</ort>
+		<telefon>04824 4000211</telefon>
+		<email>info@intensivpflege-baulig.com</email>
+		<web>http://www.intensivpflege-baulig.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>pflege.intensiv.leben</name>
+		<strasse_hnr>Stietzweg 1 </strasse_hnr>
+		<plz>25563</plz>
+		<ort>Quarnstedt</ort>
+		<telefon>04822 3672900</telefon>
+		<email>info@pflege-intensiv-leben.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst PRIMA</name>
+		<strasse_hnr>Südring 20 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Wentorf</ort>
+		<telefon>040 55287301</telefon>
+		<email>apd.prima@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>SENAcura GmbH</name>
+		<strasse_hnr>Am Weidenröschen 15 </strasse_hnr>
+		<plz>24963</plz>
+		<ort>Tarp</ort>
+		<telefon>04638 9899077</telefon>
+		<email>info@senacura.de</email>
+		<web>http://www.senacura.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>W &amp; W Pflegedienstleistungen GmbH</name>
+		<strasse_hnr>Moislinger Allee 93 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 88065454</telefon>
+		<email>ralf.westphal@ww-pflege.de</email>
+		<web>http://www.ww-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>SunCare Linda GmbH</name>
+		<strasse_hnr>An der Raa 7 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>04106 6048807</telefon>
+		<email>info@suncare-linda.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam MediBalance</name>
+		<strasse_hnr>Schwartauer Allee 69a </strasse_hnr>
+		<plz>23554</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 20920813</telefon>
+		<email>pflegeteam.medibalance@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Familien- und Seniorenbetreuung Segeberg</name>
+		<strasse_hnr>Hamburger Str. 28 </strasse_hnr>
+		<plz>24558</plz>
+		<ort>Henstedt-Ulzburg</ort>
+		<telefon>04193 7524036</telefon>
+		<email>christoph.kahl@homeinstead.de</email>
+		<web>http://www.homeinstead.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam Schimmer</name>
+		<strasse_hnr>Bundesstr. 5 Nr. 5 </strasse_hnr>
+		<plz>25795</plz>
+		<ort>Weddingstedt</ort>
+		<telefon>0481 59980767</telefon>
+		<email>Sonja@Pflegeteam-Schimmer.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Leentje Intensivpflege</name>
+		<strasse_hnr>Schwarzer Weg 4 </strasse_hnr>
+		<plz>24837</plz>
+		<ort>Schleswig</ort>
+		<telefon>04621 8556088</telefon>
+		<email>info@pflegedienst-magnus.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Sievers</name>
+		<strasse_hnr>Möllner Landstraße 31b </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 18234134</telefon>
+		<email>sievers-pflege@gmx.de</email>
+		<web>http://www.pflegedienst-sievers.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>QG mobile Pflege GmbH &amp; Co. KG</name>
+		<strasse_hnr>Ziegeleistraße 3 </strasse_hnr>
+		<plz>22113</plz>
+		<ort>Oststeinbek</ort>
+		<telefon>040 73091090</telefon>
+		<email>info@qgmobilepflege.de</email>
+		<web>http://www.qgmobilepflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>MareCura GmbH</name>
+		<strasse_hnr>Hindenburgstraße 15c </strasse_hnr>
+		<plz>23879</plz>
+		<ort>Mölln</ort>
+		<telefon>04542 6530</telefon>
+		<email>mr@marecura.de</email>
+		<web>http://www.marecura.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege mit Zeit</name>
+		<strasse_hnr>Mercatorstr. 21 </strasse_hnr>
+		<plz>21502</plz>
+		<ort>Geesthacht</ort>
+		<telefon>04152 8766366</telefon>
+		<email>pflegemitzeit@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Nord - Colette Wolters -</name>
+		<strasse_hnr>Duburger Str. 28 </strasse_hnr>
+		<plz>24939</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 47775</telefon>
+		<email>info@pflegedienstnord.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Balu Kinderintensivpflegedienst</name>
+		<strasse_hnr>Hochkrog 1 </strasse_hnr>
+		<plz>23816</plz>
+		<ort>Bebensee</ort>
+		<telefon>0174 3304863</telefon>
+		<email>post@balu-kip.de</email>
+		<web>http://www.balu-kip.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam Nord</name>
+		<strasse_hnr>Ulzburger Str. 597 </strasse_hnr>
+		<plz>22844</plz>
+		<ort>Norderstedt</ort>
+		<telefon>0172 9670944</telefon>
+		<email>amb.pflegeteam-nord@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst &quot;Pflege zu Hause&quot;</name>
+		<strasse_hnr>Kirchstr. 9a </strasse_hnr>
+		<plz>23795</plz>
+		<ort>Bad Segeberg</ort>
+		<telefon>04551 8915778</telefon>
+		<email>verwaltung@pflegezuhause-segeberg.de</email>
+		<web>http://www.pflegezuhause-segeberg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam mit Hand und Herz GmbH</name>
+		<strasse_hnr>Am Akku 9 </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 50693575</telefon>
+		<email>b.bulut@hotmail.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege Daheim GmbH</name>
+		<strasse_hnr>Theodor-Storm-Str. 1b </strasse_hnr>
+		<plz>22941</plz>
+		<ort>Bargteheide</ort>
+		<telefon>04532 4009393</telefon>
+		<email>ambulante-pflege-daheim@gmx.de</email>
+		<web>http://www.ambulante-pflege-daheim-am.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegeservice Kiel Nord</name>
+		<strasse_hnr>Stettiner Platz 2-3 </strasse_hnr>
+		<plz>24159</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 393832</telefon>
+		<email>kiel-nord@allheim-mobil.de</email>
+		<web>http://www.alloheim.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Life Care Intensivpflege UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Holzkoppelweg 11 </strasse_hnr>
+		<plz>24118</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 30034955</telefon>
+		<email>info@lifecareintensive.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Tabea Diakonie-Pflegedienst gGmbH</name>
+		<strasse_hnr>Gertrudenthaler Str. 4 </strasse_hnr>
+		<plz>23769</plz>
+		<ort>Fehmarn</ort>
+		<telefon>04371 8888602</telefon>
+		<email>christoph.baehnke@pdburg.tabea.de</email>
+		<web>http://www.tabea.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>HerzZeit Pflege GmbH</name>
+		<strasse_hnr>Hasselbinnen 26 </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<telefon>040 8300852</telefon>
+		<email>j.thiele@khthiele.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ameos mobile Pflege Ratzeburg</name>
+		<strasse_hnr>Schmilauer Str. 108 </strasse_hnr>
+		<plz>23909</plz>
+		<ort>Ratzeburg</ort>
+		<telefon>04541 133180</telefon>
+		<email>meike.schoop@ratzeburg.ameos.de</email>
+		<web>http://www.amprz.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Die Hademarscher Pflegeprofis</name>
+		<strasse_hnr>Kaiserstraße 1 </strasse_hnr>
+		<plz>25557</plz>
+		<ort>Hanerau-Hademarschen</ort>
+		<telefon>04872 569635</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst rundum-betreut</name>
+		<strasse_hnr>Maria-Bornheim-Weg 2 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 8874960</telefon>
+		<email>info@rundum-betreut.de</email>
+		<web>http://www.rundum-betreut.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Oldwarn aver in Würd</name>
+		<strasse_hnr>Am Teich 8 </strasse_hnr>
+		<plz>23714</plz>
+		<ort>Malente</ort>
+		<telefon>04523 7640</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Ammersbek GmbH</name>
+		<strasse_hnr>Georg-Sasse-Str. 14 </strasse_hnr>
+		<plz>22949</plz>
+		<ort>Ammersbek</ort>
+		<telefon>040 30929334</telefon>
+		<email>info@pflegedienst-ammersbek.de</email>
+		<web>https://pflegedienst-ammersbek.de/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Braukmann Care GmbH</name>
+		<strasse_hnr>Einsiedelstr. 47 </strasse_hnr>
+		<plz>23554</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 70789916</telefon>
+		<email>info@braukmann-care.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Ass</name>
+		<strasse_hnr>Bahnhofstr. 10 </strasse_hnr>
+		<plz>24306</plz>
+		<ort>Plön</ort>
+		<telefon>04522 7959366</telefon>
+		<email>service@pflege-ass-ploen.de</email>
+		<web>http://pflege-ass-plön.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege- und Beratungsteam Kiel</name>
+		<strasse_hnr>Am Herrkamp 14d </strasse_hnr>
+		<plz>24226</plz>
+		<ort>Heikendorf</ort>
+		<telefon>0431 57083290</telefon>
+		<email>info@pbt-kiel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege am Meer</name>
+		<strasse_hnr>Langenfelde 123c </strasse_hnr>
+		<plz>24159</plz>
+		<ort>Kiel</ort>
+		<telefon>43159675997</telefon>
+		<email>ambulantepflegeammeer@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Amb. Intensivpflegedienst und Betreuung AIB24</name>
+		<strasse_hnr>Callingtonstr. 4 </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 6710002680</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Harmonie UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Hofholzallee 276 </strasse_hnr>
+		<plz>24109</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 67019749</telefon>
+		<email>info@harmonie-schleswig.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Nordstern</name>
+		<strasse_hnr>Schwedendamm 16 </strasse_hnr>
+		<plz>24143</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 53698648</telefon>
+		<email>pflegedienstnordstern@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Ella</name>
+		<strasse_hnr>Große Mühlenstraße 30 </strasse_hnr>
+		<plz>24589</plz>
+		<ort>Nortorf</ort>
+		<telefon>04392 9144420</telefon>
+		<email>info@pflege-ella.de</email>
+		<web>http://pflege-ella.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Vital Ambulanter Pflegedienst</name>
+		<strasse_hnr>Flensburger Str. 134 </strasse_hnr>
+		<plz>24837</plz>
+		<ort>Schleswig</ort>
+		<telefon>04621 9529080</telefon>
+		<email>info@vital-homecare.de</email>
+		<web>http://www.vital-homecare.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Carisca Ambulant GmbH</name>
+		<strasse_hnr>Kieler Str. 21 </strasse_hnr>
+		<plz>25451</plz>
+		<ort>Quickborn</ort>
+		<telefon>04106 7995320</telefon>
+		<email>verwaltung@carisca-ambulant.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Prohumanity GmbH Krankenpflege Zuhause</name>
+		<strasse_hnr>Kuhlenweg 1-3 </strasse_hnr>
+		<plz>25436</plz>
+		<ort>Tornesch</ort>
+		<telefon>04122 45679</telefon>
+		<email>info@prohumanity.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Vitanas Ambulant GmbH Plön</name>
+		<strasse_hnr>Rodomstorstraße 103 </strasse_hnr>
+		<plz>24306</plz>
+		<ort>Plön</ort>
+		<telefon>04522 7479230</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Familien und Seniorenberatung Kiel GmbH</name>
+		<strasse_hnr>Holtenauer Straße 94 </strasse_hnr>
+		<plz>24105</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 12876038</telefon>
+		<email>kiel@homeinstead.de</email>
+		<web>http://www.homeinstead.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Büttner und Büttner Pflegedienst GmbH</name>
+		<strasse_hnr>Gablonzerstr. 32 </strasse_hnr>
+		<plz>24610</plz>
+		<ort>Trappenkamp</ort>
+		<telefon>04323 8058554</telefon>
+		<email>info@pflegedienstbuettner.de</email>
+		<web>http://www.pflegedienstbuettner.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Hospital at Home - Das ambulante Pflegeteam GmbH</name>
+		<strasse_hnr>Bahnhofstraße 4a </strasse_hnr>
+		<plz>23795</plz>
+		<ort>Fahrenkrug</ort>
+		<telefon>04551 882472</telefon>
+		<email>k.schoeltzel@hospitalathome.de</email>
+		<web>http://www.hospitalathome.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Intensivpflege Amelie GmbH</name>
+		<strasse_hnr>Gildenplatz 3 </strasse_hnr>
+		<plz>24321</plz>
+		<ort>Lütjenburg</ort>
+		<telefon>04381 4160674</telefon>
+		<email>24h-intensivpflege@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Stapelholmer Pflegedienst GmbH</name>
+		<strasse_hnr>Westerstr. 18 </strasse_hnr>
+		<plz>25878</plz>
+		<ort>Drage</ort>
+		<telefon>04881 9387772</telefon>
+		<email>info@stapelholmer-pflegedienst.de</email>
+		<web>http://www.stapelholmer-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>PNT Pflegenotfallteam GmbH &amp; Co. KG</name>
+		<strasse_hnr>Paul-Ehrlich-Str. 1-3 </strasse_hnr>
+		<plz>23562</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 12011070</telefon>
+		<email>luebeck@pnt-pflegedienste.de</email>
+		<web>https://www.pnt-pflegedienste.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Alten- und Krankenpflegedienst per manus care</name>
+		<strasse_hnr>Industriestr. 5 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>04101 5380004</telefon>
+		<email>info@pmc-pflegedienst.de</email>
+		<web>https://pmc-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>MARA NF Seniorenbetreuung &amp; Ambulante Pflege</name>
+		<strasse_hnr>Bohnenstr. 1 </strasse_hnr>
+		<plz>25821</plz>
+		<ort>Bredstedt</ort>
+		<telefon>04671 7849595</telefon>
+		<email>b.jaeger@mara-nf.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam RD UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Am Waldheim 8 </strasse_hnr>
+		<plz>24631</plz>
+		<ort>Langwedel</ort>
+		<telefon>0431 5836905</telefon>
+		<email>ambulantes.pflegeteam@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst deltacare GmbH</name>
+		<strasse_hnr>Am Petroleumhafen 2 </strasse_hnr>
+		<plz>23611</plz>
+		<ort>Bad Schwartau</ort>
+		<telefon>0451 88320688</telefon>
+		<email>deltacareluebeck@gmail.com</email>
+		<web>http://www.deltacare-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegepartner Nord Ambulant GmbH</name>
+		<strasse_hnr>Dingstätte 28B </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>04101 6013770</telefon>
+		<email>info@ppn-ambulant.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>NordaCare GbR</name>
+		<strasse_hnr>Kieler Straße 104 </strasse_hnr>
+		<plz>25451</plz>
+		<ort>Quickborn</ort>
+		<telefon>04106 6407648</telefon>
+		<email>info@nordacare.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst NOVA</name>
+		<strasse_hnr>Gutenbergstraße 17 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 75682678</telefon>
+		<email>pflege.nova2019@gmaill.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Landliebe</name>
+		<strasse_hnr>Industriestr. 3 </strasse_hnr>
+		<plz>24211</plz>
+		<ort>Preetz</ort>
+		<telefon>0431 78584822</telefon>
+		<email>Pflegedienst.Landliebe@web.de</email>
+		<web>https://www.ambulanter-pflegedienst-landliebe.de/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Der Pflegedienst für Dich</name>
+		<strasse_hnr>Schulstr. 28 </strasse_hnr>
+		<plz>22113</plz>
+		<ort>Oststeinbek</ort>
+		<telefon>040 71144551</telefon>
+		<email>m.elvers@derpflegedienst-fuerdich.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst RoKa GmbH</name>
+		<strasse_hnr>Werfstraße 3 </strasse_hnr>
+		<plz>24148</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 12835542</telefon>
+		<email>info@roka-kiel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegewerk eGbR Standort Dänischenhagen</name>
+		<strasse_hnr>Dorfstr. 25 </strasse_hnr>
+		<plz>24229</plz>
+		<ort>Dänischenhagen</ort>
+		<telefon>04349 1888</telefon>
+		<email>ambulantedhagen@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Panda GmbH</name>
+		<strasse_hnr>Hamburger Str. 75 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 2190875</telefon>
+		<email>team@pflege-panda.de</email>
+		<web>http://www.pflege-panda.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Everest</name>
+		<strasse_hnr>Moislinger Allee 95 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 48680775</telefon>
+		<email>pflegedienst-everest@mail.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Glücksklee - Gaby Klingberg</name>
+		<strasse_hnr>Ahrensfelder Weg 6 </strasse_hnr>
+		<plz>22927</plz>
+		<ort>Großhansdorf</ort>
+		<telefon>04102 8033878</telefon>
+		<email>info@pflege-gluecksklee.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>PflegePlus Flensburg GmbH</name>
+		<strasse_hnr>Brauereiweg 16 </strasse_hnr>
+		<plz>24939</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 141280</telefon>
+		<email>info@pflegeplus-flensburg.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Harmonie Ambulanter Pflegedienst D. &amp; S. Korten GbR</name>
+		<strasse_hnr>Bahnhofstraße 2 </strasse_hnr>
+		<plz>24217</plz>
+		<ort>Schönberg</ort>
+		<telefon>0172 7589249</telefon>
+		<email>pflege@harmonie-korten.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege Sengermann</name>
+		<strasse_hnr>Otto-Ralfs-Str. 1 </strasse_hnr>
+		<plz>25548</plz>
+		<ort>Auufer</ort>
+		<telefon>0170 7300456</telefon>
+		<email>gerritsengermann@yahoo.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>ZUHAUSE GEPFLEGT GmbH</name>
+		<strasse_hnr>Am Hasselt 20a </strasse_hnr>
+		<plz>24576</plz>
+		<ort>Bad Bramstedt</ort>
+		<telefon>0176 62412569</telefon>
+		<email>info@zuhausegepflegt.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Rendsburg</name>
+		<strasse_hnr>Alte Kieler Landstraße 95 </strasse_hnr>
+		<plz>24768</plz>
+		<ort>Rendsburg</ort>
+		<telefon>04331 13990</telefon>
+		<email>erlach@pln-netz.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ghoriani Ambulanter Pflegedienst UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Große Straße 6a </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 6789673</telefon>
+		<email>info@ghoriani-pflegedienst.de</email>
+		<web>http://www.ghoriani-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege AS GmbH &amp; Co. KG</name>
+		<strasse_hnr>Barsbütteler Hof 2a </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>01520 6497977</telefon>
+		<email>info@pflege-as.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Intermed GmbH &amp; Co.KG</name>
+		<strasse_hnr>Kurt-Fischer-Str. 27 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 7782296</telefon>
+		<email>service@intermedpflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Aktiv Pflege Nord</name>
+		<strasse_hnr>Holtenauer Str. 320 </strasse_hnr>
+		<plz>24106</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 60801898</telefon>
+		<email>kontakt@ap-nord.de</email>
+		<web>http://www.ap-nord.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Dienst St. Anna</name>
+		<strasse_hnr>St. Annen-Weg 4 </strasse_hnr>
+		<plz>24223</plz>
+		<ort>Schwentinental</ort>
+		<telefon>04307 9070</telefon>
+		<email>st.anna@deutscher-orden.de</email>
+		<web>http://www.ambulanter-dienst-schwentinental.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeambulanz Nord GmbH</name>
+		<strasse_hnr>Lübecker Str. 9 </strasse_hnr>
+		<plz>22949</plz>
+		<ort>Ammersbek</ort>
+		<telefon>040 24431665</telefon>
+		<email>pflegeambulanz-nord@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Amrum</name>
+		<strasse_hnr>Feederhuugam 2 </strasse_hnr>
+		<plz>25946</plz>
+		<ort>Nebel</ort>
+		<telefon>04682 96068</telefon>
+		<email>amrum@pflegediakonie.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>JH ambulanter Pflegedienst</name>
+		<strasse_hnr>Koppelsberg 26 </strasse_hnr>
+		<plz>24306</plz>
+		<ort>Plön</ort>
+		<telefon>04522 7897676</telefon>
+		<email>mail@jukkaheymann.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Mittelpunkt. SH GmbH</name>
+		<strasse_hnr>Lise-Meitner-Str. 1-7 </strasse_hnr>
+		<plz>24223</plz>
+		<ort>Schwentinental</ort>
+		<telefon>04307 3729477</telefon>
+		<email>info@mittelpunktsh.de</email>
+		<web>http://www.mittelpunktsh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Gabriel</name>
+		<strasse_hnr>Am Fleth 46 </strasse_hnr>
+		<plz>25348</plz>
+		<ort>Glückstadt</ort>
+		<telefon>01525 4028008</telefon>
+		<email>gabriel.pflegedienst@gmail.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Intervernex Pflege GmbH</name>
+		<strasse_hnr>Seestr. 250-252 </strasse_hnr>
+		<plz>25469</plz>
+		<ort>Halstenbek</ort>
+		<telefon>04101 5109077</telefon>
+		<email>intervernex@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Luba ambulante Alten- und Krankenpflege</name>
+		<strasse_hnr>Industriestr. 10 </strasse_hnr>
+		<plz>24963</plz>
+		<ort>Tarp</ort>
+		<telefon>04638 2229797</telefon>
+		<email>info@luba-tarp.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam-Service Luerssen GmbH</name>
+		<strasse_hnr>Moorkampsweg 27 </strasse_hnr>
+		<plz>25462</plz>
+		<ort>Rellingen</ort>
+		<telefon>04101 42485</telefon>
+		<email>pts@pflegeteam-service.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Alten- &amp; Krankenpflege To Huus Inh. Melanie Dunois</name>
+		<strasse_hnr>Kjeirstr. 23 </strasse_hnr>
+		<plz>25980</plz>
+		<ort>Sylt</ort>
+		<telefon>04651 3386161</telefon>
+		<email>Sylt@pflegetohuus.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Fördepflege</name>
+		<strasse_hnr>Paul-Fleming-Str. 3 </strasse_hnr>
+		<plz>24114</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 59291760</telefon>
+		<email>info@foerdepflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Kempfer</name>
+		<strasse_hnr>Am Neuhof 1 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 5859064</telefon>
+		<email>info@pflegedienst-kempfer.de</email>
+		<web>http://www.krankenpflege-rach.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Aqua Pflegedienst</name>
+		<strasse_hnr>Zollstr. 3 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Wentorf</ort>
+		<telefon>040 18245333</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Kieler Pflegeengel GmbH - Ambulante Pflege &amp; Palliativversorgung Melsdorf</name>
+		<strasse_hnr>Dorfplatz 2 </strasse_hnr>
+		<plz>24109</plz>
+		<ort>Melsdorf</ort>
+		<telefon>04340 4997975</telefon>
+		<email>info@kieler-pflegeengel.de</email>
+		<web>http://www.kieler-pflegeengel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Amb. Pflegedienst im Graf-Recke-Quartier Neumünster</name>
+		<strasse_hnr>Pestalozziweg 22 </strasse_hnr>
+		<plz>24539</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 205900</telefon>
+		<email>J.Buestrin@graf-recke-stiftung.de</email>
+		<web>http://www.haus-berlin.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Hanse Pflegedienst GmbH</name>
+		<strasse_hnr>Grapengießer Str. 20 </strasse_hnr>
+		<plz>23556</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 92994307</telefon>
+		<email>info@hansepflegedienst.de</email>
+		<web>http://www.hansepflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Virage - Häusliche Pflege</name>
+		<strasse_hnr>Dorfstraße 109 </strasse_hnr>
+		<plz>25336</plz>
+		<ort>Klein Nordende</ort>
+		<telefon>04121 807725</telefon>
+		<email>info@virage-pflege.de</email>
+		<web>http://www.virage-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Amin UG</name>
+		<strasse_hnr>Memelstr. 27 </strasse_hnr>
+		<plz>24782</plz>
+		<ort>Büdelsdorf</ort>
+		<telefon>04522 7982029</telefon>
+		<email>amin@aminambulanterbetreuungsdienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Hoisdorfer Pflegedienst UG</name>
+		<strasse_hnr>Dorfstraße 18 </strasse_hnr>
+		<plz>22955</plz>
+		<ort>Hoisdorf</ort>
+		<telefon>04129 878551</telefon>
+		<email>info@ahrensburger-pflegedienst.de</email>
+		<web>http://www.ahrensburger-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>halpy GmbH</name>
+		<strasse_hnr>Einsiedelstr. 6 </strasse_hnr>
+		<plz>23554</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 58347070</telefon>
+		<email>info@halpy.de</email>
+		<web>http://www.halpy.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Min to Hus GbR Team Angeln</name>
+		<strasse_hnr>Große Straße 18 </strasse_hnr>
+		<plz>24392</plz>
+		<ort>Süderbrarup</ort>
+		<telefon>04641 9861377</telefon>
+		<email>angeln@min-to-hus.de</email>
+		<web>http://www.min-to-hus.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Mobiler Pflegedienst Selmer</name>
+		<strasse_hnr>Fockbeker Chaussee 196 </strasse_hnr>
+		<plz>24768</plz>
+		<ort>Rendsburg</ort>
+		<telefon>04331 4380638</telefon>
+		<email>t.selmer@pflegedienst-selmer.de</email>
+		<web>https://www.pflegedienst-selmer.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DIACARA</name>
+		<strasse_hnr>Fahrenberg 27-31 </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 72007623</telefon>
+		<email>pflegedianaramme@email.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>GPZ &quot;Am Katharinenhof&quot; GmbH</name>
+		<strasse_hnr>Otto-Heinrich-Engel-Bogen 18 </strasse_hnr>
+		<plz>24939</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 4935505</telefon>
+		<email>info@katharinenhof-flensburg.com</email>
+		<web>http://www.katharinenhof-flensburg.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>&quot;DIE Rotkäppchen&quot; GmbH &amp; Co.KG</name>
+		<strasse_hnr>Bahnhofstrasse 11 </strasse_hnr>
+		<plz>25451</plz>
+		<ort>Quickborn</ort>
+		<telefon>04106 9769394</telefon>
+		<email>mail@dierotkaeppchen.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Weißes Segel UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Segeberger Str. 60 </strasse_hnr>
+		<plz>23863</plz>
+		<ort>Kayhude</ort>
+		<telefon>04535 4109541</telefon>
+		<email>info@weisses-segel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst BLAGO GmbH</name>
+		<strasse_hnr>Hamburger Str. 68 </strasse_hnr>
+		<plz>24568</plz>
+		<ort>Kaltenkirchen</ort>
+		<telefon>04191 2748796</telefon>
+		<email>info@blago-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Mira- Care</name>
+		<strasse_hnr>Bahnhofstr. 48 </strasse_hnr>
+		<plz>23843</plz>
+		<ort>Bad Oldesloe</ort>
+		<telefon>04531 4314020</telefon>
+		<email>kontakt@mira-care.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Hand mit Herz in Heide</name>
+		<strasse_hnr>Bundesstr. 5 Nr 55 </strasse_hnr>
+		<plz>25795</plz>
+		<ort>Weddingstedt</ort>
+		<telefon>0481 68370995</telefon>
+		<email>info@handmitherz-rd.de</email>
+		<web>http://www.handmitherz-rd.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Care-Team Kiel GbR</name>
+		<strasse_hnr>Landecker Weg 51a </strasse_hnr>
+		<plz>24147</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 66877600</telefon>
+		<email>info@care-teamkiel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Norderstedter Pflegeteam</name>
+		<strasse_hnr>Am Kielortplatz 120 </strasse_hnr>
+		<plz>22850</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 35775330</telefon>
+		<email>info@norderstedter-pflegeteam.de</email>
+		<web>http://www.norderstedter-pflegeteam.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Schallhorn</name>
+		<strasse_hnr>Große Bergstr. 24 </strasse_hnr>
+		<plz>25774</plz>
+		<ort>Lunden</ort>
+		<telefon>04882 6054565</telefon>
+		<email>info@pflegeteam-schallhorn.de</email>
+		<web>http://www.pflegeteam-schallhorn.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst mit Herz und Empathie</name>
+		<strasse_hnr>Am Ladenzentrum 5 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 64831548</telefon>
+		<email>connyschoop@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>AnkerTeam GmbH</name>
+		<strasse_hnr>Hofholzallee 220 </strasse_hnr>
+		<plz>24109</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 12851818</telefon>
+		<email>moinmoin@ankerteam.eu</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ostholsteiner Lebensweg GmbH</name>
+		<strasse_hnr>Berliner Platz 4 </strasse_hnr>
+		<plz>23730</plz>
+		<ort>Neustadt in Holstein</ort>
+		<telefon>04561 6139870</telefon>
+		<email>info@lebenswege-ostholstein.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege auf&apos;m platten Land</name>
+		<strasse_hnr>Hamburger Chausee 8 </strasse_hnr>
+		<plz>24113</plz>
+		<ort>Molfsee</ort>
+		<telefon>04347 / 90 29 700</telefon>
+		<email>info@pflegeaufmplattenland.de</email>
+		<web>https://www.pflegeaufmplattenland.de/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Prometheus Pflegedienst GmbH</name>
+		<strasse_hnr>Segeberger Straße 74 </strasse_hnr>
+		<plz>22850</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 94365657</telefon>
+		<email>info@prometheus-pflege.de</email>
+		<web>http://prometheus-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Manuela Steenbuck</name>
+		<strasse_hnr>Rosenstr. 30 </strasse_hnr>
+		<plz>25365</plz>
+		<ort>Klein Offenseth-Sparrieshoop</ort>
+		<telefon>04121 2649411</telefon>
+		<email>m-steenbuck@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam Perle</name>
+		<strasse_hnr>Stiefenhoferplatz 4 </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 35701765</telefon>
+		<email>kontakt@pflegeteamperle.de</email>
+		<web>http://ap-perle.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Lebensnah, Beratung und Pflege gGmbH</name>
+		<strasse_hnr>Paradeplatz 10 </strasse_hnr>
+		<plz>24768</plz>
+		<ort>Rendsburg</ort>
+		<telefon>04331 134570</telefon>
+		<email>info@lebensnah-rd.de</email>
+		<web>https://www.lebensnah-rd.de/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Vitacare24 GmbH</name>
+		<strasse_hnr>Am Ladenzentrum 4 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 524764260</telefon>
+		<email>info@vitacare24.de</email>
+		<web>https://www.vitacare24reinbek.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Nordlichter GmbH</name>
+		<strasse_hnr>Danzigerstr. 28 </strasse_hnr>
+		<plz>25474</plz>
+		<ort>Ellerbek</ort>
+		<telefon>04101 6045784</telefon>
+		<email>info@pflegedienst-nordlichter.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Dithmarschen Inh. Malte Wilstermann</name>
+		<strasse_hnr>Weddingstedter Str. 52 </strasse_hnr>
+		<plz>25746</plz>
+		<ort>Heide</ort>
+		<telefon>0481 42149865</telefon>
+		<email>info@pflegedienst-dithmarschen.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Steinburg Care GmbH Pflege und Betreuungsdienst</name>
+		<strasse_hnr>Hauptstraße 26 </strasse_hnr>
+		<plz>25582</plz>
+		<ort>Hohenaspe</ort>
+		<telefon>1515089797</telefon>
+		<email>kontakt@oliver-bargmann.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Lebenszeit Hamburg GmbH</name>
+		<strasse_hnr>Ohechaussee 113 </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 211079290</telefon>
+		<email>V.Sturmhoebel@lebenszeitpflege.de</email>
+		<web>https://www.lebenszeitpflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>D&amp;T Pflegeteam GmbH</name>
+		<strasse_hnr>Pinneberger Str. 155 </strasse_hnr>
+		<plz>25474</plz>
+		<ort>Ellerbek</ort>
+		<telefon>04101 6046280</telefon>
+		<email>service@pflegeteam-sh.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Blandus GmbH</name>
+		<strasse_hnr>Lornsenstr. 128-130 </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<telefon>040 85399155</telefon>
+		<email>info@blandus-pflege.de</email>
+		<web>https://www.blandus-pflege.de/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Ankerplatz</name>
+		<strasse_hnr>Matthias-Claudius-Str. 1 </strasse_hnr>
+		<plz>24558</plz>
+		<ort>Henstedt-Ulzburg</ort>
+		<telefon>04193 9883930</telefon>
+		<email>info@pflegeteam-ankerplatz.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>MeaCura Krankenpflege UG (haftungsbeschränkt) Inh. Elisa Ismailow-Fischer</name>
+		<strasse_hnr>Westpreußenring 168 </strasse_hnr>
+		<plz>23569</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 70730144</telefon>
+		<email>ismailow@meacura.org</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst &quot;Beatmung mit Herz&quot;</name>
+		<strasse_hnr>Oststr. 104 </strasse_hnr>
+		<plz>22844</plz>
+		<ort>Norderstedt</ort>
+		<telefon>0176-23694052</telefon>
+		<email>info@beatmungmitherz.de</email>
+		<web>https://www.beatmungmitherz.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>PIP Pflegedienst GmbH</name>
+		<strasse_hnr>Beethovenstr. 7 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 7473420</telefon>
+		<email>info@pip-pflege.de</email>
+		<web>http://www.pip-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Beeck</name>
+		<strasse_hnr>Kastanienweg 4 </strasse_hnr>
+		<plz>25727</plz>
+		<ort>Frestedt</ort>
+		<telefon>04830 901221</telefon>
+		<email>info@pflege-beeck.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Sozialstation Mölln/Gudow</name>
+		<strasse_hnr>Wasserkrüger Weg 7 </strasse_hnr>
+		<plz>23879</plz>
+		<ort>Mölln</ort>
+		<telefon>04542 808235</telefon>
+		<email>moelln@drk-ambulantepflege.de</email>
+		<web>http://www.drk-ambulantepflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>St. Johannis Diakonische Altenhilfe Dithmarschen gGmbH Diakonie-Sozialstation Meldorf/Marne</name>
+		<strasse_hnr>Friedrich-Holm-Weg 1 </strasse_hnr>
+		<plz>25704</plz>
+		<ort>Meldorf</ort>
+		<telefon>04832 607222</telefon>
+		<email>Info-st-johannis@diakonie-kropp.de</email>
+		<web>http://www.diakonie-kropp.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Caritasverband für das Erzbistum Hamburg e.V. Sozialisation Lübeck</name>
+		<strasse_hnr>Fegefeuer 2 </strasse_hnr>
+		<plz>23552</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 7994625</telefon>
+		<email>sst-luebeck@caritas-im-norden.de</email>
+		<web>http://www.caritas-im-norden.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO-Pflege Schleswig-Holstein gGmbH - AWO Pflegedienste Südholstein</name>
+		<strasse_hnr>Paul-Ehrlich-Straße 5-7 </strasse_hnr>
+		<plz>23562</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 384450</telefon>
+		<email>servicehaus-luebeck@awo-sh.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO Sozialstation Herzogtum Lauenburg</name>
+		<strasse_hnr>Büchener Weg 8a </strasse_hnr>
+		<plz>21481</plz>
+		<ort>Lauenburg</ort>
+		<telefon>04153 5972141</telefon>
+		<email>sabine.wienke@awo-pflege-sh.de</email>
+		<web>http://www.awo-pflege-sh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Johanniter-Unfall-Hilfe e. V. RV Schleswig-Holstein S/O Ambulanter Pflegedienst</name>
+		<strasse_hnr>Woldenhorn 3 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 211555</telefon>
+		<email>shso@johanniter.de</email>
+		<web>http://www.johanniter.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO Pflegedienste gGmbH</name>
+		<strasse_hnr>Preetzer Str. 35 </strasse_hnr>
+		<plz>24143</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 5300100</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Johanniter-Unfall-Hilfe e.V. Regionalverband SH Süd/Ost Ambulanter Pflegedienst Eutin</name>
+		<strasse_hnr>Max-Planck-Str. 7 </strasse_hnr>
+		<plz>23701</plz>
+		<ort>Eutin</ort>
+		<telefon>04521 791910</telefon>
+		<email>dienststelle.eutin@johanniter.de</email>
+		<web>http://www.juh-eutin.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Sozialstation</name>
+		<strasse_hnr>Rudolf-Höckner-Str. 6 </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 4474</telefon>
+		<email>sozialstation@drk-wedel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Sozialstation Wentorfer Hilfsdienst</name>
+		<strasse_hnr>Hauptstr. 18b </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Wentorf</ort>
+		<telefon>040 72978484</telefon>
+		<email>wentorfer-hilfsdienst@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Krankenpflege Aukrug</name>
+		<strasse_hnr>Am Raiffeisenturm 1h </strasse_hnr>
+		<plz>24613</plz>
+		<ort>Aukrug</ort>
+		<telefon>04873 1000</telefon>
+		<email>info@kpv-aukrug.de</email>
+		<web>http://www.kpv-aukrug.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>ASB - ambulante Dienste</name>
+		<strasse_hnr>Hamburger Chaussee 90 </strasse_hnr>
+		<plz>24113</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 661650</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Johanniter Unfall Hilfe e.V. Ambulanter Sozialer Dienst</name>
+		<strasse_hnr>Preetzer Straße 304 </strasse_hnr>
+		<plz>24147</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 57924210</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO Pflegedienst Pinneberg Nord</name>
+		<strasse_hnr>Friedrichstraße 2-4 </strasse_hnr>
+		<plz>25436</plz>
+		<ort>Tornesch</ort>
+		<telefon>04122 4044540</telefon>
+		<email>stefanie.holst@awo-sh.de</email>
+		<web>http://www.awo-pflege-tornesch.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO Service- und Wohnzentrum Mildstedt</name>
+		<strasse_hnr>Am Bahnhof 20 </strasse_hnr>
+		<plz>25866</plz>
+		<ort>Mildstedt</ort>
+		<telefon>04841 7880</telefon>
+		<email>swz@awo-sh.de</email>
+		<web>http://www.awo-pflege-sh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Schenefeld e.V.</name>
+		<strasse_hnr>Wurmkamp 10 </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<telefon>040 8302428</telefon>
+		<email>jennifer.ulatowski@diakoniestation-schenefeld.de</email>
+		<web>http://www.diakoniestation-schenefeld.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege zu Hause Preetz</name>
+		<strasse_hnr>Seestr. 1 </strasse_hnr>
+		<plz>24211</plz>
+		<ort>Preetz</ort>
+		<telefon>04342 71570</telefon>
+		<email>pflegezuhause@diakonie-ploen-se.de</email>
+		<web>http://www.diakonie-ploen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Krankenpflegeverband Ostangeln Diakonie-Sozialstation Gelting -Sörup-Steinbergkirche gGmbH</name>
+		<strasse_hnr>Süderholm 18 </strasse_hnr>
+		<plz>24395</plz>
+		<ort>Gelting</ort>
+		<telefon>04643 189292</telefon>
+		<email>info@dsst-gelting.de</email>
+		<web>http://www.ambulante-pflege-ostangeln.de/index.php?id=3</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Pflegedienst</name>
+		<strasse_hnr>Oberer Ehmschen 53 </strasse_hnr>
+		<plz>25462</plz>
+		<ort>Rellingen</ort>
+		<telefon>04101 5003190</telefon>
+		<email>info@drk-kreis-pinneberg.de</email>
+		<web>http://www.drk-kreis-pinneberg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Sozialstation Reinbek</name>
+		<strasse_hnr>Völckers Park 8 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 72738430</telefon>
+		<email>pd@svs-stormarn.de</email>
+		<web>http://www.svs-stormarn.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Uetersen</name>
+		<strasse_hnr>Tornescher Weg 76a </strasse_hnr>
+		<plz>25436</plz>
+		<ort>Uetersen</ort>
+		<telefon>04122 7744</telefon>
+		<email>diakoniestation-uetersen@web.de</email>
+		<web>http://www.diakoniestation-uetersen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>ASB Pinneberg/Steinburg</name>
+		<strasse_hnr>Hamburger Straße 160 </strasse_hnr>
+		<plz>25337</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 40940</telefon>
+		<email>info@asb-regionalverband.de</email>
+		<web>http://www.asb-pinneberg-steinburg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Sozialstation Ambulante Pflege Handewitt gGmbH</name>
+		<strasse_hnr>Wiesharder Markt 13d </strasse_hnr>
+		<plz>24983</plz>
+		<ort>Handewitt</ort>
+		<telefon>04608 263</telefon>
+		<email>mail@sozialstation-handewitt.de</email>
+		<web>http://www.sozialstation-handewitt.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonieverein Dänischer Wohld e.V.</name>
+		<strasse_hnr>Süderstr. 41c </strasse_hnr>
+		<plz>24214</plz>
+		<ort>Gettorf</ort>
+		<telefon>04346 412052</telefon>
+		<email>info@diakonie-gettorf.de</email>
+		<web>http://www.diakonie-gettorf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Arbeiter-Samariter-Bund Pflegedienst Ortsverein Schönberg</name>
+		<strasse_hnr>Stakendorfer Tor 6-10 </strasse_hnr>
+		<plz>24217</plz>
+		<ort>Schönberg</ort>
+		<telefon>04344 41160</telefon>
+		<email>info@asb-kreis-ploen.de</email>
+		<web>http://www.asb-kreis-ploen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Sozialstation im Altenhilfezentrum Schwarzenbek</name>
+		<strasse_hnr>Bismarckstr. 9b </strasse_hnr>
+		<plz>21493</plz>
+		<ort>Schwarzenbek</ort>
+		<telefon>04151 5342</telefon>
+		<email>pflege@drk-schwarzenbek.de</email>
+		<web>http://www.drk-schwarzenbek.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Sozialstation Stapelholm</name>
+		<strasse_hnr>Henning-Paulsen-Weg 2 </strasse_hnr>
+		<plz>24803</plz>
+		<ort>Erfde</ort>
+		<telefon>04333 99240</telefon>
+		<email>geschst@drk-sl-fl.de</email>
+		<web>http://www.drk-sl-fl.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO Pflegedienst im AWO-Servicehaus Norderstedt</name>
+		<strasse_hnr>In der Großen Heide 44 </strasse_hnr>
+		<plz>22846</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 52684711</telefon>
+		<email>angela.forray-freudenberg@awo-sh.de</email>
+		<web>http://www.awo-pflege-norderstedt.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO-Servicehaus Eckernförde</name>
+		<strasse_hnr>Reeperbahn 30-34 </strasse_hnr>
+		<plz>24340</plz>
+		<ort>Eckernförde</ort>
+		<telefon>04351 666780</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Drelsdorf</name>
+		<strasse_hnr>Dorfstr. 1a </strasse_hnr>
+		<plz>25853</plz>
+		<ort>Drelsdorf</ort>
+		<telefon>04671 930215</telefon>
+		<email>station.drelsdorf@diakonie-nf.de</email>
+		<web>http://www.diakonie-nf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Caritas-Pflegestation Elmshorn/Uetersen</name>
+		<strasse_hnr>Hamburger Straße 133 </strasse_hnr>
+		<plz>25337</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 1622</telefon>
+		<email>sst-elmshorn@caritas-im-norden.de</email>
+		<web>http://www.caritas-sh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Caritas-Pflegestation</name>
+		<strasse_hnr>Linienstr. 1 </strasse_hnr>
+		<plz>24534</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 15124</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Sozialstation im Amt Eggebek gGmbH</name>
+		<strasse_hnr>Kamplangerweg 11p </strasse_hnr>
+		<plz>24997</plz>
+		<ort>Wanderup</ort>
+		<telefon>04606 348</telefon>
+		<email>sozialstation.wanderup@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Ambulanter Pflegedienst Dithmarschen &quot;Pflege zu Hause&quot;</name>
+		<strasse_hnr>Hamburger Str. 73 </strasse_hnr>
+		<plz>25746</plz>
+		<ort>Heide</ort>
+		<telefon>0481 90226</telefon>
+		<email>PflegezuHause@drk-dithmarschen.de</email>
+		<web>http://www.drk-dithmarschen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Dänischer Gesundheitsdienst für Südschleswig</name>
+		<strasse_hnr>Waldstr. 45 </strasse_hnr>
+		<plz>24939</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 5705826</telefon>
+		<email>dansk.alderdomshjem@dksund.de</email>
+		<web>http://www.dksund.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Sozialstation Silberstedt und Umgebung e.V.</name>
+		<strasse_hnr>An&apos;t Dokterhus 9 </strasse_hnr>
+		<plz>24887</plz>
+		<ort>Silberstedt</ort>
+		<telefon>04626 1060</telefon>
+		<email>info@sozialstation-silberstedt.de</email>
+		<web>http://www.sozialstation-silberstedt.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege ASB Regionalverband Ostholstein</name>
+		<strasse_hnr>Tollbrettkoppel 15 </strasse_hnr>
+		<plz>23774</plz>
+		<ort>Heiligenhafen</ort>
+		<telefon>04362 900452</telefon>
+		<email>pflege@asb-ov-heiligenhafen.de</email>
+		<web>http://www.asb-heiligenhafen.com</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie-Sozialstation Schwabstedt-Ostenfeld</name>
+		<strasse_hnr>Hauptstr. 50 </strasse_hnr>
+		<plz>25887</plz>
+		<ort>Winnert</ort>
+		<telefon>04624 801671</telefon>
+		<email>ambulant-schwabstedt-ostenfeld@diakonie-kropp.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonische Pflegedienste Süderdithmarschen Diakonie-/Sozialstation Marne</name>
+		<strasse_hnr>Dr. Beber-Str. 4 </strasse_hnr>
+		<plz>25709</plz>
+		<ort>Marne</ort>
+		<telefon>04851 957636</telefon>
+		<email>e.meyer2@diakonie-kropp.de</email>
+		<web>http://www.diakonie-kropp.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Pflegedienst Nordfriesland- Husum-Eiderstedt gGmbH</name>
+		<strasse_hnr>Industriestr. 9 </strasse_hnr>
+		<plz>25813</plz>
+		<ort>Husum</ort>
+		<telefon>04841 93134</telefon>
+		<email>torben.walluks@drk-nordfriesland.de</email>
+		<web>http://www.drk-nordfriesland.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie-Sozialstation Bredstedt-Langenhorn</name>
+		<strasse_hnr>Osterstr. 14 </strasse_hnr>
+		<plz>25821</plz>
+		<ort>Bredstedt</ort>
+		<telefon>04671 5911</telefon>
+		<email>station.bredstedt@diakonie-nf.de</email>
+		<web>http://www.diakonie-nf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Amtsschwesternstation Fockbek gGmbH</name>
+		<strasse_hnr>Rendsburger Str. 52 </strasse_hnr>
+		<plz>24787</plz>
+		<ort>Fockbek</ort>
+		<telefon>04331 6454</telefon>
+		<email>info@sozialstation-fockbek.de</email>
+		<web>http://www.sozialstation-fockbek.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Husum</name>
+		<strasse_hnr>Stadtweg 44 </strasse_hnr>
+		<plz>25813</plz>
+		<ort>Husum</ort>
+		<telefon>04841 83880</telefon>
+		<email>zentrale@diakonie-nf.de</email>
+		<web>http://www.diakonie-nf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Sozialstation Eutin und Malente</name>
+		<strasse_hnr>Janusallee 1 </strasse_hnr>
+		<plz>23714</plz>
+		<ort>Malente</ort>
+		<telefon>04523 5500</telefon>
+		<email>sozialstation-eutin-malente@t-online.de</email>
+		<web>http://www.diakoniesozialstationen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Sozialstation Karrharde/Leck Süderlügum/Neukirchen gGmbH</name>
+		<strasse_hnr>Bergstraße 3 </strasse_hnr>
+		<plz>25926</plz>
+		<ort>Ladelund</ort>
+		<telefon>04666 9898980</telefon>
+		<email>drk-karrharde@t-online.de</email>
+		<web>http://www.drk-nf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Kummerfeld/Pinneberg</name>
+		<strasse_hnr>Peiner Hag 13a </strasse_hnr>
+		<plz>25497</plz>
+		<ort>Prisdorf</ort>
+		<telefon>04101 8565550</telefon>
+		<email>pinneberg@pflegediakonie.de</email>
+		<web>http://www.pflegediakonie.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienste Sylt gGmbH</name>
+		<strasse_hnr>Stephanstr. 16 </strasse_hnr>
+		<plz>25980</plz>
+		<ort>Sylt</ort>
+		<telefon>04651 836350</telefon>
+		<email>info@drksylt.de</email>
+		<web>http://www.drksylt.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Häuslicher Pflegedienst und Haus-Notruf-Dienst</name>
+		<strasse_hnr>Hahnknüll 58 </strasse_hnr>
+		<plz>24537</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 905271</telefon>
+		<email>info@drk-hahnknuell.de</email>
+		<web>http://www.drk-hahnknuell.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Hamdorf e.V.</name>
+		<strasse_hnr>Dorfstr. 15a </strasse_hnr>
+		<plz>24805</plz>
+		<ort>Hamdorf</ort>
+		<telefon>04332 99098</telefon>
+		<email>diakoniehamdorf@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Sozialstation im Amt Hürup</name>
+		<strasse_hnr>Am Ehrenmal 1a </strasse_hnr>
+		<plz>24975</plz>
+		<ort>Hürup</ort>
+		<telefon>04634 93300</telefon>
+		<email>info@sozialstation-amthuerup.de</email>
+		<web>http://www.sozialstation-amthuerup.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Johanniter-Unfall-Hilfe e.V. Soziale Dienste Lübeck Ambulanter Pflegedienst</name>
+		<strasse_hnr>Bei der Gasanstalt 12 </strasse_hnr>
+		<plz>23560</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 580100</telefon>
+		<email>shso@johanniter.de</email>
+		<web>http://www.johanniter.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Sozialstation Sylt-Ost und Norddörfer</name>
+		<strasse_hnr>Dirksstr. 11 </strasse_hnr>
+		<plz>25980</plz>
+		<ort>Sylt</ort>
+		<telefon>04651 33379</telefon>
+		<email>info@drk-sylt-ost.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Deutsche Seniorenwohnen Nord GmbH Ambulante Dienste</name>
+		<strasse_hnr>Amalienweg 1 </strasse_hnr>
+		<plz>24119</plz>
+		<ort>Kronshagen</ort>
+		<telefon>0431 5847410</telefon>
+		<email>amb-pflege@drk-rdeck.de</email>
+		<web>http://www.drk-rdeck.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Diakonie Station Neumünster</name>
+		<strasse_hnr>Mühlenstr. 17 </strasse_hnr>
+		<plz>24539</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 410110</telefon>
+		<email>pflege-neumuenster@diakonie-altholstein.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst DRK-Schwesternschaft Elsa Brändström e.V.</name>
+		<strasse_hnr>Mürwiker Str. 2 </strasse_hnr>
+		<plz>24943</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 3144020</telefon>
+		<email>ambulantepflege@drk-schwesternschaft-flensburg.de</email>
+		<web>http://www.drk-schwesternschaft-flensburg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Flensburg-Ost gGmbH</name>
+		<strasse_hnr>Saturnbogen 6 </strasse_hnr>
+		<plz>24943</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 670460</telefon>
+		<email>info@diakonie-fl-ost.de</email>
+		<web>http://www.diakonie-fl-ost.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie-Sozialstation Tangstedt</name>
+		<strasse_hnr>Hauptstr. 93 </strasse_hnr>
+		<plz>22889</plz>
+		<ort>Tangstedt</ort>
+		<telefon>04109 1814</telefon>
+		<email>diakonie-tangstedt@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Wilster /Glückstadt</name>
+		<strasse_hnr>Am Rosengarten 6 </strasse_hnr>
+		<plz>25554</plz>
+		<ort>Wilster</ort>
+		<telefon>04823 8803</telefon>
+		<email>wilster@pflegediakonie.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation im Amt Oeversee GmbH</name>
+		<strasse_hnr>Zum Wasserstern 1 </strasse_hnr>
+		<plz>24963</plz>
+		<ort>Tarp</ort>
+		<telefon>04638 210225</telefon>
+		<email>SDriessen@diako-tarp.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Ratzeburg-Mölln</name>
+		<strasse_hnr>Wedenberg 9 </strasse_hnr>
+		<plz>23909</plz>
+		<ort>Ratzeburg</ort>
+		<telefon>04541 898590</telefon>
+		<email>diakonie@st-georgsberg.de</email>
+		<web>http://www.st-georgsberg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Pflegedienste Niebüll-Bökingharde gGmbH</name>
+		<strasse_hnr>Gotteskoogstr. 3 </strasse_hnr>
+		<plz>25899</plz>
+		<ort>Niebüll</ort>
+		<telefon>04661 10414611</telefon>
+		<email>nie@drk-nordfriesland.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Hohenwestedt  / Todenbüttel</name>
+		<strasse_hnr>Thomashaus-Passage 2 </strasse_hnr>
+		<plz>24594</plz>
+		<ort>Hohenwestedt</ort>
+		<telefon>04871 3500</telefon>
+		<email>schwesternstationHT@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Schwesternschaft MOBIL</name>
+		<strasse_hnr>Edendorfer Str. 84 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 9577700</telefon>
+		<email>info@drk-schwesternschaft.de</email>
+		<web>http://www.drk-schwesternschaft-itzehoe.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Sozialstation</name>
+		<strasse_hnr>Liliencronweg 27 </strasse_hnr>
+		<plz>25849</plz>
+		<ort>Pellworm</ort>
+		<telefon>04844 696</telefon>
+		<email>info@sozialstation-pellworm.de</email>
+		<web>http://drk-ortsverein-pellworm.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Diakonie Station Kiel</name>
+		<strasse_hnr>Lehmberg 20-22 </strasse_hnr>
+		<plz>24105</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 577293</telefon>
+		<email>carsten.engel@diakonie-altholstein.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Diakonie Station Ostufer-Schwentinental</name>
+		<strasse_hnr>Wahlestr. 26 </strasse_hnr>
+		<plz>24148</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 726616</telefon>
+		<email>pflege-kielost@diakonie-altholstein.de</email>
+		<web>http://www.diakonie-altholstein.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Diakonie Station Kronshagen/Felde</name>
+		<strasse_hnr>Wendenstraße 15 B </strasse_hnr>
+		<plz>24119</plz>
+		<ort>Kronshagen</ort>
+		<telefon>04340 402504</telefon>
+		<email>pflege-kronshagen@diakonie-altholstein.de</email>
+		<web>http://www.diakonie-altholstein.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Sozialstation Schafflund gGmbH</name>
+		<strasse_hnr>Nordhackstedter Str. 2 </strasse_hnr>
+		<plz>24980</plz>
+		<ort>Schafflund</ort>
+		<telefon>04639 9666</telefon>
+		<email>info@sozialstation-schafflund.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Malteser Hilfsdienst gGmbH</name>
+		<strasse_hnr>Josephinenstr. 27 </strasse_hnr>
+		<plz>23554</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 4079780</telefon>
+		<email>apfl.timmendorfer-strand@malteser.org</email>
+		<web>https://www.malteser.de/standorte/timmendorfer-strand/angebote.html</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Schwesternstation Aumühle-Wohltorf gGmbH</name>
+		<strasse_hnr>Große Str. 48 </strasse_hnr>
+		<plz>21521</plz>
+		<ort>Aumühle</ort>
+		<telefon>04104 2104</telefon>
+		<email>aumuehle@pflegediakonie.de</email>
+		<web>http://www.pflegediakonie.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Pflegedienst Uetersen/Elmshorn</name>
+		<strasse_hnr>Flamweg 10 </strasse_hnr>
+		<plz>25337</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 2611022</telefon>
+		<email>info@drk-kreis-pinneberg.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Sozialstation Ratzeburg/Mustin</name>
+		<strasse_hnr>Röpersberg 2 </strasse_hnr>
+		<plz>23909</plz>
+		<ort>Ratzeburg</ort>
+		<telefon>04541 884155</telefon>
+		<email>jacobsen@drk-ambulantepflege.de</email>
+		<web>http://www.drk-ambulantepflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Pflegezentrum Ost</name>
+		<strasse_hnr>Jaguarring 12 </strasse_hnr>
+		<plz>23795</plz>
+		<ort>Bad Segeberg</ort>
+		<telefon>04551 87557</telefon>
+		<email>pflege-zu-hause.ost@drk-segeberg.de</email>
+		<web>http://www.drk-segeberg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>St. Georg gGmbH Diakonie-Sozialstation Heide/Wöhrden</name>
+		<strasse_hnr>Dietrich-Bonhoeffer-Str. 1 </strasse_hnr>
+		<plz>25746</plz>
+		<ort>Heide</ort>
+		<telefon>0481 6894330</telefon>
+		<email>info-st-georg@diakonie-kropp.de</email>
+		<web>http://www.diakonie-kropp.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Pflegeteam Holstein</name>
+		<strasse_hnr>Waldstr. 6 </strasse_hnr>
+		<plz>23701</plz>
+		<ort>Eutin</ort>
+		<telefon>0451 494202</telefon>
+		<email>pflegeteam-nord@drk-oh.de</email>
+		<web>http://www.drk-ostholstein.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Sozialstation Bad Schwartau</name>
+		<strasse_hnr>Alt Rensefeld 24 </strasse_hnr>
+		<plz>23611</plz>
+		<ort>Bad Schwartau</ort>
+		<telefon>0451 21820</telefon>
+		<email>sozialstation-bad-schwartau@diakoniesozialstation.de</email>
+		<web>http://www.diakoniesozialstationen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Sozialstation Bargteheide</name>
+		<strasse_hnr>Baumschulenstr. 24a </strasse_hnr>
+		<plz>22941</plz>
+		<ort>Bargteheide</ort>
+		<telefon>04532 22905</telefon>
+		<email>pflege-bargteheide@drk-stormarn.de</email>
+		<web>http://www.drk-stormarn.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Friedenskirche Siek</name>
+		<strasse_hnr>Hauptstr. 49 </strasse_hnr>
+		<plz>22962</plz>
+		<ort>Siek</ort>
+		<telefon>04107 850085</telefon>
+		<email>siek@pflegediakonie.de</email>
+		<web>http://www.kirche-siek.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Pflegedienste Nordfriesland gGmbH</name>
+		<strasse_hnr>Im Bad 8 </strasse_hnr>
+		<plz>25826</plz>
+		<ort>Sankt Peter-Ording</ort>
+		<telefon>04863 2200</telefon>
+		<email>sosta.spo@drk-nf.de</email>
+		<web>http://www.drk-nf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>St. Elisabeth Diakonie Sozialstation Schleswig</name>
+		<strasse_hnr>Neufelder Weg 2 </strasse_hnr>
+		<plz>24837</plz>
+		<ort>Schleswig</ort>
+		<telefon>04621 9770</telefon>
+		<email>info-st.elisabeth@diakonie-kropp.de</email>
+		<web>http://www.diakonie-kropp.de/einrichtungen/sankt-elisabeth/diakonie-sozialstation-schleswig/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Sozialstation Groß Grönau</name>
+		<strasse_hnr>Am Torfmoor 2 </strasse_hnr>
+		<plz>23627</plz>
+		<ort>Groß Grönau</ort>
+		<telefon>04509 2291</telefon>
+		<email>groenau@drk-ambulantepflege.de</email>
+		<web>http://www.drk-krankenhaus.de/ambulante-pflegedien.75.0.html</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Diakonie Station Kaltenkirchen</name>
+		<strasse_hnr>Hamburger Str. 58 </strasse_hnr>
+		<plz>24568</plz>
+		<ort>Kaltenkirchen</ort>
+		<telefon>04191 935990</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Diakonie Station Flintbek /Bordesholm</name>
+		<strasse_hnr>Kätnerskamp 1 </strasse_hnr>
+		<plz>24220</plz>
+		<ort>Flintbek</ort>
+		<telefon>04347 708400</telefon>
+		<email>doerthe.schellin@diakonie-altholstein.de</email>
+		<web>http://www.diakonie-altholstein.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO Sozialstation Tönning</name>
+		<strasse_hnr>Hochsteg 39 </strasse_hnr>
+		<plz>25832</plz>
+		<ort>Tönning</ort>
+		<telefon>04861 5027</telefon>
+		<email>sozialstation-toenning@awo-pflege-sh.de</email>
+		<web>http://www.awo-pflege-sh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Viöl</name>
+		<strasse_hnr>Schwalbenweg 2 </strasse_hnr>
+		<plz>25884</plz>
+		<ort>Viöl</ort>
+		<telefon>04843 20820</telefon>
+		<email>station.vioel@diakonie-nf.de</email>
+		<web>http://www.diakonie-nf.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Elbmarsch</name>
+		<strasse_hnr>Klinker Str. 84 </strasse_hnr>
+		<plz>25436</plz>
+		<ort>Moorrege</ort>
+		<telefon>04122 83244</telefon>
+		<email>elbmarsch@pflegediakonie.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniesozialstation Bönningstedt / Garstedt</name>
+		<strasse_hnr>Ellerbeker Str. 12 </strasse_hnr>
+		<plz>25474</plz>
+		<ort>Bönningstedt</ort>
+		<telefon>040 5566313</telefon>
+		<email>boenningstedt@pflegediakonie.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakoniestation Elmshorn</name>
+		<strasse_hnr>Mühlendamm 15 </strasse_hnr>
+		<plz>25335</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 88888</telefon>
+		<email>elmshorn@pflegediakonie.de</email>
+		<web>http://www.pflegediakonie.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO Pflegedienste Flensburg</name>
+		<strasse_hnr>Schulze-Delitzsch-Str. 21 </strasse_hnr>
+		<plz>24943</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 1441545</telefon>
+		<email>kerstin.fehlhaber@awo-ah.de</email>
+		<web>http://www.awo-pflege-sh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Pflegedienst West</name>
+		<strasse_hnr>Süderstr. 2a </strasse_hnr>
+		<plz>24568</plz>
+		<ort>Kaltenkirchen</ort>
+		<telefon>04191 802280</telefon>
+		<email>sz-kaltenkirchen-pdl@drk-segeberg.de</email>
+		<web>http://www.drk-segeberg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie Sozialstation Eckernförde</name>
+		<strasse_hnr>Margarethe-Kruse-Str. 6-8 </strasse_hnr>
+		<plz>24340</plz>
+		<ort>Eckernförde</ort>
+		<telefon>04351 713150</telefon>
+		<email>verwaltung@st-martin-eckernfoerde.de</email>
+		<web>http://www.st-martin-eckernfoerde.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Plön</name>
+		<strasse_hnr>Hamburger Str. 32 a </strasse_hnr>
+		<plz>24306</plz>
+		<ort>Plön</ort>
+		<telefon>04522 789470</telefon>
+		<email>ploen@johanniter.de</email>
+		<web>http://johanniter.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst ELIM mobil</name>
+		<strasse_hnr>Rathausallee 70 </strasse_hnr>
+		<plz>22846</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 32594471</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>ASB Landesverband S-H e. V. ambulante Pflege Flensburg</name>
+		<strasse_hnr>Paul-Ziegler-Str. 1a/b </strasse_hnr>
+		<plz>24939</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 503990</telefon>
+		<email>pflege-fl@asb-lvsh.de</email>
+		<web>http://www.pflegedienst-flensburg.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Föhr Land e. V.</name>
+		<strasse_hnr>Mühlenweg 10 </strasse_hnr>
+		<plz>25938</plz>
+		<ort>Midlum</ort>
+		<telefon>04681 747660</telefon>
+		<email>drk-foehr-land@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>ASB Ambulante Pflege Eckernförde</name>
+		<strasse_hnr>Marienthaler Straße 12 </strasse_hnr>
+		<plz>24340</plz>
+		<ort>Eckernförde</ort>
+		<telefon>04351 81800</telefon>
+		<email>pflege-eckernfoerde@asb-kiel.org</email>
+		<web>http://www.asb-kiel.org</web>
+	</einrichtung>
+	<einrichtung>
+		<name>ASB Sozialstation Bad Segeberg</name>
+		<strasse_hnr>Kurhausstr. 51 </strasse_hnr>
+		<plz>23795</plz>
+		<ort>Bad Segeberg</ort>
+		<telefon>04551 84202</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>DSG-Diakonie-Sozialstation Grundhof-Munkbrarup GmbH</name>
+		<strasse_hnr>Schwarze Str. 2a </strasse_hnr>
+		<plz>24977</plz>
+		<ort>Langballig</ort>
+		<telefon>04636 97480</telefon>
+		<email>info-sozialstation-langballig@diako.de</email>
+		<web>http://diako-sozialstation-langballig.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Arbeiter-Samariter-Bund Ambulante Pflege Neumünster</name>
+		<strasse_hnr>Wittorfer Str. 89 </strasse_hnr>
+		<plz>24539</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 31333</telefon>
+		<email>i.kapteina@asb-lvsh.de</email>
+		<web>http://www.asb-lvsh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Ahsbahsstift</name>
+		<strasse_hnr>Breite Str. 65 </strasse_hnr>
+		<plz>25361</plz>
+		<ort>Krempe</ort>
+		<telefon>04821 803230</telefon>
+		<email>diakonie-sozialstation@freenet.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Johanniter-Unfall-Hilfe e. V. Pflegedienst Pinneberg / Elmshorn</name>
+		<strasse_hnr>Koppelstr. 17 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>04101 586600</telefon>
+		<email>shso@johanniter.de</email>
+		<web>http://www.johanniter.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>St. Christian Diakonie-Sozialstation Eiderstedt gGmbH</name>
+		<strasse_hnr>Norderring 15 </strasse_hnr>
+		<plz>25836</plz>
+		<ort>Garding</ort>
+		<telefon>04862 1881177</telefon>
+		<email>ambulant-eiderstedt@diakonie-kropp.de</email>
+		<web>http://www.diakonie-kropp.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie Sozialstation Travemünde</name>
+		<strasse_hnr>Am Dreilingsberg 21 </strasse_hnr>
+		<plz>23570</plz>
+		<ort>Lübeck</ort>
+		<telefon>04502 302072</telefon>
+		<email>info@diakonie-nordnordost.de</email>
+		<web>http://www.diakonie-nordnordost.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie Sozialstation Lübeck</name>
+		<strasse_hnr>Travemünder Allee 15 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 77705</telefon>
+		<email>ambulante-pflege-luebeck@diakonie-nordnordost.de</email>
+		<web>http://www.diakonie-nordnordost.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege Lübeck</name>
+		<strasse_hnr>Höschstr. 1 </strasse_hnr>
+		<plz>23560</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 67500</telefon>
+		<email>pflege@asb-luebeck.de</email>
+		<web>http://www.asb-luebeck.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie Sozialstation Hohes Elbufer</name>
+		<strasse_hnr>Friedrichsruher Str. 13 </strasse_hnr>
+		<plz>21529</plz>
+		<ort>Kröppelshagen-Fahrendorf</ort>
+		<telefon>04104 6954942</telefon>
+		<email>ambulante.pflege@vorwerker-diakonie.de</email>
+		<web>http://www.vorwerker-diakonie.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Gemeindepflege Kellinghusen gemeinnützige GmbH</name>
+		<strasse_hnr>Hauptstr. 17 </strasse_hnr>
+		<plz>25563</plz>
+		<ort>Wrist</ort>
+		<telefon>04822 37171</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>WILMA- Wohnen mit Assistenz</name>
+		<strasse_hnr>Bahnhofstr. 2 </strasse_hnr>
+		<plz>25348</plz>
+		<ort>Glückstadt</ort>
+		<telefon>04124 60837200</telefon>
+		<email>info@pflege-inklusiv.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>ASB-Pflegezentrum Nordfriesland</name>
+		<strasse_hnr>Husumer Str. 1 </strasse_hnr>
+		<plz>25866</plz>
+		<ort>Mildstedt</ort>
+		<telefon>04841 63868</telefon>
+		<email>i.kapteina@asb-lvsh.de</email>
+		<web>http://www.asb-lvsh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Mook we gern gGmbH</name>
+		<strasse_hnr>Bütjestr. 6 </strasse_hnr>
+		<plz>25704</plz>
+		<ort>Meldorf</ort>
+		<telefon>04832 6011193</telefon>
+		<email>info@mookwegern-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Pflegedienste Lübeck gGmbH</name>
+		<strasse_hnr>Solmitzstraße 45a </strasse_hnr>
+		<plz>23569</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 592930777</telefon>
+		<email>pd-luebeck@drk-luebeck.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Betreuungsdienste Lübeck gGmbH</name>
+		<strasse_hnr>Herrendamm 42-50 </strasse_hnr>
+		<plz>23556</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 48151280</telefon>
+		<email>pflegedienst@drk-luebeck.de</email>
+		<web>http://www.drk-luebeck.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie-Sozialstation Hansühn</name>
+		<strasse_hnr>Lütjenburger Straße 4 </strasse_hnr>
+		<plz>23758</plz>
+		<ort>Wangels</ort>
+		<telefon>04361 6265690</telefon>
+		<email>verwaltung@diakoniesozialstationen.de</email>
+		<web>http://www.diakoniesozialstationen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Brücke Schleswig-Holstein Pflegedienst Heide</name>
+		<strasse_hnr>Süderstraße 10 </strasse_hnr>
+		<plz>25746</plz>
+		<ort>Heide</ort>
+		<telefon>0481 77502650</telefon>
+		<email>pflegedienst.heide@bruecke-sh.de</email>
+		<web>http://www.bruecke-sh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie Sozialstation Berkenthin-Sandesneben</name>
+		<strasse_hnr>Am Amtsgraben 4 </strasse_hnr>
+		<plz>23898</plz>
+		<ort>Sandesneben</ort>
+		<telefon>04536 9979644</telefon>
+		<email>sosta.berkenthin@arcor.de</email>
+		<web>http://www.kirche-berkenthin.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK-Kreisverband Steinburg e.V. , Ambulante Soziale Dienste</name>
+		<strasse_hnr>Bahnhofstr. 11 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 67900</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Diakonie Rickling-Trappenkamp</name>
+		<strasse_hnr>Danziger Str. 20 </strasse_hnr>
+		<plz>24610</plz>
+		<ort>Trappenkamp</ort>
+		<telefon>04328 722300</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO-Pflegedienst Büdelsdorf</name>
+		<strasse_hnr>Eschenweg 1a </strasse_hnr>
+		<plz>24782</plz>
+		<ort>Büdelsdorf</ort>
+		<telefon>04331 708830</telefon>
+		<email>pflegedienste-buedelsdorf@awo-pflege-sh.de</email>
+		<web>http://www.awo-pflege-sh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Haus Billtal - Ambulanter Pflegedienst</name>
+		<strasse_hnr>Billtal 10 </strasse_hnr>
+		<plz>21521</plz>
+		<ort>Wohltorf</ort>
+		<telefon>04104 97610</telefon>
+		<email>billtal@wichern-reinbek.de</email>
+		<web>http://www.billtal.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Kieler Servicehäuser der AWO ambulanter Pflegedienst</name>
+		<strasse_hnr>Vaasastr. 2 </strasse_hnr>
+		<plz>24109</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 533300</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege Fliedergrün</name>
+		<strasse_hnr>Neuhöfer Str. 12 </strasse_hnr>
+		<plz>23858</plz>
+		<ort>Reinfeld</ort>
+		<telefon>04533 6105763</telefon>
+		<email>fliedergruen@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>DER! Pflegedienst Ostholstein GmbH</name>
+		<strasse_hnr>Albert-Mahlstedt-Str. 47 </strasse_hnr>
+		<plz>23701</plz>
+		<ort>Eutin</ort>
+		<telefon>04521 8470084</telefon>
+		<email>info@derpflegedienst-ostholstein.de</email>
+		<web>https://www.derpflegedienst-ostholstein.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>QuSana Pflegedienst GmbH</name>
+		<strasse_hnr>Barkauer Str. 56-58 </strasse_hnr>
+		<plz>24145</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 21070664</telefon>
+		<email>info@qusana-pflegedienst.de</email>
+		<web>https://www.qusana-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Zuversicht GmbH</name>
+		<strasse_hnr>Carl-Zeiss-Str. 2 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 56126285</telefon>
+		<email>info@pflegeteam-zuversicht.de</email>
+		<web>https://www.pflegeteam-zuversicht.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>LaRa ambulanter Pflegedienst GmbH</name>
+		<strasse_hnr>Poggendörper Weg 3-9 </strasse_hnr>
+		<plz>24149</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 79939902</telefon>
+		<email>info@lara-pflege.de</email>
+		<web>https://www.lara-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst INGA</name>
+		<strasse_hnr>Max-Ahrens-Weg 5 </strasse_hnr>
+		<plz>23879</plz>
+		<ort>Mölln</ort>
+		<telefon>04542 9769844</telefon>
+		<email>info@pflegedienst-inga.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Kieler Pflegeengel GmbH Ambulante Pflege &amp; Palliativversorgung Schilksee</name>
+		<strasse_hnr>Ankerplatz 10 </strasse_hnr>
+		<plz>24159</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 88868844</telefon>
+		<email>info@kieler-pflegeengel.de</email>
+		<web>https://www.kieler-pflegeengel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Das Pflegeteam on Tour</name>
+		<strasse_hnr>Am Hasselt 5b </strasse_hnr>
+		<plz>24576</plz>
+		<ort>Bad Bramstedt</ort>
+		<telefon>0176 47657410</telefon>
+		<email>Daspflegeteamontour@aol.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Bade und Hauschildt GmbH</name>
+		<strasse_hnr>Hauptstraße 48 </strasse_hnr>
+		<plz>25462</plz>
+		<ort>Rellingen</ort>
+		<telefon>04101 8051657</telefon>
+		<email>info@pflegedienst-bade-hauschildt.de</email>
+		<web>https://www.pflegedienst-bade-hauschildt.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Tandem Lübeck GmbH</name>
+		<strasse_hnr>Kolberger Platz 1 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 28047444</telefon>
+		<email>info@tandem-pflege-luebeck.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst mit Hand und Herz</name>
+		<strasse_hnr>Wilstedter Str. 49 </strasse_hnr>
+		<plz>24558</plz>
+		<ort>Henstedt-Ulzburg</ort>
+		<telefon>0176 29076719</telefon>
+		<email>Katharinabertram83@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Ferona</name>
+		<strasse_hnr>Möllner Landstr. 30 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 37088839</telefon>
+		<email>ferona-pflegedienst@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Saba Vita GmbH</name>
+		<strasse_hnr>Kuhberg 1 </strasse_hnr>
+		<plz>24619</plz>
+		<ort>Bornhöved</ort>
+		<telefon>04323 8024930</telefon>
+		<email>s.babayeva@sabavita-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>CuraVis</name>
+		<strasse_hnr>Hörn 6 </strasse_hnr>
+		<plz>24306</plz>
+		<ort>Bösdorf</ort>
+		<email>said.goodarzy@cura-vis.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Kleeblatt Intensivpflegedienst UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Wakendorferstr. 1A </strasse_hnr>
+		<plz>24629</plz>
+		<ort>Kisdorf</ort>
+		<email>KBI22@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege vor Ort Stephanie Pietsch</name>
+		<strasse_hnr>Am Markt 60a </strasse_hnr>
+		<plz>25746</plz>
+		<ort>Heide</ort>
+		<telefon>0481 68386060</telefon>
+		<email>info@pflege-vorort.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Oskar Intensivpflege GmbH</name>
+		<strasse_hnr>Johannes-Wilhelm-Geiger-Weg 1 </strasse_hnr>
+		<plz>24768</plz>
+		<ort>Rendsburg</ort>
+		<telefon>04331 843930</telefon>
+		<email>info@intensivpflege-oskar.de</email>
+		<web>https://www.intensivpflege-oskar.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>NanaCare</name>
+		<strasse_hnr>Rugenbarg 67 </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 46897125</telefon>
+		<email>pflege@nana-care.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Panda Segeberg GmbH</name>
+		<strasse_hnr>Rosenstr. 45 </strasse_hnr>
+		<plz>24576</plz>
+		<ort>Bad Bramstedt</ort>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeservice Krause GmbH</name>
+		<strasse_hnr>Rosendahler Weg 18b </strasse_hnr>
+		<plz>25866</plz>
+		<ort>Mildstedt</ort>
+		<telefon>0176 55677860</telefon>
+		<email>info@pflegeservice-krause.de</email>
+		<web>https://www.pflegeservice-krause.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Katis Betreuungsteam GmbH</name>
+		<strasse_hnr>Ulzburger &apos;Straße 563 </strasse_hnr>
+		<plz>22844</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 35732434</telefon>
+		<email>info@katies-betreuungsteam.de</email>
+		<web>https://www.katies-betreuungsteam.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Stille</name>
+		<strasse_hnr>Möllner Str. 55 </strasse_hnr>
+		<plz>21493</plz>
+		<ort>Schwarzenbek</ort>
+		<telefon>04151 8998978</telefon>
+		<email>anjastille2017@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Casa Senes ambulant GmbH Ambulante Pflege</name>
+		<strasse_hnr>Alte Dorfstr. 1 </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>01515 2571859</telefon>
+		<email>kontakt.vgn@casa-senes.de</email>
+		<web>https://www.casasenes.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Sozialstation Mittelangeln</name>
+		<strasse_hnr>Glücksburger Str. 11 </strasse_hnr>
+		<plz>24986</plz>
+		<ort>Mittelangeln</ort>
+		<telefon>04633 9684780</telefon>
+		<email>sozialstation-mittelangeln@drk-sl-fl.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Fortuna GmbH</name>
+		<strasse_hnr>Hauptstr. 38a </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 30936301</telefon>
+		<email>pflegeteamfortuna@gmail.com</email>
+		<web>https://www.pflegeteam-fortuna.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Das PflegeTeam Alena Peters</name>
+		<strasse_hnr>Memellandstr. 16 </strasse_hnr>
+		<plz>24537</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 492266</telefon>
+		<email>pflegeteam.nms@t-online.de</email>
+		<web>https://www.pflegeteam-nms.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Schwester Sercan GmbH &amp; Co. KG</name>
+		<strasse_hnr>Lauenburger Landstr. 11 </strasse_hnr>
+		<plz>21039</plz>
+		<ort>Börnsen</ort>
+		<telefon>040 235131415</telefon>
+		<email>info@schwestersercan.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Emsa ambulanter Pflegedienst UG &amp; Co.KG</name>
+		<strasse_hnr>Liebigstr. 2 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 60793793</telefon>
+		<email>kontakt@emsa-Pflegedienste.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam - Sorgenfrei UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Bickbargen 130 </strasse_hnr>
+		<plz>25469</plz>
+		<ort>Halstenbek</ort>
+		<telefon>040 52476044</telefon>
+		<email>info-kiebitzreihe@interpares-care.de</email>
+		<web>https://www.pflegeteam-sorgenfrei.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Caro Care GbR</name>
+		<strasse_hnr>Heinrich-Hertz-Straße 18 </strasse_hnr>
+		<plz>25336</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 646060</telefon>
+		<email>info@darocare.net</email>
+		<web>https://www.carocare.net</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Meyer GbR</name>
+		<strasse_hnr>Hamburger Chaussee 84 </strasse_hnr>
+		<plz>24113</plz>
+		<ort>Kiel</ort>
+		<telefon>0175 3511351</telefon>
+		<email>info@pflege-meyer.de</email>
+		<web>https://www.pflege-meyer.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>CR3ATE.care</name>
+		<strasse_hnr>Lise-Meitner-Straße 9 </strasse_hnr>
+		<plz>24223</plz>
+		<ort>Schwentinental</ort>
+		<telefon>0431 55680001</telefon>
+		<email>k.mohn@cr3ate.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Grömitzer Pflegedienst</name>
+		<strasse_hnr>Kleine Weide 15 </strasse_hnr>
+		<plz>23743</plz>
+		<ort>Grömitz</ort>
+		<telefon>04562 2667770</telefon>
+		<email>info-kiebitzreihe@interpares-care.de</email>
+		<web>https://www.gr.pd.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>ABC Pflegeteam GmbH &amp; Co.KG</name>
+		<strasse_hnr>Von-Bronsart-Straße 14 </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 70106569</telefon>
+		<email>info@abcpflegeteam.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Hero Ambulante Pflege GmbH</name>
+		<strasse_hnr>Am Stadion 1 </strasse_hnr>
+		<plz>25917</plz>
+		<ort>Leck</ort>
+		<telefon>04662 6147495</telefon>
+		<email>info@ambulantehero.de</email>
+		<web>https://ambulante-hero.de/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege La Vela Inh. Maria Rabe</name>
+		<strasse_hnr>Neuer Weg 24 </strasse_hnr>
+		<plz>24558</plz>
+		<ort>Henstedt-Ulzburg</ort>
+		<telefon>04193 9804470</telefon>
+		<email>info@pflege-lavela.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>SaiKo Intensivpflege GmbH</name>
+		<strasse_hnr>Am Alten Lokschuppen 8 </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>0176 70955547</telefon>
+		<email>saiko.intensivpflege@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>WFS UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Schulstraße 15a </strasse_hnr>
+		<plz>25451</plz>
+		<ort>Quickborn</ort>
+		<telefon>04106 6184998</telefon>
+		<email>info@pflegedienst-wfs.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Team LebensWek GmbH</name>
+		<strasse_hnr>Postredder 20a </strasse_hnr>
+		<plz>24589</plz>
+		<ort>Nortorf</ort>
+		<telefon>04392 6009800</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Landleben</name>
+		<strasse_hnr>Kampstr. 22 </strasse_hnr>
+		<plz>24601</plz>
+		<ort>Wankendorf</ort>
+		<telefon>04326 2895825</telefon>
+		<email>pflegedienstlandleben@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst an der Au</name>
+		<strasse_hnr>Kirchenbleeck 3 </strasse_hnr>
+		<plz>24576</plz>
+		<ort>Bad Bramstedt</ort>
+		<telefon>0179 3468422</telefon>
+		<email>uwesrda@kabelmail.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst am Gut</name>
+		<strasse_hnr>Tastruper Weg 40-42 </strasse_hnr>
+		<plz>24943</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 406840500</telefon>
+		<email>p.boysen@pflegedienst-am-gut.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Kraft UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Königstraße 9 </strasse_hnr>
+		<plz>25335</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 5784888</telefon>
+		<email>info@pflegedienst-kraft.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Lübeck GmbH &amp; Co.KG</name>
+		<strasse_hnr>Lindenstr. 46 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 87923999</telefon>
+		<email>luebeck@hsp-pflegedienst.de</email>
+		<web>https://www.hsp-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>agas Pflege GmbH</name>
+		<strasse_hnr>Humboldtstraße 25a </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 33484220</telefon>
+		<email>kontakt@agas-pflege.de</email>
+		<web>https://agas-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>DARYA Pflegedienst GmbH &amp; Co KG</name>
+		<strasse_hnr>Zum Ehrenhain 44a </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 226365890</telefon>
+		<email>info@darya-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Giessen GmbH</name>
+		<strasse_hnr>Georg-Sasse-Str. 11 </strasse_hnr>
+		<plz>22949</plz>
+		<ort>Ammersbek</ort>
+		<telefon>040 30749798</telefon>
+		<email>giessen@dasbesteimnorden.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Dienst Flora Höfe</name>
+		<strasse_hnr>Matthias-Kahlke-Promenade 13 </strasse_hnr>
+		<plz>25335</plz>
+		<ort>Elmshorn</ort>
+		<telefon>0173 2690763</telefon>
+		<email>karoline.hardorp@artecare.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>PflegeLook GbR</name>
+		<strasse_hnr>Bahnhofstr. 9 </strasse_hnr>
+		<plz>24619</plz>
+		<ort>Bornhöved</ort>
+		<telefon>04323 9996660</telefon>
+		<email>info@pflegelook.de</email>
+		<web>https://www.pflegelook.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Herzensmensch</name>
+		<strasse_hnr>Holländerkoppel 19a </strasse_hnr>
+		<plz>23858</plz>
+		<ort>Reinfeld</ort>
+		<telefon>04533 7850009</telefon>
+		<email>kontakt@pflegeteam-herzensmensch.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Alltagshelfer Rendsburg Eckernförde GmbH</name>
+		<strasse_hnr>Marienthaler Straße 20 </strasse_hnr>
+		<plz>24340</plz>
+		<ort>Eckernförde</ort>
+		<telefon>04351 8909400</telefon>
+		<email>nils.lass@homecare-alltagshelfer.de</email>
+		<web>https://homecare-alltagshelfer.de/eckernfoerde</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Azadi GmbH</name>
+		<strasse_hnr>Hauptsraße 38i </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 56116766</telefon>
+		<email>m.qadiri@pflegedienst-azadi.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Tabea Diakonie Pflegedienst gGmbH</name>
+		<strasse_hnr>Kieler Straße 75 </strasse_hnr>
+		<plz>25451</plz>
+		<ort>Quickborn</ort>
+		<telefon>04106 6264724</telefon>
+		<email>pdschenefeld@tabea.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Kieler Pflegeengel GmbH Ambulante Pflege &amp; Palliativversorgung Gettorf</name>
+		<strasse_hnr>Ravensberg 28 </strasse_hnr>
+		<plz>24214</plz>
+		<ort>Gettorf</ort>
+		<telefon>04346 3670044</telefon>
+		<email>info@kieler-pflegeengel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Vita Care</name>
+		<strasse_hnr>Dockenhuder Chaussee 16 </strasse_hnr>
+		<plz>25469</plz>
+		<ort>Halstenbek</ort>
+		<telefon>04101 8054478</telefon>
+		<email>info@vita-care.online</email>
+	</einrichtung>
+	<einrichtung>
+		<name>newcare ambulant Schenefeld</name>
+		<strasse_hnr>Ebenholzweg 1 </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<telefon>040 84004080</telefon>
+		<email>sef-info@newcare.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Nores GmbH &amp; Co. KG</name>
+		<strasse_hnr>Markt 17 </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 56113688</telefon>
+		<email>info@pflegedienst-lenz-nores.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>ZEN Intensiv- und Beatmungspflege GmbH</name>
+		<strasse_hnr>Kieler Straße 101B </strasse_hnr>
+		<plz>25474</plz>
+		<ort>Bönningstedt</ort>
+		<telefon>040 78055208</telefon>
+		<email>tin.mlivic@zen-intensivpflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Opoma GmbH</name>
+		<strasse_hnr>Gutenbergring 69 d </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 32082811</telefon>
+		<email>Jamalishadehi@yahoo.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>BS-Carepflege GmbH</name>
+		<strasse_hnr>Waldhofstr. 19 </strasse_hnr>
+		<plz>25474</plz>
+		<ort>Ellerbek</ort>
+		<telefon>04101 5903770</telefon>
+		<email>pdl@bs-cp.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Passion Care GmbH</name>
+		<strasse_hnr>Königsberger Straße 2 </strasse_hnr>
+		<plz>25479</plz>
+		<ort>Ellerau</ort>
+		<telefon>04106 6401234</telefon>
+		<email>info@passioncare.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>PflegeFux GmbH &amp; Co. KG</name>
+		<strasse_hnr>Kurt-Fischer-Str. 8 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 6673327</telefon>
+		<email>info@derpflegefux.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>halpy Kiel GmbH</name>
+		<strasse_hnr>Werftbahnstr. 8 </strasse_hnr>
+		<plz>24143</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 55688000</telefon>
+		<email>kontakt@halpy.de</email>
+		<web>https://www.halpy.de/</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Goldene Hände</name>
+		<strasse_hnr>Segeberger Chaussee 100 </strasse_hnr>
+		<plz>22851</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 88367148</telefon>
+		<email>info@gh-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Weiße Elfen ambulante Pflege UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Am Markt 12 </strasse_hnr>
+		<plz>25355</plz>
+		<ort>Barmstedt</ort>
+		<telefon>04123 8069020</telefon>
+		<email>ambulant@weisse-elfen-barmstedt.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Nordfriesland Inh. Malte Wilstermann</name>
+		<strasse_hnr>Dockkoogsstr. 1 </strasse_hnr>
+		<plz>25813</plz>
+		<ort>Husum</ort>
+		<telefon>04841 7795187</telefon>
+		<email>info@pflegedienst-nordfriesland.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>City Life Pflege</name>
+		<strasse_hnr>Manhagener Allee 45 </strasse_hnr>
+		<plz>22925</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 6910573</telefon>
+		<email>info@citylife-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Hansa Help GmbH</name>
+		<strasse_hnr>Hauptstr. 53 </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<telefon>040 21904505</telefon>
+		<email>info@hansahelp.de</email>
+		<web>https://www.hansahelp.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Traveblick Inh. Marina Pogosjan</name>
+		<strasse_hnr>Fackenburger Allee 11 </strasse_hnr>
+		<plz>23554</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 30493313</telefon>
+		<email>info@pflegedienst-traveblick.de</email>
+		<web>https://www.pflegedienst-traveblick.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Familien- un. Seniorenbetreuung Stormarn GmbH</name>
+		<strasse_hnr>Forsthof Hagen 1 a </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 8910940</telefon>
+		<email>stormarn@homeinstead.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>IDEAL Pflege mit Herz SH GbR</name>
+		<strasse_hnr>Ing.-Honnef-Str. 17 </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 28539950</telefon>
+		<email>info@ideal-pflege-holstein.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>PNT Pflegedienst Helgoland</name>
+		<strasse_hnr>Aquariumstraße 182 </strasse_hnr>
+		<plz>27498</plz>
+		<ort>Helgoland</ort>
+		<telefon>04725 7727</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Primus GmbH</name>
+		<strasse_hnr>Klostersande 20 </strasse_hnr>
+		<plz>25336</plz>
+		<ort>Elmshorn</ort>
+		<telefon>0162 7170852</telefon>
+		<email>info@pflegedienstprimus.eu</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Aktive Pflegezeit</name>
+		<strasse_hnr>Edendorfer Straße 69 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 7475782</telefon>
+		<email>aktivpflegezeit@aol.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Krankenpflegedienst Menschenzeit</name>
+		<strasse_hnr>Jollenweg 2 </strasse_hnr>
+		<plz>24837</plz>
+		<ort>Schleswig</ort>
+		<telefon>030 814001100</telefon>
+		<email>info@michaelbethke.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Curatun GmbH</name>
+		<strasse_hnr>Oberbüssauer Weg 6 </strasse_hnr>
+		<plz>23560</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 58344590</telefon>
+		<email>info@curatun.de</email>
+		<web>https://www.curatun.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Quickborn GmbH</name>
+		<strasse_hnr>Dorotheenstraße 2 </strasse_hnr>
+		<plz>25451</plz>
+		<ort>Quickborn</ort>
+		<telefon>04106 6409790</telefon>
+		<email>info@pflegeteam-quickborn.de</email>
+		<web>https://pflegeteam-quickborn.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Schenefeld GmbH &amp; Co. KG</name>
+		<strasse_hnr>Osterbrooksweg 24 </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<telefon>040 999996280</telefon>
+		<email>schenefeld@hsp-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Strand As GmbH &amp; Co KG</name>
+		<strasse_hnr>Kurgartenstr. 100 </strasse_hnr>
+		<plz>23570</plz>
+		<ort>Lübeck</ort>
+		<telefon>04502 7879218</telefon>
+		<email>l.storm@strand-as.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflegehelden GbR</name>
+		<strasse_hnr>Industriestr. 8 </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 41494681</telefon>
+		<email>ambulantepflegehelden@outlook.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Caritasverband für das Erzbistum Hamburg e.V. Sozialstation Kiel</name>
+		<strasse_hnr>Ostring 193 </strasse_hnr>
+		<plz>24148</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 590273</telefon>
+		<email>sst-kiel@caritas-im-norden.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegenativ GmbH</name>
+		<strasse_hnr>Medelbyer Weg 63 </strasse_hnr>
+		<plz>24983</plz>
+		<ort>Handewitt</ort>
+		<telefon>04608 2164175</telefon>
+		<email>info@pflegenativ.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Station D3 GmbH</name>
+		<strasse_hnr>Hauptstraße 22a </strasse_hnr>
+		<plz>25469</plz>
+		<ort>Halstenbek</ort>
+		<telefon>0173 1535525</telefon>
+		<email>pflege@station-d3.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Blunck &amp; Falk GmbH</name>
+		<strasse_hnr>Bürgerstr. 41 </strasse_hnr>
+		<plz>23701</plz>
+		<ort>Eutin</ort>
+		<telefon>04521 7613699</telefon>
+		<email>kontakt@blunck-falk.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>CareTeam</name>
+		<strasse_hnr>Kamper Weg 54 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 1481157</telefon>
+		<email>careteam.verwaltung@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Team ToHus UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Hauptstr. 44 </strasse_hnr>
+		<plz>23715</plz>
+		<ort>Bosau</ort>
+		<telefon>04527 2929963</telefon>
+		<email>info@pflegeteam-tohus.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Uetersen GmbH &amp; Co. KG</name>
+		<strasse_hnr>Tornescher Weg 33 </strasse_hnr>
+		<plz>25436</plz>
+		<ort>Uetersen</ort>
+		<telefon>04122 9808310</telefon>
+		<email>e.cevik@hsp-pflegedienst.de</email>
+		<web>https://www.hsp-pflegedienst.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Wohnpark Techau</name>
+		<strasse_hnr>Am Brink 17 </strasse_hnr>
+		<plz>23689</plz>
+		<ort>Techau</ort>
+	</einrichtung>
+	<einrichtung>
+		<name>Liebevollgeborgen</name>
+		<strasse_hnr>Tewesallee 6a </strasse_hnr>
+		<plz>25548</plz>
+		<ort>Kellinghusen</ort>
+		<telefon>04822 3672217</telefon>
+		<email>info@liebevollgeborgen.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Häusliche Pflege und Betreuung by Michael Pfister</name>
+		<strasse_hnr>Braaker Grund 7 </strasse_hnr>
+		<plz>22145</plz>
+		<ort>Braak</ort>
+		<telefon>0221 29195849</telefon>
+		<email>info@hauslichepflege-michaelfpister.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>KultiCura Pflegedienst GbR</name>
+		<strasse_hnr>Schönningstedter Str. 20 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 334665070</telefon>
+		<email>info@kulticura-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Herzenshelfer GmbH</name>
+		<strasse_hnr>Europaallee 32 </strasse_hnr>
+		<plz>22850</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 226373440</telefon>
+		<email>info@pflegedienstherzenshelfer.de</email>
+		<web>https://www.pflegedienstherzenshelfer.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Emporia Pflegedienst GmbH</name>
+		<strasse_hnr>Hauptstr. 70 </strasse_hnr>
+		<plz>25462</plz>
+		<ort>Rellingen</ort>
+		<telefon>040 32871904</telefon>
+		<email>info@emporia-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegehafen Beatmung &amp; Intensiv UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Osterbrooksweg 69-71 </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<email>pflegehafenug@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>PinnCare Pflegezentrum</name>
+		<strasse_hnr>Friedrich-Ebert-Str. 38 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>04101 8589880</telefon>
+		<email>info@pinncare-pflegezentrum.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Wentorf bei Hamburg</name>
+		<strasse_hnr>Berliner Str. 6c </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Wentorf</ort>
+		<telefon>040 999996260</telefon>
+		<email>Wentorf-hamburg@hsp-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Phönix Pflegedienst GmbH &amp; Co. KG</name>
+		<strasse_hnr>Ochsenzoller Str. 183 </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 8669800</telefon>
+		<email>info@phoenix-pflegedienst-norderstedt.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Kaltenkirchen</name>
+		<strasse_hnr>Schützenstr. 12 </strasse_hnr>
+		<plz>24568</plz>
+		<ort>Kaltenkirchen</ort>
+		<telefon>04191 9949400</telefon>
+		<email>s.aras@hsp-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Neue Arbeits-Region K.E.R.N GmbH Ambulanter Pflegedienst Lebensfreude</name>
+		<strasse_hnr>Wasbekerstr. 145a </strasse_hnr>
+		<plz>24534</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 555150</telefon>
+		<email>lebensfreude@neue-arbeit-region-kern.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst an der Elbe GmbH</name>
+		<strasse_hnr>Fürstengarten 6 </strasse_hnr>
+		<plz>21481</plz>
+		<ort>Lauenburg</ort>
+		<telefon>0176 87921661</telefon>
+		<email>pflegedienst-anderelbe@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegebund GmbH &amp; Co. KG</name>
+		<strasse_hnr>Im Hegen 2 </strasse_hnr>
+		<plz>22113</plz>
+		<ort>Oststeinbek</ort>
+		<telefon>040 27141132</telefon>
+		<email>info@ambulanter-pflegebund.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Kinderpflegedienst.com Deutschland GmbH</name>
+		<strasse_hnr>Neufeldstr. 6 </strasse_hnr>
+		<plz>24118</plz>
+		<ort>Kiel</ort>
+		<telefon>0721 81969740</telefon>
+		<email>j.jung@kinderpflegedienst.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Lebenszeit Schleswig-Holstein GmbH</name>
+		<strasse_hnr>Kaistr. 90 </strasse_hnr>
+		<plz>24114</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 65959100</telefon>
+		<email>ottens@lebenszeitpflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Falke Pflege und Beratung GbR</name>
+		<strasse_hnr>Dieselstr. 1a </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 25339485</telefon>
+		<email>info@falke-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Saffee GmbH</name>
+		<strasse_hnr>Bredhornweg 72 </strasse_hnr>
+		<plz>25488</plz>
+		<ort>Holm</ort>
+		<telefon>04103 9049455</telefon>
+		<email>khansaffee@yahoo.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Nordlicht OHG</name>
+		<strasse_hnr>Zollstr. 5 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Wentorf</ort>
+		<telefon>0221 98819850</telefon>
+		<email>info@pflegedienst-Nordlicht.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeservice in Schleswig-Holstein GmbH</name>
+		<strasse_hnr>Hamburger Str. 28 </strasse_hnr>
+		<plz>24558</plz>
+		<ort>Henstedt-Ulzburg</ort>
+		<telefon>04193 870860</telefon>
+		<email>info@pflegeservice-sh.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Norderstedt GmbH &amp; Co. KG</name>
+		<strasse_hnr>Ohechaussee 11 </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 999996265</telefon>
+		<email>norderstedt@hsp-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Infinity Care GmbH &amp; Co. KG</name>
+		<strasse_hnr>Ulzburger Straße 379 </strasse_hnr>
+		<plz>22846</plz>
+		<ort>Norderstedt</ort>
+		<telefon>0176 81082022</telefon>
+		<email>info@ic-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HavenCare Pflegedienst oHG</name>
+		<strasse_hnr>Hauptstraße 32-34 </strasse_hnr>
+		<plz>25469</plz>
+		<ort>Halstenbek</ort>
+		<telefon>04101 5255575</telefon>
+		<email>havencare.pflegedienst@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>ZaraCare ambulanter Pflegedienst GmbH</name>
+		<strasse_hnr>Ohlstedter Str. 17 </strasse_hnr>
+		<plz>22949</plz>
+		<ort>Ammersbek</ort>
+		<telefon>040 334683790</telefon>
+		<email>info@zaracare.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Moyo Care Conzept GmbH</name>
+		<strasse_hnr>Zu den Ziegelwiesen 7 </strasse_hnr>
+		<plz>23881</plz>
+		<ort>Alt Mölln</ort>
+		<telefon>04101 5863736</telefon>
+		<email>moin@moyo.care</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Vimoria GmbH</name>
+		<strasse_hnr>Schloßstr. 13 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Heiligenstedten</ort>
+		<telefon>04101 5863736</telefon>
+		<email>moin@moyo.care</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst und Alltagshilfe Schleswig-Flensburg GmbH</name>
+		<strasse_hnr>Bremland 9a </strasse_hnr>
+		<plz>24857</plz>
+		<ort>Fahrdorf</ort>
+		<telefon>04621 9859494</telefon>
+		<email>mykyta.anotskyi@homecare-alltagshelfer.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Lenzzeit Pflegeteam Oststeinbek GmbH</name>
+		<strasse_hnr>Gutenbergstr. 2a </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 28573630</telefon>
+		<email>info@lenzzeit.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Medistrand Pflegedienst GmbH</name>
+		<strasse_hnr>Rose 4 </strasse_hnr>
+		<plz>23570</plz>
+		<ort>Lübeck</ort>
+		<telefon>0176 84636629</telefon>
+		<email>info@medistrand-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Mölln Breitenfelde GmbH</name>
+		<strasse_hnr>Bundesstraße 4 </strasse_hnr>
+		<plz>23881</plz>
+		<ort>Breitenfelde</ort>
+		<telefon>04542 8222722</telefon>
+		<email>j.groth@hsp-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege zwischen den Meeren GmbH</name>
+		<strasse_hnr>Erichsenweg 23 A </strasse_hnr>
+		<plz>25813</plz>
+		<ort>Husum</ort>
+		<telefon>04841 9989333</telefon>
+		<email>husum@homecare-alltagshelfer.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Hayat Ambulanter Pflegedienst</name>
+		<strasse_hnr>Kirchweg 125a </strasse_hnr>
+		<plz>24558</plz>
+		<ort>Henstedt-Ulzburg</ort>
+		<telefon>04193 9803322</telefon>
+		<email>info@hayat-ambulante-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Küstenpflege GmbH</name>
+		<strasse_hnr>Europastr. 33 b </strasse_hnr>
+		<plz>24976</plz>
+		<ort>Handewitt</ort>
+		<telefon>0461 80729988</telefon>
+		<email>moin@kuestenpflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Schwabstedter Pflegeteam</name>
+		<strasse_hnr>Kirchenstr. 10 </strasse_hnr>
+		<plz>25876</plz>
+		<ort>Schwabstedt</ort>
+		<telefon>04884 9097814</telefon>
+		<email>info@schwabstedter-pflegeteam.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Heimathilfe eGbR</name>
+		<strasse_hnr>Eichenweg 14 </strasse_hnr>
+		<plz>23827</plz>
+		<ort>Wensin</ort>
+		<telefon>04559 1886677</telefon>
+		<email>info@heimathilfe-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>DRK Pflegedienst Helgoland</name>
+		<strasse_hnr>Rek wai 403  </strasse_hnr>
+		<plz>27498</plz>
+		<ort>Helgoland</ort>
+	</einrichtung>
+	<einrichtung>
+		<name>AW Intensiv Team</name>
+		<strasse_hnr>Bahnhofstraße 3 </strasse_hnr>
+		<plz>25355</plz>
+		<ort>Barmstedt</ort>
+		<telefon>0174 7245048</telefon>
+		<email>kontakt@awintensiv.team</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Engel Halstenbek GmbH &amp; Co.KG</name>
+		<strasse_hnr>Hauptstraße 32-34 </strasse_hnr>
+		<plz>25469</plz>
+		<ort>Halstenbek</ort>
+		<telefon>04101 5557494</telefon>
+		<email>info@pflegeengel-halstenbek.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>TAP Pflegedienst GmbH &amp; Co.KG</name>
+		<strasse_hnr>Dingstätte 34 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>04101 8211140</telefon>
+		<email>pinneberg@hsp-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Engel Pflegedienst GmbH</name>
+		<strasse_hnr>Kielredder 1 </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 30238946</telefon>
+		<email>info@engelpflegedienst.com</email>
+		<web>https://www.engelpflegedienst.com/de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>HMC Pflegedienst Wedel GmbH &amp; Co. KG</name>
+		<strasse_hnr>Rosengarten 6 </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 9023007</telefon>
+		<email>info@hmc-wedel.de</email>
+		<web>https://hmc-wedel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Goldherz Pflegeteam GmbH &amp; Co.KG</name>
+		<strasse_hnr>Von-Bronsart-Str. 12 </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 800007400</telefon>
+		<email>info@goldherz-pflegeteam.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>ProfiCare Pflegedienst GmbH &amp; Co.KG</name>
+		<strasse_hnr>Am Knick 28 </strasse_hnr>
+		<plz>22113</plz>
+		<ort>Oststeinbek</ort>
+		<telefon>040 604294800</telefon>
+		<email>khaliqi@pflegedienstproficare.de</email>
+		<web>https://pflegedienstproficare.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegewerk eGbR Standort Osdorf</name>
+		<strasse_hnr>Hauptstr. 1a </strasse_hnr>
+		<plz>24251</plz>
+		<ort>Osdorf</ort>
+		<telefon>04346 6002373</telefon>
+		<email>info@pflegewerk-sh.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>NordWerk Pflege und Personalservice GmbH</name>
+		<strasse_hnr>Großendorfer Str. 32B </strasse_hnr>
+		<plz>25355</plz>
+		<ort>Barmstedt</ort>
+		<telefon>04123 9365342</telefon>
+		<email>verwaltung@nordwerk-pflege.de</email>
+		<web>https://nordwerk-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Leevke Kranken- und Intensivpflege GmbH</name>
+		<strasse_hnr>Auguststraße 2a </strasse_hnr>
+		<plz>23611</plz>
+		<ort>Bad Schwartau</ort>
+		<telefon>0451 87923950</telefon>
+		<email>info@leevke-intensivpflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>SentioCare GmbH</name>
+		<strasse_hnr>Sandkamp 22 </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 81983250</telefon>
+		<email>info@sentiocare.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HanseCare Pflegedienst</name>
+		<strasse_hnr>Rapsacker 12 </strasse_hnr>
+		<plz>23556</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 92999636</telefon>
+		<email>kontakt@hansecare.info</email>
+		<web>https://www.hansecare.info</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Alfeta Maria Onishko</name>
+		<strasse_hnr>Brückenstr. 11 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 9565156</telefon>
+		<email>Info@alfeta.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Vital Pro Care</name>
+		<strasse_hnr>Osterbrooksweg 35-41 </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<telefon>040 60446732</telefon>
+		<email>info@vitalprocare.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Asta Med Nord GmbH &amp; Co. KG</name>
+		<strasse_hnr>Fabersweg 3 </strasse_hnr>
+		<plz>22848</plz>
+		<ort>Norderstedt</ort>
+		<telefon>04101 8189434</telefon>
+		<email>info@astamed.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ingrid Betreuung &amp; Pflege GmbH</name>
+		<strasse_hnr>Friesische Str. 54 </strasse_hnr>
+		<plz>24937</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 40681580</telefon>
+		<email>flensburg-schleswig@homeinstead.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Balance UG</name>
+		<strasse_hnr>Lise-Meitner-Str. 2 </strasse_hnr>
+		<plz>24941</plz>
+		<ort>Flensburg</ort>
+		<telefon>0461 9027485</telefon>
+		<email>pflegedienst.balance@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegedienst Eidertal</name>
+		<strasse_hnr>Freeweid 6 </strasse_hnr>
+		<plz>24220</plz>
+		<ort>Flintbek</ort>
+		<telefon>0175 1467673</telefon>
+		<email>nicole.behrsing@pflegedienst-eidertal.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>ITAmed Pflegedienst GmbH</name>
+		<strasse_hnr>Skandinaviendamm 360 </strasse_hnr>
+		<plz>24109</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 23719863</telefon>
+		<email>info@itamed-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Servitum GmbH &amp; Co. KG</name>
+		<strasse_hnr>Möllner Landstr. 41 </strasse_hnr>
+		<plz>22113</plz>
+		<ort>Oststeinbek</ort>
+		<telefon>040 30603282</telefon>
+		<email>habedebe@hotmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>K&amp;A Ambulante Pflegedienst GmbH</name>
+		<strasse_hnr>Lauenburger Landstr. 32 </strasse_hnr>
+		<plz>21039</plz>
+		<ort>Börnsen</ort>
+		<telefon>040 18008873</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Nordturm Pflegeteam</name>
+		<strasse_hnr>Rathausstr. 34 </strasse_hnr>
+		<plz>21502</plz>
+		<ort>Geesthacht</ort>
+	</einrichtung>
+	<einrichtung>
+		<name>Kinova Care</name>
+		<strasse_hnr>Seestraße 252 </strasse_hnr>
+		<plz>25469</plz>
+		<ort>Halstenbek</ort>
+		<telefon>040 524792750</telefon>
+		<email>sana.pflege@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Das Pflegeteam Ostseeküste</name>
+		<strasse_hnr>Eutiner Str. 25a </strasse_hnr>
+		<plz>23689</plz>
+		<ort>Ratekau</ort>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Wedel GmbH</name>
+		<strasse_hnr>Bahnhofstraße 38/40 </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 8066070</telefon>
+		<email>wedel@hsp-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Groß und Klein GuK Außerklinische Intensivpflege</name>
+		<strasse_hnr>Schusterhof 9 </strasse_hnr>
+		<plz>23617</plz>
+		<ort>Stockelsdorf</ort>
+		<telefon>0172 4583100</telefon>
+		<email>Guk-intensivpflege@gmx.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Familien-und Seniorenbetreuung Lübeck GmbH</name>
+		<strasse_hnr>Moislinger Allee 56 </strasse_hnr>
+		<plz>23558</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 20271900</telefon>
+		<email>luebeck@homeinstead.de</email>
+		<web>https://www.homeinstead.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Ostenfeld Patrick Stüber</name>
+		<strasse_hnr>Winnerter Str. 7 </strasse_hnr>
+		<plz>25872</plz>
+		<ort>Ostenfeld</ort>
+		<telefon>04845 9259010</telefon>
+		<email>info@pflegedienst-ostenfeld.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Sonjas Pflegeteam</name>
+		<strasse_hnr>Hof Ratzbek 1 </strasse_hnr>
+		<plz>23858</plz>
+		<ort>Wesenberg</ort>
+		<telefon>04533 78547700</telefon>
+		<email>kontakt@sonjas-pflegeteam.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Dein Pflegepartner Techau</name>
+		<strasse_hnr>Am Brink 17 </strasse_hnr>
+		<plz>23689</plz>
+		<ort>Techau</ort>
+		<telefon>04504 29140230</telefon>
+		<email>info@dein-pflegeparnter.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Diakonie Altholstein Bad Bramstedt</name>
+		<strasse_hnr>Bleeck 23 </strasse_hnr>
+		<plz>24576</plz>
+		<ort>Bad Bramstedt</ort>
+		<telefon>04192 9064582</telefon>
+		<email>pflege-badbramstedt@diakonie-altholstein.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Herz Mobil Pflege GmbH &amp; Co. KG</name>
+		<strasse_hnr>Am Casinopark 15 </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Wentorf</ort>
+		<telefon>040 524757110</telefon>
+		<email>info@herz-mobil-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege von A bis Z GmbH</name>
+		<strasse_hnr>Holstenplatz 6 </strasse_hnr>
+		<plz>22869</plz>
+		<ort>Schenefeld</ort>
+		<telefon>040 20201950</telefon>
+		<email>info@pflege-az.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HanseVita Pflegezentrum GmbH</name>
+		<strasse_hnr>Hindenburgstr. 10 </strasse_hnr>
+		<plz>23843</plz>
+		<ort>Bad Oldesloe</ort>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulante Pflege Tobias-Haus</name>
+		<strasse_hnr>Am Hagen 6 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 806400</telefon>
+		<email>ambulant@tobias-haus.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Caritas Sozialstation Norderstedt</name>
+		<strasse_hnr>Oststraße 86 </strasse_hnr>
+		<plz>22844</plz>
+		<ort>Norderstedt</ort>
+		<telefon>0175 6469329</telefon>
+		<email>sst-norderstedt@caritas-im-norden.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>AWO-Pflegedienste Mittelholstein</name>
+		<strasse_hnr>Schillerstr. 11 </strasse_hnr>
+		<plz>24536</plz>
+		<ort>Neumünster</ort>
+		<telefon>04347 7134212</telefon>
+		<email>magret.inhuelsen@awo-sh.de</email>
+		<web>http://www.awo-pflege-sh.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Reinfeld GmbH</name>
+		<strasse_hnr>Bahnhofstr. 1 </strasse_hnr>
+		<plz>23858</plz>
+		<ort>Reinfeld</ort>
+		<telefon>04533 61152</telefon>
+		<email>kleemann@pflege-reinfeld.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege mal Anders</name>
+		<strasse_hnr>Ulzburger Straße 228 </strasse_hnr>
+		<plz>22850</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 34862161</telefon>
+		<email>kleemann@pflege-reinfeld.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Aktiv Pflege Eckernförde GmbH</name>
+		<strasse_hnr>Rendsburger Str. 43 </strasse_hnr>
+		<plz>24340</plz>
+		<ort>Eckernförde</ort>
+		<telefon>04351 767710</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>aiutanda OPTIMEDIC GmbH</name>
+		<strasse_hnr>Harksheider Weg 115b </strasse_hnr>
+		<plz>25451</plz>
+		<ort>Quickborn</ort>
+		<telefon>04106 773344</telefon>
+		<email>pflege@optimedic.de</email>
+		<web>http://www.optimedic.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Oststeinbek GmbH</name>
+		<strasse_hnr>Dorfstraße 26 </strasse_hnr>
+		<plz>22113</plz>
+		<ort>Oststeinbek</ort>
+		<telefon>040 64831352</telefon>
+		<email>heidi.friedrich@live.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Christin Heinz</name>
+		<strasse_hnr>Kaiserstraße 10 </strasse_hnr>
+		<plz>25557</plz>
+		<ort>Hanerau-Hademarschen</ort>
+		<telefon>04872 9699670</telefon>
+		<email>ambulanterpflegedienst-chr.heinz@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Dela Cura GmbH</name>
+		<strasse_hnr>Preetzer Chaussee 130 </strasse_hnr>
+		<plz>24146</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 97999430</telefon>
+		<email>info@Betreuung-Pflege-Kiel.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>ASK Büchen GmbH</name>
+		<strasse_hnr>Lauenburger Str. 26 </strasse_hnr>
+		<plz>21514</plz>
+		<ort>Büchen</ort>
+		<telefon>04155 8233870</telefon>
+		<email>info@ask-Buechen.de</email>
+		<web>https://www.ask-buechen.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Aktiv leben - Aktiv pflegen</name>
+		<strasse_hnr>Heinrich-Hertz-Str. 18-32a </strasse_hnr>
+		<plz>25336</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 9079506</telefon>
+		<email>aktivleben-aktivpflegen@web.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Amoura Pflegedienst GmbH &amp; Co.KG</name>
+		<strasse_hnr>Dorfstr. 34 </strasse_hnr>
+		<plz>22113</plz>
+		<ort>Oststeinbek</ort>
+		<telefon>0176 66895441</telefon>
+		<email>amoura.pflegedienst@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Breiholzer Hof GmbH</name>
+		<strasse_hnr>Meckelmoor 2 </strasse_hnr>
+		<plz>24797</plz>
+		<ort>Breiholz</ort>
+		<telefon>04875 277</telefon>
+		<email>info@breiholzer.hof.de</email>
+		<web>http://www.breiholzer-hof.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>SOS Familien- u. Seniorendienst</name>
+		<strasse_hnr>Burdiekstraße 7D </strasse_hnr>
+		<plz>25335</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 75927</telefon>
+		<email>SOSelmshorn@aol.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>PflegeDoc</name>
+		<strasse_hnr>Fasanenweg 23 </strasse_hnr>
+		<plz>22964</plz>
+		<ort>Steinburg</ort>
+		<telefon>04534 204003</telefon>
+		<email>info@pflegedoc.de</email>
+		<web>http://www.pflegedoc.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Bad Segeberg</name>
+		<strasse_hnr>Kaiser-Lothar-Allee 21b </strasse_hnr>
+		<plz>23795</plz>
+		<ort>Bad Segeberg</ort>
+		<telefon>04551 5393299</telefon>
+		<email>info@trave-pflege.de</email>
+		<web>http://www.trave-pflege.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Strandhaus Pflege</name>
+		<strasse_hnr>Knüll 3 </strasse_hnr>
+		<plz>24217</plz>
+		<ort>Schönberg</ort>
+		<telefon>04344 819040</telefon>
+		<email>lilienthal.patrick@strandhaus-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Bonafide Pflegeteam GmbH</name>
+		<strasse_hnr>Bergstraße 3 </strasse_hnr>
+		<plz>25462</plz>
+		<ort>Rellingen</ort>
+		<telefon>04101 5155511</telefon>
+		<email>so@bonafide-homecare.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HDU Hilfswerk der Deutschen Unitarier</name>
+		<strasse_hnr>Beselerallee 40 </strasse_hnr>
+		<plz>24105</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 8868414</telefon>
+		<email>info@hdu-kiel.de</email>
+		<web>http://www.hdu-kiel.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Mölln Gabriele Böhlke</name>
+		<strasse_hnr>Wasserkrüger Weg 96 </strasse_hnr>
+		<plz>23879</plz>
+		<ort>Mölln</ort>
+		<telefon>04542 88298</telefon>
+		<email>Gaboehlke@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Mobiler Pflegeservice Kiel GmbH &amp; Co. KG</name>
+		<strasse_hnr>Annenstr. 9 </strasse_hnr>
+		<plz>24105</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 92221</telefon>
+		<email>m.hartmann@mobiler-pflegeservice.de</email>
+		<web>https://www.mobiler-pflegeservice.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulantes Pflegeteam Federleicht</name>
+		<strasse_hnr>Pohnsdorfer Str. 5 </strasse_hnr>
+		<plz>23611</plz>
+		<ort>Bad Schwartau</ort>
+		<telefon>0451 60720090</telefon>
+		<email>info@pflegeteamfederleicht.de</email>
+		<web>http://www.pflegeteamfederleicht.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Eller-Elmsch GmbH &amp; Co.KG</name>
+		<strasse_hnr>Ellerbeker Weg 112 </strasse_hnr>
+		<plz>24147</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 55603770</telefon>
+		<email>info@eller-elmsch.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>die Stadthelfer GmbH</name>
+		<strasse_hnr>Memellandstr. 14 </strasse_hnr>
+		<plz>24537</plz>
+		<ort>Neumünster</ort>
+		<telefon>04321 3340737</telefon>
+		<email>neumuenster@diestadthelfer.de</email>
+		<web>https://www.diestadthelfer.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Diakonie Sozialstation Büchen-Lauenburg</name>
+		<strasse_hnr>Kirchenstraße 17 </strasse_hnr>
+		<plz>21514</plz>
+		<ort>Büchen</ort>
+		<telefon>04155 8288940</telefon>
+		<email>sozialstation.buechen@diakonie-nordnordost.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Humano Care GmbH</name>
+		<strasse_hnr>Gärtnerstr. 16a </strasse_hnr>
+		<plz>22880</plz>
+		<ort>Wedel</ort>
+		<telefon>04103 188880</telefon>
+		<email>d.lobenstein@hu-vc.de</email>
+		<web>https://www.humano-viacare.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Honestus Care - Intensivpflege GmbH</name>
+		<strasse_hnr>Tornescher Weg 105a </strasse_hnr>
+		<plz>25436</plz>
+		<ort>Uetersen</ort>
+		<telefon>0174 9167008</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>Helios Pflegedienst UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Pinnaudamm 2 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>0176 44681650</telefon>
+		<email>info@helios-nord.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>HSP Pflegedienst Itzehoe GmbH</name>
+		<strasse_hnr>Brunnenstieg 10 </strasse_hnr>
+		<plz>25524</plz>
+		<ort>Itzehoe</ort>
+		<telefon>04821 1491050</telefon>
+		<email>itzehoe@hsp-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>SanitasPlus Care GmbH  Niederlassung Kiel</name>
+		<strasse_hnr>Ivensring 31-33 </strasse_hnr>
+		<plz>24149</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 725178</telefon>
+		<email>info@sanitasplus.care.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Ambulanter Pflegedienst Martin Hecht</name>
+		<strasse_hnr>Ulzburger Str. 3 </strasse_hnr>
+		<plz>22850</plz>
+		<ort>Norderstedt</ort>
+		<telefon>040 53320566</telefon>
+		<email>mhecht-norderstedt@t-online.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>bipG mbH Schleswig-Holstein</name>
+		<strasse_hnr>Berliner Str. 1-5 </strasse_hnr>
+		<plz>21493</plz>
+		<ort>Schwarzenbek</ort>
+		<telefon>0511 2287760</telefon>
+		<email>info@bipg.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>MiVital Ambulanter Pflegedienst GmbH</name>
+		<strasse_hnr>Ostpreußenring 13 </strasse_hnr>
+		<plz>23569</plz>
+		<ort>Lübeck</ort>
+		<telefon>0451 60722247</telefon>
+		<email>info@mivital-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Aurea Intensivpflege GmbH</name>
+		<strasse_hnr>Krausstr. 17 </strasse_hnr>
+		<plz>24118</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 80019852</telefon>
+		<email>info@aurea-intensivpflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Honey-Care Ambulanter Pflegedienst GmbH</name>
+		<strasse_hnr>Haßberg 19 </strasse_hnr>
+		<plz>24113</plz>
+		<ort>Kiel</ort>
+		<telefon>0431 79944778</telefon>
+		<email>honeycaresh@gmail.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Hansa Pflegebetreuung GmbH</name>
+		<strasse_hnr>Bahnhofstr. 7c </strasse_hnr>
+		<plz>21465</plz>
+		<ort>Reinbek</ort>
+		<telefon>040 73601861</telefon>
+		<email>info@hansa-pflegebetreuung.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Vimoria GmbH</name>
+		<strasse_hnr>Zu den Ziegelwiesen 7 </strasse_hnr>
+		<plz>23881</plz>
+		<ort>Alt Mölln</ort>
+		<telefon>04101 5863736</telefon>
+		<email>moin@moyocare.care</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Vimoria GmbH</name>
+		<strasse_hnr>Waldstr. 5 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>04101 5863736</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>TrioCare medical Pflegedienst</name>
+		<strasse_hnr>Große Straße 11 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 4694362</telefon>
+	</einrichtung>
+	<einrichtung>
+		<name>RoSel Pflegeservice GmbH</name>
+		<strasse_hnr>An der alten Schule 8b </strasse_hnr>
+		<plz>22885</plz>
+		<ort>Barsbüttel</ort>
+		<telefon>040 25482022</telefon>
+		<email>info@rosel-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflegeteam Sozialring GmbH</name>
+		<strasse_hnr>Markt 10 </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 64636411</telefon>
+		<email>info@sozialring.com</email>
+	</einrichtung>
+	<einrichtung>
+		<name>CareVista</name>
+		<strasse_hnr>Esinger Str. 3 </strasse_hnr>
+		<plz>25436</plz>
+		<ort>Tornesch</ort>
+		<telefon>01511 4063868</telefon>
+		<email>info@carevista-pflege.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Incara Pflegedienst GmbH</name>
+		<strasse_hnr>Kurt-Fischer-Str. 23 </strasse_hnr>
+		<plz>22926</plz>
+		<ort>Ahrensburg</ort>
+		<telefon>04102 7798678</telefon>
+		<email>info@incare-pflegedienst.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>GM tohuus</name>
+		<strasse_hnr>Daimlerstraße 10 </strasse_hnr>
+		<plz>25337</plz>
+		<ort>Elmshorn</ort>
+		<telefon>04121 649950</telefon>
+		<email>info@gm-tohuus.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>AID24Care GmbH</name>
+		<strasse_hnr>Friedrich-Ebert-Straße 41 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>0176 62601663</telefon>
+		<email>aid24care@hotmail.com</email>
+		<web>https://aid24care.de</web>
+	</einrichtung>
+	<einrichtung>
+		<name>Pflege Heros GmbH</name>
+		<strasse_hnr>Biedenkamp 3a </strasse_hnr>
+		<plz>21509</plz>
+		<ort>Glinde</ort>
+		<telefon>040 51304303</telefon>
+		<email>info@pflege-heros.de</email>
+	</einrichtung>
+	<einrichtung>
+		<name>Koryphäe ambulanter Pflegedienst UG (haftungsbeschränkt)</name>
+		<strasse_hnr>Damm 21 </strasse_hnr>
+		<plz>25421</plz>
+		<ort>Pinneberg</ort>
+		<telefon>0177 5536404</telefon>
+		<email>marina-feldmann@freenet.de</email>
+	</einrichtung>
+</ambulant>
