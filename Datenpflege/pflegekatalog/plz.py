@@ -50,11 +50,6 @@ def sauber(value: str | None) -> str:
     return re.sub(r"\s+", " ", text)
 
 
-def name_oder_nichts(value: str | None) -> str | None:
-    text = sauber(value)
-    return text or None
-
-
 def _kreis_name(raw: str) -> str:
     text = _KREIS_ALIAS.get(raw.strip(), raw.strip())
     for prefix in _KREIS_PREFIXE:
@@ -132,15 +127,6 @@ class Zuordnung:
     gemeinde: str | None
     breitengrad: float | None
     laengengrad: float | None
-
-    def als_dict(self) -> dict:
-        return {
-            "bundesland": self.bundesland,
-            "landkreis": self.landkreis,
-            "gemeinde": self.gemeinde,
-            "breitengrad": self.breitengrad,
-            "laengengrad": self.laengengrad,
-        }
 
 
 def _eine_koordinate(orte: list[PlzOrt]) -> tuple[float | None, float | None]:

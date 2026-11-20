@@ -1,41 +1,54 @@
-"""Liest die Pflege-Navigator-Exporte in die Datenbank.
+"""Wandelt die AOK-Pflege-Navigator-Exporte in eine CSV-Datei um.
 
 Aufgenommen werden nur Stammdaten. Preise und Verträge bleiben draußen.
 Ambulante Dateien werden ambulante Dienste. Stationär wird so aufgeteilt:
 Vollstationär und Kurzzeitpflege ergeben ein Pflegeheim, Tagespflege einen
 eigenen Datensatz. Kommen beide vor, entstehen zwei Zeilen. Nachtpflege und
-Pflegestützpunkte stehen nicht im Export und werden nur von Hand angelegt.
+Pflegestützpunkte stehen nicht in der Beispielquelle.
 """
 
 from __future__ import annotations
 
+import csv
+import re
 import time
 import xml.etree.ElementTree as ET
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
 
-from pflegekatalog.db import (
-    Hierarchie,
-    bekannte_schluessel,
-    datenbank_anlegen,
-    einrichtung_schreiben,
-    verbinden,
-)
-from pflegekatalog.pfade import EXPORT_ROOT
+from pflegekatalog.konstanten import TYP_NAMEN
+from pflegekatalog.pfade import AUSGABE_DATEI, DATEN_ROOT
 from pflegekatalog.plz import PlzIndex, sauber, schluessel
 
 ADRESSFELDER = ("name", "strasse_hnr", "plz", "ort", "telefon", "email", "web")
+SPALTEN = (
+    "Art",
+    "Name",
+    "Straße",
+    "Hausnummer",
+    "PLZ",
+    "Stadt",
+    "Bundesland",
+    "Landkreis",
+    "Gemeinde",
+    "Telefon",
+    "E-Mail",
+    "Internetseite",
+    "Breitengrad",
+    "Laengengrad",
+    "Quelle",
+)
 
 
 @dataclass
-class ImportBericht:
+class Bericht:
     dateien: int = 0
     neu: int = 0
     aktualisiert: int = 0
     ohne_name: int = 0
     bundesland_abweichung: int = 0
     sekunden: float = 0
-    je_datei: list[str] = field(default_factory=list)
+    ausgabe: Path = AUSGABE_DATEI
 
 
 def typen_aus_pflegearten(arten: set[str]) -> list[str]:
@@ -78,87 +91,111 @@ def einrichtungen_lesen(pfad: Path):
         stack.pop()
 
 
-def importieren(bericht: ImportBericht | None = None) -> ImportBericht:
+_STRASSENENDE = re.compile(
+    r"(straße|strasse|str\.|weg|platz|gasse|allee|ring|damm|chaussee|ufer|pfad|stieg|graben|markt|zeile|anger|deich|wall|brücke|bruecke|twiete|gang|steig)$",
+    re.IGNORECASE,
+)
+
+
+def teile_anschrift(roh: str) -> tuple[str, str]:
+    """Trennt den Straßenamen von der Hausnummer. Ortsnamen bleiben nicht in der Straßenspalte."""
+    text = sauber(roh)
+    text = re.sub(r"\s+\.", ".", text)
+    text = re.sub(r"\.(?=\d)", ". ", text)
+    stelle = re.search(r"\d", text)
+    if stelle is None:
+        if _STRASSENENDE.search(text):
+            return text, ""
+        return "", ""
+    strasse = text[: stelle.start()].strip(" ,")
+    nummer = text[stelle.start() :].strip()
+    if not strasse:
+        return "", nummer
+    return strasse, nummer
+
+
+def _koordinate(wert: float | None) -> str:
+    if wert is None:
+        return ""
+    return f"{wert:.6f}".rstrip("0").rstrip(".")
+
+
+def umwandeln(ausgabe: Path | None = None) -> Bericht:
     start = time.perf_counter()
-    bericht = bericht or ImportBericht()
+    if not DATEN_ROOT.is_dir():
+        raise FileNotFoundError(f"Dateneingang fehlt: {DATEN_ROOT}")
+    ziel = ausgabe or AUSGABE_DATEI
+    bericht = Bericht(ausgabe=ziel)
     index = PlzIndex.laden()
-    conn = verbinden()
-    try:
-        datenbank_anlegen(conn)
-        conn.execute("PRAGMA journal_mode = WAL")
-        conn.execute("PRAGMA synchronous = NORMAL")
-        hierarchie = Hierarchie(conn)
-        bekannt = bekannte_schluessel(conn)
-        for verzeichnis, art_fest in (("ambulant", "ambulant"), ("stationaer", None)):
-            ordner = EXPORT_ROOT / verzeichnis
-            for pfad in sorted(ordner.glob("*.xml")):
-                bericht.dateien += 1
-                neu = aktualisiert = 0
-                with conn:
-                    for roh in einrichtungen_lesen(pfad):
-                        name = roh.get("name", "")
-                        if not name:
-                            bericht.ohne_name += 1
-                            continue
-                        plz = "".join(zeichen for zeichen in roh.get("plz", "") if zeichen.isdigit())[:5]
-                        ort = roh.get("ort", "")
-                        strasse = roh.get("strasse_hnr", "")
-                        zuordnung = index.resolve(plz, ort)
-                        bundesland = pfad.stem
-                        if zuordnung.bundesland and zuordnung.bundesland != bundesland:
-                            bericht.bundesland_abweichung += 1
-                            landkreis = gemeinde = None
-                            breite = laenge = None
-                            herkunft = None
-                        else:
-                            landkreis = zuordnung.landkreis
-                            gemeinde = zuordnung.gemeinde
-                            breite = zuordnung.breitengrad
-                            laenge = zuordnung.laengengrad
-                            herkunft = "plz" if breite is not None and laenge is not None else None
-                        orte = hierarchie.sicherstellen(bundesland, landkreis, ort or gemeinde, gemeinde)
-                        typen = [art_fest] if art_fest else typen_aus_pflegearten(roh["pflegearten"])
-                        for typ in typen:
-                            ident = (typ, plz, schluessel(name), schluessel(strasse))
-                            if ident in bekannt:
-                                aktualisiert += 1
-                            else:
-                                neu += 1
-                                bekannt.add(ident)
-                            einrichtung_schreiben(
-                                conn,
-                                typ=typ,
-                                name=name,
-                                strasse=strasse,
-                                plz=plz,
-                                orte=orte,
-                                telefon=roh.get("telefon", ""),
-                                email=roh.get("email", ""),
-                                web=roh.get("web", ""),
-                                breitengrad=breite,
-                                laengengrad=laenge,
-                                koordinaten_herkunft=herkunft,
-                                quelle=f"{verzeichnis}/{pfad.name}",
-                            )
-                bericht.neu += neu
-                bericht.aktualisiert += aktualisiert
-                zeile = f"{verzeichnis}/{pfad.name}: {neu} neu, {aktualisiert} aktualisiert"
-                bericht.je_datei.append(zeile)
-                print(zeile)
-        bericht.sekunden = time.perf_counter() - start
-        return bericht
-    finally:
-        conn.close()
+    datensaetze: dict[tuple[str, str, str, str], dict[str, str]] = {}
 
+    for verzeichnis, art_fest in (("ambulant", "ambulant"), ("stationaer", None)):
+        ordner = DATEN_ROOT / verzeichnis
+        if not ordner.is_dir():
+            continue
+        for pfad in sorted(ordner.glob("*.xml")):
+            bericht.dateien += 1
+            neu_in_datei = aktualisiert_in_datei = 0
+            for roh in einrichtungen_lesen(pfad):
+                name = roh.get("name", "")
+                if not name:
+                    bericht.ohne_name += 1
+                    continue
+                plz = "".join(zeichen for zeichen in roh.get("plz", "") if zeichen.isdigit())[:5]
+                ort = roh.get("ort", "")
+                strasse = roh.get("strasse_hnr", "")
+                zuordnung = index.resolve(plz, ort)
+                bundesland = pfad.stem
+                if zuordnung.bundesland and zuordnung.bundesland != bundesland:
+                    bericht.bundesland_abweichung += 1
+                    landkreis = gemeinde = ""
+                    breite = laenge = None
+                else:
+                    landkreis = zuordnung.landkreis or ""
+                    gemeinde = zuordnung.gemeinde or ""
+                    breite = zuordnung.breitengrad
+                    laenge = zuordnung.laengengrad
+                stadt = ort or gemeinde
+                strassenname, hausnummer = teile_anschrift(strasse)
+                typen = [art_fest] if art_fest else typen_aus_pflegearten(roh["pflegearten"])
+                for typ in typen:
+                    ident = (typ, plz, schluessel(name), schluessel(strasse))
+                    if ident in datensaetze:
+                        aktualisiert_in_datei += 1
+                    else:
+                        neu_in_datei += 1
+                    datensaetze[ident] = {
+                        "Art": TYP_NAMEN[typ],
+                        "Name": name,
+                        "Straße": strassenname,
+                        "Hausnummer": hausnummer,
+                        "PLZ": plz,
+                        "Stadt": stadt,
+                        "Bundesland": bundesland,
+                        "Landkreis": landkreis,
+                        "Gemeinde": gemeinde,
+                        "Telefon": roh.get("telefon", ""),
+                        "E-Mail": roh.get("email", ""),
+                        "Internetseite": roh.get("web", ""),
+                        "Breitengrad": _koordinate(breite),
+                        "Laengengrad": _koordinate(laenge),
+                        "Quelle": f"{verzeichnis}/{pfad.name}",
+                    }
+            bericht.aktualisiert += aktualisiert_in_datei
+            print(
+                f"{verzeichnis}/{pfad.name}: {neu_in_datei} neu, {aktualisiert_in_datei} aktualisiert"
+            )
 
-def main() -> None:
-    bericht = importieren()
-    print(
-        f"Fertig: {bericht.neu} neu, {bericht.aktualisiert} aktualisiert, "
-        f"{bericht.ohne_name} ohne Namen, {bericht.dateien} Dateien, "
-        f"{bericht.sekunden:.1f} s, Bundesland wich ab: {bericht.bundesland_abweichung}"
-    )
-
-
-if __name__ == "__main__":
-    main()
+    ziel.parent.mkdir(parents=True, exist_ok=True)
+    with ziel.open("w", encoding="utf-8-sig", newline="") as datei:
+        writer = csv.DictWriter(datei, fieldnames=SPALTEN, delimiter=";", lineterminator="\n")
+        writer.writeheader()
+        for datensatz in sorted(
+            datensaetze.values(),
+            key=lambda zeile: (zeile["Name"].casefold(), zeile["PLZ"], zeile["Art"]),
+        ):
+            writer.writerow(datensatz)
+    bericht.sekunden = time.perf_counter() - start
+    bericht.ausgabe = ziel
+    bericht.neu = len(datensaetze)
+    return bericht

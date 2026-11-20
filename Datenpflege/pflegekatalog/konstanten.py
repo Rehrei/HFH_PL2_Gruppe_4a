@@ -1,24 +1,4 @@
-BUNDESLAENDER = (
-    "Baden-Württemberg",
-    "Bayern",
-    "Berlin",
-    "Brandenburg",
-    "Bremen",
-    "Hamburg",
-    "Hessen",
-    "Mecklenburg-Vorpommern",
-    "Niedersachsen",
-    "Nordrhein-Westfalen",
-    "Rheinland-Pfalz",
-    "Saarland",
-    "Sachsen",
-    "Sachsen-Anhalt",
-    "Schleswig-Holstein",
-    "Thüringen",
-)
-
 TYPEN = (
-    ("pflegestuetzpunkt", "Pflegestützpunkt"),
     ("ambulant", "Ambulanter Pflegedienst"),
     ("tagespflege", "Tagespflege"),
     ("nachtpflege", "Nachtpflege"),
