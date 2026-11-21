@@ -1,1 +1,0 @@
-python run.py einlesen //startet den Import/Export

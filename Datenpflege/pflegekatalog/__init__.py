@@ -1,1 +1,1 @@
-"""Wandelt AOK-Pflegeexporte in eine CSV-Datei um."""
+"""Liest AOK-Pflegeexporte in die Datenbank pflege_db ein."""
