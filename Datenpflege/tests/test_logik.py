@@ -2,6 +2,9 @@
 
 from __future__ import annotations
 
+import contextlib
+import io
+import os
 import tempfile
 import unittest
 from decimal import Decimal
@@ -143,6 +146,18 @@ class ConfigTest(unittest.TestCase):
             leer.write_text("", encoding="utf-8")
             with self.assertRaises(config.KonfigurationsFehler):
                 config.laden({"PFLEGE_ENV": str(leer)})
+
+    @unittest.skipUnless(os.name == "posix", "Dateirechte nur unter Linux")
+    def test_warnung_bei_offenen_dateirechten(self):
+        with tempfile.TemporaryDirectory() as ordner:
+            datei = Path(ordner) / "x.env"
+            datei.write_text("DB_USER=hans\n", encoding="utf-8")
+            for modus, warnung in ((0o644, True), (0o600, False)):
+                datei.chmod(modus)
+                fehlerausgabe = io.StringIO()
+                with contextlib.redirect_stderr(fehlerausgabe):
+                    config.laden({"PFLEGE_ENV": str(datei)})
+                self.assertEqual("chmod 600" in fehlerausgabe.getvalue(), warnung, oct(modus))
 
     def test_fehlende_env_datei(self):
         with self.assertRaises(config.KonfigurationsFehler):

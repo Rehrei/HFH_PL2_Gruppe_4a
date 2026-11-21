@@ -9,10 +9,12 @@ lässt sich mit PFLEGE_ENV angeben. Zugangsdaten stehen nie im Code.
 from __future__ import annotations
 
 import os
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 
 from pflegekatalog.pfade import ENV_DATEI
+
 
 class KonfigurationsFehler(Exception):
     pass
@@ -46,11 +48,23 @@ def _env_datei_lesen(pfad: Path) -> dict[str, str]:
     return werte
 
 
+def _rechte_pruefen(pfad: Path) -> None:
+    """Warnt unter Linux, wenn andere Benutzer die Datei mit dem Datenbankpasswort lesen können."""
+    if os.name != "posix" or not pfad.is_file():
+        return
+    if pfad.stat().st_mode & 0o077:
+        print(
+            f"Warnung: {pfad} ist für andere Benutzer zugänglich. Bitte 'chmod 600 {pfad}' ausführen.",
+            file=sys.stderr,
+        )
+
+
 def laden(umgebung: dict[str, str] | None = None) -> DbConfig:
     umgebung = os.environ if umgebung is None else umgebung
     datei = Path(umgebung["PFLEGE_ENV"]) if umgebung.get("PFLEGE_ENV") else ENV_DATEI
     if umgebung.get("PFLEGE_ENV") and not datei.is_file():
         raise KonfigurationsFehler(f"PFLEGE_ENV zeigt auf eine fehlende Datei: {datei}")
+    _rechte_pruefen(datei)
     werte = {**_env_datei_lesen(datei), **{k: v for k, v in umgebung.items() if k.startswith("DB_")}}
 
     benutzer = werte.get("DB_USER", "")

@@ -258,6 +258,16 @@ class DatenbankTest(unittest.TestCase):
         self.assertEqual(self.anzahl("22_pflegeeinrichtung"), 1)  # kein Duplikat
         self.assertEqual(self.telefon("Haus Sonne"), "0123 111")
 
+    def test_zweiter_import_gleichzeitig_wird_abgewiesen(self):
+        with pymysql.connect(**self.verbindung_args, database=self.name) as andere:
+            andere.cursor().execute("SELECT GET_LOCK(%s, 0)", (f"pflegekatalog_import:{self.name}",))
+            code, _, fehler = self.lauf(["einlesen", "-f"], eingang(haus()))
+        self.assertEqual(code, 1)
+        self.assertIn("läuft bereits", fehler)
+        self.assertEqual(self.anzahl("22_pflegeeinrichtung"), 0)
+        code, _, fehler = self.lauf(["einlesen", "-f"], eingang(haus()))  # Sperre ist wieder frei
+        self.assertEqual(code, 0, fehler)
+
     # --- Fehlerfall -------------------------------------------------------------
 
     def test_datenbankfehler_rollt_alles_zurueck(self):

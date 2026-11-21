@@ -47,6 +47,7 @@ def _einlesen(force: bool, care: bool) -> int:
     modus = Modus.IMPORT if force else Modus.LOKAL if care else Modus.FRAGEN
     config = laden()
     with Datenbank.verbinden(config) as datenbank:
+        datenbank.sperren(config.name)
         print(f"Modus: {modus.value}")
         einrichtungen, bericht = lese_dateneingang()
         typ_ids = datenbank.typ_ids()

@@ -114,6 +114,14 @@ class Datenbank:
         except pymysql.MySQLError as fehler:
             raise DatenbankFehler(_fehlertext(fehler)) from None
 
+    def sperren(self, datenbankname: str) -> None:
+        """Verhindert, dass zwei Importe gleichzeitig laufen (Datenbanksperre, endet mit der Verbindung)."""
+        zeilen = self._abfrage("SELECT GET_LOCK(%s, 0)", (f"pflegekatalog_import:{datenbankname}",))
+        if not zeilen or zeilen[0][0] != 1:
+            raise DatenbankFehler(
+                "Es läuft bereits ein anderer Import auf dieser Datenbank. Bitte warten und erneut starten."
+            )
+
     # --- Einrichtungen lesen ---------------------------------------------
 
     def typ_ids(self) -> dict[str, list[int]]:
