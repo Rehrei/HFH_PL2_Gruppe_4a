@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns="http://www.pflege-navigator.de/export-dritte/pflegedienst/v1"
+  targetNamespace="http://www.pflege-navigator.de/export-dritte/pflegedienst/v1"
+  elementFormDefault="qualified" attributeFormDefault="unqualified">
+  
+  <xs:annotation>
+    <xs:documentation>
+      XML-Schema zum Export an Dritte der Pflegedienstdaten
+    </xs:documentation>
+    <xs:appinfo>Version 1</xs:appinfo>
+  </xs:annotation>
+  
+  <!-- Wurzel-Element -->
+  <xs:element name="ambulant">
+    <xs:complexType>
+      <xs:sequence>
+      
+        <!-- Pflegedienst -->
+        <xs:element name="einrichtung" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              
+              <!-- Adressdaten -->
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="strasse_hnr" type="xs:string"/>
+              <xs:element name="plz" type="xs:string"/>
+              <xs:element name="ort" type="xs:string"/>
+              <xs:element name="telefon" type="xs:string" minOccurs="0"/>
+              <xs:element name="email" type="xs:string" minOccurs="0"/>
+              <xs:element name="web" type="xs:string" minOccurs="0"/>
+              
+              <!-- Vertrag -->
+              <xs:element name="vertrag" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                  
+                    <!-- Vertragsinfos -->
+                    <xs:element name="typ" type="xs:string"/>
+                          
+                    <!-- Gebührenposition -->
+                    <xs:element name="gpos" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                        
+                          <!-- Gebührenpositionsinfos -->
+                          <xs:element name="pflegegrad" type="xs:int" minOccurs="0"/>
+                          <xs:element name="gpostyp" type="xs:string"/>
+                          <xs:element name="lknr" type="xs:string" minOccurs="0"/>
+                          <xs:element name="bezeichnung" type="xs:string"/>
+                          <xs:element name="preis" type="xs:string"/>
+                          <xs:element name="qualifikation" type="xs:string"/>
+                          <xs:element name="leistungstyp" type="xs:string"/>
+                          <xs:element name="mehrmals" type="xs:string"/>
+                          
+                          <!-- Zeitvergütung -->
+                          <xs:sequence>
+                          
+                            <xs:annotation>
+                              <xs:documentation>
+                                Nur der wenn der Typ der Gebührenposition
+                                (gepostyp) "Zeitvergütung" ist oder der Leistungstyp
+                                mit "... alternativer Stundensatz" endet.
+                              </xs:documentation>
+                            </xs:annotation>
+                            
+                            <xs:element name="zeitbezug" type="xs:string" minOccurs="0"/>
+                            <xs:element name="zeittakt" type="xs:string" minOccurs="0"/>
+                            
+                          </xs:sequence>
+                          <!-- Ende Zeitvergütung -->
+                          
+                          <!-- Wegegebühr -->
+                          <xs:sequence>
+                          
+                            <xs:annotation>
+                              <xs:documentation>
+                                Nur der wenn der Leistungstyp der
+                                Gebührenposition (leistungstyp) "Wegegebühren"
+                                oder "Erhöhte Wegegebühren" ist.
+                              </xs:documentation>
+                            </xs:annotation>
+                            
+                            <xs:element name="wegegebuehrtyp" type="xs:string" minOccurs="0"/>
+                            <xs:element name="wegegebuehrabrechnungsart" type="xs:string" minOccurs="0"/>
+                            <xs:element name="wegegebuehrbezeichnung" type="xs:string" minOccurs="0"/>
+                            <xs:element name="wegegebuehrzeitraum" type="xs:string" minOccurs="0"/>
+                            
+                          </xs:sequence>
+                          <!-- Ende Wegegebühr -->
+                          
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <!-- Ende Gebührenposition -->
+                    
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <!-- Ende Vertrag -->
+              
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <!-- Ende Pflegedienst -->
+        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <!-- Ende Wurzel-Element -->
+  
+</xs:schema>
